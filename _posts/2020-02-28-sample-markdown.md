@@ -6,9 +6,20 @@ gh-repo: [your-github-repo](https://github.com/kaptandatasolutions)
 gh-badge: [star, fork, follow]
 tags: [data-science, medical-physics, software, solutions]
 comments: true
-mathjax: false  # Adjust if needed for mathematical equations
 author: Kayhan Kaptan
 ---
+{: .box-success}
+
+**Harnessing the Power of Data in Medical Physics:**
+
+Interested in learning how to create engaging and informative technical content?
+
+By leveraging data science, Kaptan Data Solutions is revolutionizing the field of medical physics. Our specialized software solutions empower healthcare professionals to make data-driven decisions and improve patient outcomes.
+
+We encourage you to explore the world of Data Science in Médical Physics ! Resources like [[this tutorial](https://www.assistant-physicien.fr/)] serves as a demonstration site for some of the tools available on assistant-physicien.fr. Dive in and discover how data science can empower you to improve patient care and optimize workflows in your practice.
+
+**Let's dive into Kaptan Data Solutions!**
+
 
 ## Kaptan Data Solutions: A New Era in Medical Physics
 
