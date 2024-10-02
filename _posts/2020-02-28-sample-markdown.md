@@ -60,6 +60,6 @@ kaptandatasolutions@gmail.com
 **[[Link to GitHub repository]](https://github.com/kaptandatasolutions)** 
 
 
-![gif](/assets/img/Présentation gustav.gif)
+![gif](/assets/img/crepe.jpg)
 
 
