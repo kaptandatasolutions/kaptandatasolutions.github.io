@@ -10,17 +10,6 @@ author: Kayhan Kaptan
 ---
 {: .box-success}
 
-**Harnessing the Power of Data in Medical Physics:**
-
-Interested in learning how to create engaging and informative technical content?
-
-By leveraging data science, Kaptan Data Solutions is revolutionizing the field of medical physics. Our specialized software solutions empower healthcare professionals to make data-driven decisions and improve patient outcomes.
-
-We encourage you to explore the world of Data Science in Médical Physics ! [[Assistant-Physicien.fr](https://www.assistant-physicien.fr/)] serves as a demonstration site for some of the tools available on assistant-physicien.fr. Dive in and discover how data science can empower you to improve patient care and optimize workflows in your practice.
-
-**Let's dive into Kaptan Data Solutions!**
-
-
 ## Kaptan Data Solutions: A New Era in Medical Physics
 
 **"Data is the new oil. At Kaptan Data Solutions, we turn it into gold."**
@@ -29,7 +18,7 @@ We are on a mission to transform the way medical physicists work. By harnessing 
 
 ### Our Vision
 
-[[Image: A compass pointing towards a glowing data sphere]](https://www.assistant-physicien.fr/media/f33d95ee4684abb054d24c7a8f4a9e3aadd349fd4e769f37276aa762.gif)
+![gif](https://www.assistant-physicien.fr/media/f33d95ee4684abb054d24c7a8f4a9e3aadd349fd4e769f37276aa762.gif)
 
 Our vision is to create a world where medical physicists can focus on what they do best: saving lives. By providing them with the tools they need to analyze data effectively, we aim to:
 
@@ -69,3 +58,8 @@ Our development process is iterative and collaborative. We work closely with our
 kaptandatasolutions@gmail.com
 
 **[[Link to GitHub repository]](https://github.com/kaptandatasolutions)** 
+
+
+![gif](/assets/img/Présentation gustav.gif)
+
+
