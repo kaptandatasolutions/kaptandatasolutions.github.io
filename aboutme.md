@@ -30,6 +30,6 @@ While we recognize the challenges faced by medical physicists, we believe that o
 
 So, if you're ready to embark on a data-driven adventure, join us. Together, we can make a real difference in the world of medical physics.
 
-[Image of a sword, a graph, and a heart]
 
-**Contact us:** [kaptandatasolutions@gmail.com]
+
+**Contact us:** kaptandatasolutions@gmail.com
