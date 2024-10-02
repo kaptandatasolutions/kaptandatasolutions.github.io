@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [data-science, medical-physics, software, solutions]
 comments: true
 mathjax: false  # Adjust if needed for mathematical equations
-author: Your Name
+author: Kayhan Kaptan
 ---
 
 ## Kaptan Data Solutions: A New Era in Medical Physics
