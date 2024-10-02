@@ -16,7 +16,7 @@ Interested in learning how to create engaging and informative technical content?
 
 By leveraging data science, Kaptan Data Solutions is revolutionizing the field of medical physics. Our specialized software solutions empower healthcare professionals to make data-driven decisions and improve patient outcomes.
 
-We encourage you to explore the world of Data Science in Médical Physics ! Assistant-Physicien.fr [[this tutorial](https://www.assistant-physicien.fr/)] serves as a demonstration site for some of the tools available on assistant-physicien.fr. Dive in and discover how data science can empower you to improve patient care and optimize workflows in your practice.
+We encourage you to explore the world of Data Science in Médical Physics ! [[Assistant-Physicien.fr](https://www.assistant-physicien.fr/)] serves as a demonstration site for some of the tools available on assistant-physicien.fr. Dive in and discover how data science can empower you to improve patient care and optimize workflows in your practice.
 
 **Let's dive into Kaptan Data Solutions!**
 
