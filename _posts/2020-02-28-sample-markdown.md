@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Kaptan Data Solutions: Revolutionizing Medical Physics with Data
+title: Revolutionizing Medical Physics with Data
 subtitle: Empowering healthcare professionals with cutting-edge software solutions
-gh-repo: [your-github-repo](https://github.com/kaptandatasolutions)
-gh-badge: [star, fork, follow]
+cover-img: /assets/img/data_girl.jpg
+thumbnail-img: /assets/img/logo_kaptan_data.png
+share-img: /assets/img/data_girl.jpg
 tags: [data-science, medical-physics, software, solutions]
-comments: true
-author: Kayhan Kaptan
+author: Kayhan Kaptan 
 ---
-{: .box-success}
+
 
 ## Kaptan Data Solutions: A New Era in Medical Physics
 
