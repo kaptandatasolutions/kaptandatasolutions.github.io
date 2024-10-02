@@ -19,7 +19,7 @@ We are on a mission to transform the way medical physicists work. By harnessing 
 ### Our Vision
 
 [Image: A compass pointing towards a glowing data sphere]
-(https://www.assistant-physicien.fr/media/f33d95ee4684abb054d24c7a8f4a9e3aadd349fd4e769f37276aa762.gif)
+![diagram1](https://www.assistant-physicien.fr/media/f33d95ee4684abb054d24c7a8f4a9e3aadd349fd4e769f37276aa762.gif)
 
 Our vision is to create a world where medical physicists can focus on what they do best: saving lives. By providing them with the tools they need to analyze data effectively, we aim to:
 
@@ -31,7 +31,7 @@ Our vision is to create a world where medical physicists can focus on what they 
 
 [Image: A simplified diagram of the data flow and analysis process]
 
-https://www.assistant-physicien.fr/media/1e6b8984a9a6ada36ea2dbcd5fe6b385ba29c8c13ff63e6ca65a1d9c.gif
+![diagram1](https://www.assistant-physicien.fr/media/1e6b8984a9a6ada36ea2dbcd5fe6b385ba29c8c13ff63e6ca65a1d9c.gif)
 
 Our flagship product is a comprehensive web application that empowers medical physicists to:
 
@@ -43,7 +43,7 @@ Our flagship product is a comprehensive web application that empowers medical ph
 
 [Image: An octopus diagram symbolizing the interconnected nature of development stages]
 
-https://www.assistant-physicien.fr/media/954258cd0e5168f2075f69b3f7818f01611576d18e6e2bacd4d0e356.gif
+![diagram1](https://www.assistant-physicien.fr/media/954258cd0e5168f2075f69b3f7818f01611576d18e6e2bacd4d0e356.gif)
 
 Our development process is iterative and collaborative. We work closely with our clients to:
 
