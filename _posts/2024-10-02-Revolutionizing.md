@@ -6,7 +6,7 @@ cover-img: /assets/img/data_girl.jpg
 thumbnail-img: /assets/img/logo_kaptan_data.png
 share-img: /assets/img/data_girl.jpg
 tags: [data-science, medical-physics, software, solutions]
-author: Kayhan Kaptan 
+author: Kayhan Kaptan (Assistant physicist and data analyst)
 ---
 
 
@@ -25,8 +25,7 @@ Our vision is to create a world where medical physicists can focus on what they 
 * **Drive innovation:** We are committed to staying at the forefront of technological advancements in medical physics.
 
 ### Our Solutions
-
-![gif](/assets/img/Présentation.gif)
+![gif](/assets/img/solution_octopus.gif)
 
 Our flagship product is a comprehensive web application that empowers medical physicists to:
 
@@ -35,6 +34,8 @@ Our flagship product is a comprehensive web application that empowers medical ph
 * **Collaborate effectively:** Share data and insights with colleagues across the organization.
 
 ### Our Development Process
+
+![gif](/assets/img/Présentation.gif)
 
 Our development process is iterative and collaborative. We work closely with our clients to:
 
@@ -45,7 +46,7 @@ Our development process is iterative and collaborative. We work closely with our
 
 ### Why Choose Kaptan Data Solutions?
 
-* **Expertise:** Our team consists of experienced data scientists, software engineers, and medical physicists.
+* **Expertise:** Expert in physical measurements with 15 years' experience in radiation protection and medical physics, specializing in the development of data science applications with Python and quality assurance in radiotherapy.
 * **Customization:** We tailor our solutions to meet your specific needs.
 * **Support:** We provide ongoing support and training to ensure your success.
 
@@ -53,7 +54,7 @@ Our development process is iterative and collaborative. We work closely with our
 
 kaptandatasolutions@gmail.com
 
-**[[Link to GitHub repository]](https://github.com/kaptandatasolutions)** 
+**[[visit our website solutions portfolio]](https://www.assistant-physicien.fr/)** 
 
 
 
