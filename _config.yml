@@ -142,7 +142,7 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 #Couleur d'arrière-plan de la page principale
-page-col: "#bebebe"
+page-col: "#f1f1f1"
 text-col: "#2a262f" 
 #Couleur des liens
 link-col: "#cd23dc"
