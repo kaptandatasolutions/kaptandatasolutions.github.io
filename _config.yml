@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Kaptan-Data-Solutions
+title: Kaptan Data Solutions (KDS)
 
 # Your name to show in the footer
-author: Kayhan (Kaptan Data Solutions)
+author: Kaptan Data Solutions
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -107,7 +107,7 @@ share-links-active:
   
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "assistant-physicien.fr"
+url-pretty: "KDS"
 
 # Add the website title to the title of every page
 title-on-all-pages: true

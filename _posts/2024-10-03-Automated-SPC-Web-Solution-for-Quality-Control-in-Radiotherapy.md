@@ -2,9 +2,9 @@
 layout: post
 title: Automated SPC Web Solution for Quality Control in Radiotherapy
 subtitle: Real-time Data Monitoring and Reporting, Accessible Across Your Center’s Network with a Demo Available on Our Portfolio
-cover-img: /assets/img/spc-logo.jpg
+cover-img: /assets/img/cover-image-spc.png
 thumbnail-img: /assets/img/spc-logo.png
-share-img: /assets/img/spc-logo.jpg
+share-img: /assets/img/cover-image-spc.png
 tags: [data-science, medical-physics, software, solutions,spc,statistical process control,Automated SPC]
 author: Kayhan Kaptan (Assistant physicist and data analyst)
 ---
