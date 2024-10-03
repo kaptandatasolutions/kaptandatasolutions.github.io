@@ -147,7 +147,7 @@ text-col: "#2a262f"
 #Couleur des liens
 link-col: "#cd23dc"
 #Couleur des liens au survol
-hover-col: "#9b9b9b"
+hover-col: "#f549f4"
 #Couleur d'arrière-plan de la barre de navigation
 navbar-col: "#966dd5"
 navbar-text-col: "#FFFFFF"
@@ -159,7 +159,7 @@ footer-text-col: "#FFFFFF"
 #Couleur des liens dans le pied de page
 footer-link-col: "#FFFFFF"
 #Couleur des liens au survol dans le pied de page
-footer-hover-col: "#9b9b9b"
+footer-hover-col: "#f549f4"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
