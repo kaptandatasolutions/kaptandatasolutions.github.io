@@ -14,3 +14,7 @@ This Web SPC solution provides an automated and accessible tool for the analysis
 Additionally, users can download a full PDF report of the analysis, customizable with their information and comments, ensuring streamlined traceability and documentation of quality controls.
 
 A demo version of the solution is available on our portfolio website, allowing users to download sample datasets and explore the tool's features before full integration into your radiotherapy center.
+
+**[[See the demo on our website]](https://www.assistant-physicien.fr/spc_physique_medicale)** 
+
+[![png](/assets/img/spc-logo.png)](https://www.assistant-physicien.fr/spc_physique_medicale)
