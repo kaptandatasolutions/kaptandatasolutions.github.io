@@ -20,7 +20,7 @@ author: Kaptan Data Solutions
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Us: "aboutus"
   Solutions:
     - SPC Physique Médicale: "https://www.assistant-physicien.fr/spc_physique_medicale"
     - Chatbot: "https://www.assistant-physicien.fr/chatbot"
