@@ -12,7 +12,16 @@ author: Kayhan Kaptan (Assistant physicist and data analyst)
 
 # Discover the Automated DICOM Analysis Tool by Kaptan Data Solutions
 
-At **Kaptan Data Solutions**, we are transforming the way medical physicists analyze their DICOM images. Our mission is to make data analysis faster, more accurate, and above all, more accessible. That's why we’ve developed a fully **automated tool** that simplifies and optimizes complex image analyses, like the Picket Fence test, with unmatched efficiency. Curious? [**Try the online demo here**](https://www.assistant-physicien.fr/Picketfence_analyse).
+At **Kaptan Data Solutions**, we are revolutionizing how medical physicists analyze their DICOM images. Our goal is to make data analysis not only faster and more accurate but also more accessible to every professional in the field. That's why we've developed a fully **automated tool** that streamlines and optimizes complex image analyses, including the Picket Fence test, with unmatched efficiency.
+
+What's more, we integrate the power of **PYLINAC**, a renowned Python library specifically designed for quality assurance in medical physics. By leveraging the **PicketFence** module of PYLINAC, we've extracted the very **nectar** of its capabilities to provide you with seamless automation. The **pf.analyze()** function, the backbone of our tool, ensures precise and reliable test results with minimal input. You can explore the full potential of this function in the official [PicketFence documentation](https://pylinac.readthedocs.io/en/latest/picketfence.html#).
+
+Curious to see it in action? [**Try the online demo here**](https://www.assistant-physicien.fr/Picketfence_analyse).
+
+![png](/assets/img/blog_image_pf_pylinac_kds.png)
+
+> The image here shows the analyzed Picket Fences with a graph displaying the variation in results.
+
 
 ### Smart Automation: Save Time While Maintaining Precision
 
