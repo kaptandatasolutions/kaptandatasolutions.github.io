@@ -20,7 +20,7 @@ Curious to see it in action? [**Try the online demo here**](https://www.assistan
 
 ![png](/assets/img/blog_image_pf_pylinac_kds-1.png)
 
-> The image here shows the analyzed Picket Fences with a graph displaying the variation in results.
+> The image illustrates the simplified workflow used to achieve this automation.
 
 
 ### Smart Automation: Save Time While Maintaining Precision
