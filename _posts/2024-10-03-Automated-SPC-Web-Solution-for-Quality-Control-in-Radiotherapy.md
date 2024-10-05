@@ -11,7 +11,14 @@ author: Kayhan Kaptan (Assistant physicist and data analyst)
 
 # Transform Your Quality Control with Our Automated SPC Solution
 
-In the ever-evolving field of radiotherapy, maintaining the highest standards of quality control is paramount. That’s why we at **Kaptan Data Solutions** are excited to introduce our automated **Web SPC Solution**—a powerful tool designed to streamline the analysis and monitoring of quality control data, seamlessly integrated into your center's internal network. 
+In the ever-evolving field of radiotherapy, maintaining the highest standards of quality control is paramount. At **Kaptan Data Solutions**, we are proud to introduce our automated **Web SPC Solution**—a powerful tool designed to streamline the analysis and monitoring of quality control data, seamlessly integrated into your center's internal network.
+
+What sets us apart is our hands-on experience in the field, showcased through our recent **SFPM 2023** publication, which you can find [here](https://onedrive.live.com/edit?id=AB9703CFB8F3C2C4!s12a3d9a3544d4d38856ca579e062b988&resid=AB9703CFB8F3C2C4!s12a3d9a3544d4d38856ca579e062b988&cid=ab9703cfb8f3c2c4&ithint=file%2Cpptx&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy9hYjk3MDNjZmI4ZjNjMmM0L0VhUFpveEpOVkRoTmhXeWxlZUJpdVlnQjdWa1AydVdYbksyMENEMTJqYVhzNmc_ZT05MTVvYzk&migratedtospo=true&wdo=2), as well as our continuous development in **Data Science programming**. By leveraging our expertise, we've crafted an SPC solution that captures the very **nectar** of quality control capabilities, offering unmatched precision and efficiency.
+
+Our solution’s advanced features are designed to adapt to the unique needs of your facility, ensuring your data is thoroughly analyzed and monitored with minimal effort. Discover more about its full functionality and potential by exploring the [official documentation](https://onedrive.live.com/edit?id=AB9703CFB8F3C2C4!s6e80413c7d734d5684848ab0929be180&resid=AB9703CFB8F3C2C4!s6e80413c7d734d5684848ab0929be180&cid=ab9703cfb8f3c2c4&ithint=file%2Cpptx&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy9hYjk3MDNjZmI4ZjNjMmM0L0VUeEJnRzV6ZlZaTmhJU0tzSktiNFlBQjFEWWgwV0NaQ2hhMWU0WFVBNUlxSUE_ZT1lWjg0QkI&migratedtospo=true&wdo=2).
+
+Take your quality control to the next level with Kaptan Data Solutions’ SPC expertise.
+
 
 ## Automate Your Quality Control Processes
 
