@@ -45,12 +45,14 @@ Beyond the analysis, we know how essential it is to document and share results. 
 
 With **Kaptan Data Solutions**, you benefit from deep expertise in integrating Python modules into medical physics solutions. Our technology is designed for quick deployment within your internal systems, making each analysis as simple as it is effective. And if you're not convinced yet, [**come try our online demo**](https://www.assistant-physicien.fr/Picketfence_analyse)! It’s free, intuitive, and gives you a direct look at how this tool can improve your workflow.
 
+Explore the future of DICOM analysis today with our [**automated analysis tool**](https://www.assistant-physicien.fr/Picketfence_analyse)!
+
+
+**[[See the demo on our website]](https://www.assistant-physicien.fr/Picketfence_analyse)** 
+
+[![PNG](/assets/img/p-f-page.PNG)](https://www.assistant-physicien.fr/Picketfence_analyse)
+
 ### Unlimited Possibilities
 
 The potential for this tool is limitless. Beyond just analyzing DICOM images, we envision a comprehensive dashboard for monitoring all analyses, providing insights into data extraction, and facilitating better decision-making. This transformation will significantly enhance the lives of professionals who currently manage these processes manually, freeing them to focus on what truly matters: patient care.
 
-### About Kaptan Data Solutions
-
-We specialize in crafting innovative and elegant solutions for medical physicists. At **KDS**, we believe that your data should be as sharp as a fencing foil and as loyal as an old friend. Our passion is to simplify your tasks while giving you total control over your results.
-
-Explore the future of DICOM analysis today with our [**automated analysis tool**](https://www.assistant-physicien.fr/Picketfence_analyse)!

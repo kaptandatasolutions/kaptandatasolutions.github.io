@@ -22,15 +22,15 @@ author: Kaptan Data Solutions
 navbar-links:
   About Us: "aboutme"
   Solutions:
-    - SPC Physique Médicale: "https://www.assistant-physicien.fr/spc_physique_medicale"
-    - Chatbot: "https://www.assistant-physicien.fr/chatbot"
-    - Picket Fence: "https://www.assistant-physicien.fr/Picketfence_analyse"
+    - SPC Physique Médicale: "https://kaptandatasolutions.github.io/2024-10-03-Automated-SPC-Web-Solution-for-Quality-Control-in-Radiotherapy/"
+    - Chatbot: "https://kaptandatasolutions.github.io/2024-10-04-Chatbot-ansm-2023/"
+    - Picket Fence: "https://kaptandatasolutions.github.io/2024-10-05-Picket-Fence-Pylinac-Module/"
     - Starshot: "https://www.assistant-physicien.fr/Starshot"
     - Winston-Lutz 2d: "https://www.assistant-physicien.fr/winston-lutz_2d"
     - Winston-Lutz 3d: "https://www.assistant-physicien.fr/winston-lutz_3d"
     - Image Test Generator: "https://www.assistant-physicien.fr/image_generator"
     
-  Portfolio of App's: "https://www.assistant-physicien.fr/"
+  Portfolio of App's 🚀: "https://www.assistant-physicien.fr/"
 
 ################
 # --- Logo --- #
