@@ -26,7 +26,7 @@ Our tool also gives you the flexibility to customize your tolerance settings, al
 
 ![png](/assets/img/analyzed_image_PF.png)
 
-> Click on the image to learn more about our chatbot and explore all the features.
+> The image here shows the analyzed Picket Fences with a graph displaying the variation in results.
 
 ### A Comprehensive Report, Ready for Download
 
