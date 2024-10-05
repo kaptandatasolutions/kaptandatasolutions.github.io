@@ -16,7 +16,9 @@ At **Kaptan Data Solutions**, we are transforming the way medical physicists ana
 
 ### Smart Automation: Save Time While Maintaining Precision
 
-We understand that every minute counts in your work, and accuracy in testing is crucial. That’s why our application leverages the power of Python modules like `pylinac` to automate the analysis of DICOM files. Imagine this: simply upload your file, and the tool does the rest, running in the background with no manual intervention required. This isn’t just image analysis—it’s a **revolution** in how medical data is processed.
+We understand that every minute counts in your work, and accuracy in testing is crucial. While our current demo requires users to manually upload DICOM files, the real power of our tool lies in its ability to be integrated into the radiotherapy center's network service. In a fully automated setup, the tool will independently fetch images from a dedicated directory, analyze them, and generate Picket Fence reports without any manual intervention.
+
+Imagine a workflow where the tool continuously monitors your DICOM repository, automatically running analyses and compiling reports—all in real time. This isn’t just image analysis; it’s a revolution in how medical data is processed, significantly enhancing efficiency and precision in clinical settings.
 
 ### Complete Control Over Tolerances and Results
 
@@ -33,6 +35,10 @@ Beyond the analysis, we know how essential it is to document and share results. 
 ### Why Try Our Tool?
 
 With **Kaptan Data Solutions**, you benefit from deep expertise in integrating Python modules into medical physics solutions. Our technology is designed for quick deployment within your internal systems, making each analysis as simple as it is effective. And if you're not convinced yet, [**come try our online demo**](https://www.assistant-physicien.fr/Picketfence_analyse)! It’s free, intuitive, and gives you a direct look at how this tool can improve your workflow.
+
+### Unlimited Possibilities
+
+The potential for this tool is limitless. Beyond just analyzing DICOM images, we envision a comprehensive dashboard for monitoring all analyses, providing insights into data extraction, and facilitating better decision-making. This transformation will significantly enhance the lives of professionals who currently manage these processes manually, freeing them to focus on what truly matters: patient care.
 
 ### About Kaptan Data Solutions
 
