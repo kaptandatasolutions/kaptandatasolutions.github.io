@@ -18,7 +18,7 @@ What's more, we integrate the power of **PYLINAC**, a renowned Python library sp
 
 Curious to see it in action? [**Try the online demo here**](https://www.assistant-physicien.fr/Picketfence_analyse).
 
-![png](/assets/img/blog_image_pf_pylinac_kds.png)
+![png](/assets/img/blog_image_pf_pylinac_kds-1.png)
 
 > The image here shows the analyzed Picket Fences with a graph displaying the variation in results.
 
