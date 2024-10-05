@@ -50,7 +50,7 @@ Explore the future of DICOM analysis today with our [**automated analysis tool**
 
 **[[See the demo on our website]](https://www.assistant-physicien.fr/Picketfence_analyse)** 
 
-[![PNG](/assets/img/p-f-page.PNG)](https://www.assistant-physicien.fr/Picketfence_analyse)
+[![png](/assets/img/p-f-page.png)](https://www.assistant-physicien.fr/Picketfence_analyse)
 
 ### Unlimited Possibilities
 
