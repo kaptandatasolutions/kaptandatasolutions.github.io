@@ -33,10 +33,9 @@ The 2D tool is designed for quick and straightforward analysis, perfect for rout
 **Future-ready**: Our upcoming updates will feature **fully integrated workflows** for real-time image fetching from your radiotherapy center’s network. This means that soon, EPID images can be automatically processed and analyzed without any manual uploads.
 
 
-![png](/assets/img/winston-luts-3d-info-2.png)
+![Winston-Lutz 3D Analysis Overview](/assets/img/winston-luts-3d-info-2.png)
 
 > The image above shows the Dashboard Winston-Lutz 3D.
-
 
 
 ### Comprehensive Control with Customizable Parameters
@@ -49,7 +48,7 @@ Key adjustable settings include:
 - **Align BB with Radiation Isocenter**: Apply a virtual shift to align the BB perfectly with the radiation isocenter for highly accurate results.
 - **Gantry/Collimator/Table Angle Reference**: Adjust angles according to your measurement protocols for complete alignment accuracy.
 
-![png](/assets/img/w-l-settings.png)
+![Winston-Lutz 3D Analysis Overview](/assets/img/w-l-settings.png)
 
 > This image highlights the customizable analysis options available in the 3D Winston-Lutz tool, allowing for greater control over each test.
 
@@ -59,11 +58,6 @@ Key adjustable settings include:
 Both the **2D** and **3D Winston-Lutz tools** offer real-time visual results, giving you immediate feedback on the image alignment and positioning errors. With processed images that clearly mark the **CAX**, **BB**, and other critical elements, you can visually confirm the results and identify any misalignments at a glance.
 
 Once the analysis is complete, you can download a fully customizable **PDF report**. Add your personal details and comments to create a professional, comprehensive record of each test. This feature is perfect for quality assurance documentation, ensuring that all results are stored accurately and ready for audit.
-
-![png](/assets/img/winston-luts-3d-info.png)
-
-> The PDF report is fully customizable, allowing you to include personal information and comments for detailed quality assurance documentation.
-
 
 
 ### Why Choose Kaptan Data Solutions' Winston-Lutz 2D & 3D Tools?
@@ -75,13 +69,11 @@ By choosing **Kaptan Data Solutions**, you’re embracing cutting-edge automatio
 - **Real-time visual feedback**: Instantly verify alignment and positioning errors.
 - **Comprehensive reporting**: Download detailed PDF reports that document every test with precision.
 
----
 
 ### The Future of Winston-Lutz Analysis Is Here
 
 Our vision goes beyond automating single analyses. We aim to develop a **comprehensive dashboard** that tracks all quality assurance tests across your radiotherapy center, offering deeper data insights and empowering better clinical decisions. With Kaptan Data Solutions, you’re not just automating your tests—you’re optimizing your entire quality assurance process.
 
----
 
 ### Experience the Future of EPID Analysis Today
 
