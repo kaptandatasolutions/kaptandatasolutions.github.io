@@ -37,7 +37,6 @@ Once the imaging system is chosen, users can select a test model from predefined
 
 For those needing a completely personalized test, the **Custom Model** option allows full control over the parameters.
 
-*Insert an image here of the test model options*
 
 ### 3. Full Parameter Customization
 The customization of parameters is where this tool truly shines. Using interactive sliders, users can adjust specific aspects of the image simulation, such as:
@@ -49,12 +48,10 @@ The customization of parameters is where this tool truly shines. Using interacti
 
 These options make it easy to replicate various imaging conditions and test their effects on your quality assurance processes.
 
-*Insert an image here showing the interactive sliders*
 
 ### 4. Real-Time Visualization
 As you tweak the parameters, the system provides real-time visual feedback. The generated image dynamically updates to reflect the changes, allowing you to fine-tune the simulation to perfection.
 
-*Insert an image of a live updated simulation*
 
 ### 5. Adding DICOM Metadata
 In addition to generating the image, the tool also allows you to embed specific **DICOM metadata**. This can include acquisition details, system specifications, and other relevant medical data, making it easy to integrate these simulated images into existing workflows for further analysis.
