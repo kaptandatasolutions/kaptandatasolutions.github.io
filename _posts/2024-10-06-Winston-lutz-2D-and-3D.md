@@ -33,7 +33,7 @@ The 2D tool is designed for quick and straightforward analysis, perfect for rout
 **Future-ready**: Our upcoming updates will feature **fully integrated workflows** for real-time image fetching from your radiotherapy center’s network. This means that soon, EPID images can be automatically processed and analyzed without any manual uploads.
 
 
-![Dashboard](/assets/img/winston-luts-3d-info-2.png)
+![png](/assets/img/winston-luts-3d-info-2.png)
 
 > The image above shows the Dashboard Winston-Lutz 3D.
 
@@ -49,7 +49,7 @@ Key adjustable settings include:
 - **Align BB with Radiation Isocenter**: Apply a virtual shift to align the BB perfectly with the radiation isocenter for highly accurate results.
 - **Gantry/Collimator/Table Angle Reference**: Adjust angles according to your measurement protocols for complete alignment accuracy.
 
-![Winston-Lutz 3D Analysis Settings](/assets/img/w-l-settings.png)
+![png](/assets/img/w-l-settings.png)
 
 > This image highlights the customizable analysis options available in the 3D Winston-Lutz tool, allowing for greater control over each test.
 
@@ -60,7 +60,7 @@ Both the **2D** and **3D Winston-Lutz tools** offer real-time visual results, gi
 
 Once the analysis is complete, you can download a fully customizable **PDF report**. Add your personal details and comments to create a professional, comprehensive record of each test. This feature is perfect for quality assurance documentation, ensuring that all results are stored accurately and ready for audit.
 
-![Winston-Lutz Dicom informations](/assets/img/winston-luts-3d-info.png)
+![png](/assets/img/winston-luts-3d-info.png)
 
 > The PDF report is fully customizable, allowing you to include personal information and comments for detailed quality assurance documentation.
 
