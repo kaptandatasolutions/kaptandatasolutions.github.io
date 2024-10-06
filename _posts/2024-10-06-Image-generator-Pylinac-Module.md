@@ -37,6 +37,10 @@ Once the imaging system is chosen, users can select a test model from predefined
 
 For those needing a completely personalized test, the **Custom Model** option allows full control over the parameters.
 
+![png](/assets/img/Capture_image_gen-1.png)
+
+> The image shows the level of customization of the DICOM image that can be generated with such a tool.
+
 
 ### 3. Full Parameter Customization
 The customization of parameters is where this tool truly shines. Using interactive sliders, users can adjust specific aspects of the image simulation, such as:
