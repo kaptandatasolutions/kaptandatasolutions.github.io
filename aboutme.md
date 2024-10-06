@@ -32,6 +32,6 @@ So, if you're ready to embark on a data-driven adventure, join us. Together, we 
 
 
 
-**[[Contact us]](kaptandatasolutions@gmail.com)** 
+**[[Contact us]](https://www.assistant-physicien.fr/KaptanDataSolutions)** 
 
 **[[visit our website solutions portfolio]](https://www.assistant-physicien.fr/)** 
