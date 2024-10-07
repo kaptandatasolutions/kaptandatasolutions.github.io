@@ -84,3 +84,11 @@ To help you get started, we offer a demo version of our SPC solution on our port
 With our Web SPC solution, you’ll not only enhance the efficiency of your quality control processes but also set the stage for continuous improvement within your radiotherapy practices. Say goodbye to manual data handling and hello to a world of automated insights and streamlined reporting. 
 
 Embrace the future of quality control with **Kaptan Data Solutions**—because every detail matters in the quest for excellence in patient care.
+
+
+<audio controls>
+  <source src="/podcast_kds/SPC WEB APP.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+
+[Download the Podcast Transcription](podcast_kds/Podcast%20Transcription%20-%20La%20précision%20en%20radiothérapie%20grâce%20à%20KAPTAN%20DATA%20Solutions.ipynb)
