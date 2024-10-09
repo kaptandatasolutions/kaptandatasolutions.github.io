@@ -62,9 +62,9 @@ Yeah, it's a lot of analyzing images taken from different angles and doing a bun
 
 **Cool, does it all automatically?** From what I've seen, it can analyze images and generate reports in way less time than it would take someone to do it by hand.
 
-**That's wild. So how does it actually work?** Like, what's the technology behind it? So their system is built on this open-source Python library called **pylonac**.
+**That's wild. So how does it actually work?** Like, what's the technology behind it? So their system is built on this open-source Python library called **pylinac**.
 
-**Python like the snake?** No, no. Python is a programming language. Think of it this way: pylonac is like a toolbox, specifically designed for radiotherapy QA, and it's really well respected in the field.
+**Python like the snake?** No, no. Python is a programming language. Think of it this way: pylinac is like a toolbox, specifically designed for radiotherapy QA, and it's really well respected in the field.
 
 **Gotcha, it's got all these tools and functions already built to analyze radiation beams and all the equipment.** So they're basically using this pre-existing, trusted technology to take this manual process and fully automate it.
 
@@ -136,7 +136,7 @@ Wow. So it's not just improving existing treatments, but potentially leading to,
 
 **Exactly. And that actually brings us to another really cool thing about Kaptan, their commitment to open-source tech.** 
 
-Oh, right, right. You mentioned that before, pylonac being an open-source library. What's the significance of that, like in this particular context?
+Oh, right, right. You mentioned that before, pylinac being an open-source library. What's the significance of that, like in this particular context?
 
 So by building their software on an open-source platform, Kaptan's basically saying, "Hey, we're all in this together." Transparency, collaboration, right? Anyone can access the code, which means researchers, developers, they can all build on it, improve it, who knows, maybe even adapt it for other stuff.
 
