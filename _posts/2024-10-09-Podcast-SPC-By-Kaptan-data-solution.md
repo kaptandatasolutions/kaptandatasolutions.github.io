@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Latest Podcast - Automated SPC Web Solution for Quality Control in Radiotherapy
+title: Podcast - Automated SPC Web Solution for Quality Control in Radiotherapy
 subtitle: Real-time Data Monitoring and Reporting, Accessible Across Your Center’s Network with a Demo Available on Our Portfolio
 cover-img: /assets/img/blog_image_podcast_spc-cover.png
 thumbnail-img: /assets/img/blog_image_podcast_spc-1.png

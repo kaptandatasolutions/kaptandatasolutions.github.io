@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Latest Podcast - Automated Starshot Analysis for Quality Control in Radiotherapy
+title: Podcast - Automated Starshot Analysis for Quality Control in Radiotherapy
 subtitle: Revolutionizing Radiotherapy with Enhanced Precision and Efficiency
 cover-img: /assets/img/blog_image_podcast_starshot-cover.png
 thumbnail-img: /assets/img/blog_image_podcast_startshot-1.png
