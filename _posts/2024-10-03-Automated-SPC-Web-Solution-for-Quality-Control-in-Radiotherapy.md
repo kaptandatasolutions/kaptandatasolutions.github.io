@@ -79,16 +79,28 @@ To help you get started, we offer a demo version of our SPC solution on our port
 
 [![png](/assets/img/spc-logo.png)](https://www.assistant-physicien.fr/spc_physique_medicale)
 
-## The Future of Quality Control Awaits
+---
+## 🎧 Tune Into Our Latest Podcast: Revolutionizing Quality Control in Radiotherapy 🎧
 
-With our Web SPC solution, you’ll not only enhance the efficiency of your quality control processes but also set the stage for continuous improvement within your radiotherapy practices. Say goodbye to manual data handling and hello to a world of automated insights and streamlined reporting. 
+In radiotherapy, precision is everything. With **Kaptan Data Solutions**, we’ve developed an **Automated SPC Web Solution** that pushes the boundaries of **real-time data monitoring** and **automated reporting**. Accessible across your center's network, this cutting-edge tool transforms the way quality control is approached in radiotherapy.
 
-Embrace the future of quality control with **Kaptan Data Solutions**—because every detail matters in the quest for excellence in patient care.
+In this podcast, **Kayhan Kaptan**, Assistant Physicist and Data Analyst, dives deep into how **Statistical Process Control (SPC)** is improving precision, safety, and efficiency in patient care. Explore how automation minimizes human error and ensures that **every millimeter counts** in the treatment process.
 
+🎙️ **Join the conversation** and discover how Kaptan Data Solutions is leading the way towards **more accurate, reliable, and safe** radiotherapy practices. You can also check out our demo on the **Portfolio** page to see the solution in action.
 
-<audio controls>
+**Don’t miss out on this exciting discussion!**
+
+---
+
+🎧 **Listen to the podcast now:**
+
+<audio controls style="width: 100%; max-width: 600px;">
   <source src="/podcast_kds/SPC WEB APP.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
-[Download the Podcast Transcription](podcast_kds/Podcast%20Transcription%20-%20La%20précision%20en%20radiothérapie%20grâce%20à%20KAPTAN%20DATA%20Solutions.ipynb)
+---
+
+![PNG](/assets/img/blog_image_podcast_spc-share.png)
+
+---
