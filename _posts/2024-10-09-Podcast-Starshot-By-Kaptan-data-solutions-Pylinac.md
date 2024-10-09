@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Podcast - Automated Starshot Analysis for Quality Control in Radiotherapy
-subtitle: Revolutionizing Radiotherapy with Enhanced Precision and Efficiency
+subtitle: Revolutionizing Radiotherapy with Enhanced Precision and Efficiency with a Demo Available on Our Portfolio
 cover-img: /assets/img/blog_image_podcast_starshot-cover.png
-thumbnail-img: /assets/img/blog_image_podcast_startshot-1.png
+thumbnail-img: /assets/blog_image_podcast_startshot-1.png
 share-img: /assets/img/blog_image_podcast_startshot.png
 tags: [data-science, medical-physics, software, solutions, starshot, radiotherapy, quality-control]
-author: Kayhan Kaptan (Assistant Physicist and Data Analyst)
+author: Kayhan Kaptan (Assistant physicist and data analyst)
 ---
 
 ## 🎧 Tune Into Our Latest Podcast: Enhancing Radiotherapy Precision with Automated Starshot Analysis 🎧
