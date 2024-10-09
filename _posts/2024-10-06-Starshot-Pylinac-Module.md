@@ -66,3 +66,18 @@ With Kaptan Data Solutions, you’re not just getting a tool—you’re unlockin
 
 **[[Try the online demo]](https://www.assistant-physicien.fr/Starshot)**
 
+
+---
+
+🎧 **Listen to the podcast now:**
+
+<audio controls style="width: 100%; max-width: 600px;">
+  <source src="/podcast_kds/Starshot Web App.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+
+---
+
+![PNG](/assets/img/blog_image_podcast_startshot.png)
+
+---
