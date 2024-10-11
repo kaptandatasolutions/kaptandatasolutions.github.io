@@ -6,7 +6,7 @@ cover-img: /assets/img/winston-luts-cover-1.png
 thumbnail-img: /assets/img/winston-luts-cover.png  
 share-img: /assets/img/blog_share_image-w-l.png  
 tags: [Winston-Lutz-analysis, EPID-analysis, medical-physics, radiotherapy-QA, image-processing, isocenter-alignment, healthcare-technology, pylinac, automated-analysis, 3D-analysis, medical-imaging, medical-software, radiation-therapy, data-analysis, quality-assurance, compliance]
-author: Kayhan Kaptan (Assistant physicist and data analyst)
+author: Kayhan Kaptan (Assistant Medical Physicist and Data Analyst)
 ---
 
 

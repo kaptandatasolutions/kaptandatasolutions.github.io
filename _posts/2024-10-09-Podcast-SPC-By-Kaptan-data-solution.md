@@ -6,14 +6,14 @@ cover-img: /assets/img/blog_image_podcast_spc-cover.png
 thumbnail-img: /assets/img/blog_image_podcast_spc-1.png
 share-img: /assets/img/blog_image_podcast_spc-share.png
 tags: [data-science, medical-physics, software, solutions, spc, statistical process control, Automated SPC]
-author: Kayhan Kaptan (Assistant physicist and data analyst)
+author: Kayhan Kaptan (Assistant Medical Physicist and Data Analyst)
 ---
 
 ## 🎧 Tune Into Our Latest Podcast: Revolutionizing Quality Control in Radiotherapy 🎧
 
 In radiotherapy, precision is everything. With **Kaptan Data Solutions**, we’ve developed an **Automated SPC Web Solution** that pushes the boundaries of **real-time data monitoring** and **automated reporting**. Accessible across your center's network, this cutting-edge tool transforms the way quality control is approached in radiotherapy.
 
-In this podcast, **Kayhan Kaptan**, Assistant Physicist and Data Analyst, dives deep into how **Statistical Process Control (SPC)** is improving precision, safety, and efficiency in patient care. Explore how automation minimizes human error and ensures that **every millimeter counts** in the treatment process.
+In this podcast, **Kayhan Kaptan**, Assistant Medical Physicist and Data Analyst, dives deep into how **Statistical Process Control (SPC)** is improving precision, safety, and efficiency in patient care. Explore how automation minimizes human error and ensures that **every millimeter counts** in the treatment process.
 
 🎙️ **Join the conversation** and discover how Kaptan Data Solutions is leading the way towards **more accurate, reliable, and safe** radiotherapy practices. You can also check out our demo on the **Portfolio** page to see the solution in action.
 
@@ -56,7 +56,7 @@ Yes, it's fascinating to see how data is transforming healthcare, truly. And rad
 
 Exactly. And of course, patient safety as well.
 
-**Absolutely.** And to really understand all this, we’re going to dive into this article from KAPTAN DATA, published a few days ago on October 3, 2024. It was written by Kayhan, an assistant physicist and data analyst there. They’ve just launched this new automated SPC solution. And let me tell you, it’s getting people talking. Experts are excited about it. But before we get into the details, let’s explain what SPC really is.
+**Absolutely.** And to really understand all this, we’re going to dive into this article from KAPTAN DATA, published a few days ago on October 3, 2024. It was written by Kayhan, an Assistant Medical Physicist and Data Analyst there. They’ve just launched this new automated SPC solution. And let me tell you, it’s getting people talking. Experts are excited about it. But before we get into the details, let’s explain what SPC really is.
 
 ## What is SPC?
 
