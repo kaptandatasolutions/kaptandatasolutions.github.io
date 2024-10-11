@@ -85,10 +85,6 @@ This article is based on insights shared by **Margot Guillouard** and **Blaise B
 
 ---
 
-Bien sûr, voici le texte sans les indications "Speaker 0" et "Speaker 1" ainsi que le timer :
-
----
-
 All right. So, you know, everyone's always going on about robots taking over the world. Well, seems like you were way ahead of the curve, you know, with all your interest in Ganymede robotics. Let's dive into this whole world of robots doing knee surgery of all things.
 
 Yeah. And it's not some far off sci-fi thing either. Like the actual need for knee replacements is going to skyrocket by 2030. Think about this. The U.S. alone will need to be doing twice as many surgeries as we do right now.
