@@ -6,7 +6,7 @@ cover-img: /assets/img/cover-image-spc.png
 thumbnail-img: /assets/img/spc-logo.png
 share-img: /assets/img/cover-image-spc-share.png
 tags: [data-science, medical-physics, software, solutions,spc,statistical process control,Automated SPC]
-author: Kayhan Kaptan (Assistant Medical Physicist and Data Analyst)
+author: Kayhan Kaptan (R&D Technician at Hutchinson (Modeling, Algorithms, Validation) - Expert in Medical Physics Quality Control)
 ---
 
 # Transform Your Quality Control with Our Automated SPC Solution
@@ -84,7 +84,7 @@ To help you get started, we offer a demo version of our SPC solution on our port
 
 In radiotherapy, precision is everything. With **Kaptan Data Solutions**, we’ve developed an **Automated SPC Web Solution** that pushes the boundaries of **real-time data monitoring** and **automated reporting**. Accessible across your center's network, this cutting-edge tool transforms the way quality control is approached in radiotherapy.
 
-In this podcast, **Kayhan Kaptan**, Assistant Medical Physicist and Data Analyst, dives deep into how **Statistical Process Control (SPC)** is improving precision, safety, and efficiency in patient care. Explore how automation minimizes human error and ensures that **every millimeter counts** in the treatment process.
+In this podcast, **Kayhan Kaptan**, R&D Technician at Hutchinson (Modeling, Algorithms, Validation) - Expert in Medical Physics Quality Control, dives deep into how **Statistical Process Control (SPC)** is improving precision, safety, and efficiency in patient care. Explore how automation minimizes human error and ensures that **every millimeter counts** in the treatment process.
 
 🎙️ **Join the conversation** and discover how Kaptan Data Solutions is leading the way towards **more accurate, reliable, and safe** radiotherapy practices. You can also check out our demo on the **Portfolio** page to see the solution in action.
 
