@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Automated SPC Web Solution for Quality Control in Radiotherapy
-subtitle: Real-time Data Monitoring and Reporting, Accessible Across Your Center’s Network with a Demo Available on Our Portfolio
+title: Simulate Medical Imaging for Quality Control with Customizable DICOM Test Images
+subtitle: Demo Available on Our Portfolio
 cover-img: /assets/img/blog_image-image-gen-cover-1.png
 thumbnail-img: /assets/img/blog_image-image-gen-cover.png
 share-img: /assets/img/blog_image-image-gen-cover-3.png
