@@ -6,7 +6,7 @@ cover-img: /assets/img/picket_fence_cover-1.png
 thumbnail-img: /assets/img/picket_fence_cover.png
 share-img: /assets/img/Pcket_Fence_Article_Share.png
 tags: [DICOM-analysis, medical-physics, Python-automation, radiotherapy, medical-imaging, Picket-Fence-test, image-processing, MLC-alignment, healthcare-technology, pylinac, quality-assurance, compliance, data-analysis, medical-software]
-author: Kayhan Kaptan (R&D Technician at Hutchinson (Modeling, Algorithms, Validation) - Expert in Medical Physics Quality Control)
+author: Kayhan Kaptan (R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control)
 ---
 
 
