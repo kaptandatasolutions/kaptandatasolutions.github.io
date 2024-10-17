@@ -13,8 +13,6 @@ author: Kayhan Kaptan (R&D Mechatronics Technician "Modeling, Algorithms, Valida
 
 In radiotherapy, precision is everything. With **Kaptan Data Solutions**, we’ve developed an **Automated SPC Web Solution** that pushes the boundaries of **real-time data monitoring** and **automated reporting**. Accessible across your center's network, this cutting-edge tool transforms the way quality control is approached in radiotherapy.
 
-In this podcast, **Kayhan Kaptan**, R&D Technician at Hutchinson (Modeling, Algorithms, Validation) - Expert in Medical Physics Quality Control, dives deep into how **Statistical Process Control (SPC)** is improving precision, safety, and efficiency in patient care. Explore how automation minimizes human error and ensures that **every millimeter counts** in the treatment process.
-
 🎙️ **Join the conversation** and discover how Kaptan Data Solutions is leading the way towards **more accurate, reliable, and safe** radiotherapy practices. You can also check out our demo on the **Portfolio** page to see the solution in action.
 
 **Don’t miss out on this exciting discussion!**

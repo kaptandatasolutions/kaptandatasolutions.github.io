@@ -13,7 +13,7 @@ author: Kayhan Kaptan (R&D Mechatronics Technician "Modeling, Algorithms, Valida
 
 In the realm of radiotherapy, precision is paramount. With **Kaptan Data Solutions**, we are proud to introduce our **Automated Starshot Analysis** that redefines the standards of **quality control** in cancer treatment. This innovative tool ensures that every radiation beam is accurately aligned, maximizing treatment effectiveness while minimizing damage to healthy tissue.
 
-In this podcast, **Kayhan Kaptan**, R&D Technician at Hutchinson (Modeling, Algorithms, Validation) - Expert in Medical Physics Quality Control, explores how automation and advanced analysis streamline the radiotherapy process. Discover how **Starshot analysis** enhances safety and efficiency, ensuring that **every millimeter counts** in the fight against cancer.
+In this podcast, **Kayhan Kaptan** (R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control), explores how automation and advanced analysis streamline the radiotherapy process. Discover how **Starshot analysis** enhances safety and efficiency, ensuring that **every millimeter counts** in the fight against cancer.
 
 🎙️ **Join the conversation** and learn how Kaptan Data Solutions is paving the way for **more accurate, reliable, and patient-focused** radiotherapy practices. Don’t forget to check out our demo on the **Portfolio** page to see the solution in action!
 
