@@ -12,10 +12,10 @@ author: Kayhan Kaptan (R&D Mechatronics Technician "Modeling, Algorithms, Valida
 # Kap10: This Week in Tech – November 9th
 
 **1. ChatGPT Gets Real-Time Web Search**  
-OpenAI now offers real-time web search with ChatGPT. Initially available to paid users, this feature will gradually roll out to all, positioning ChatGPT more competitively against Microsoft Code Pilot and Google Gemini.
+OpenAI now offers real-time web search with ChatGPT. Initially available to paid users, this feature will gradually roll out to all, positioning ChatGPT more competitively against Microsoft Copilot and Google Gemini.
 
-**2. Social Network Freds Hits 275 Million Users**  
-Launched in July 2023, Freds has already reached 275 million monthly active users, though it continues to grapple with moderation challenges to maintain a safe space for all users.
+**2. Social Network Friendster Hits 275 Million Users**  
+Launched in July 2023, Friendster has already reached 275 million monthly active users, though it continues to grapple with moderation challenges to maintain a safe space for all users.
 
 **3. X's New User Blocking Policy Sparks Debate**  
 X (formerly Twitter) has altered its blocking feature: blocked users can still view some public information. This decision, defended by Elon Musk, raises questions about compliance with Apple and Google’s user safety policies.
