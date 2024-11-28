@@ -22,9 +22,18 @@ author: Kaptan Data Solutions
 navbar-links:
   About Us: "aboutme"
   Kap10 :
-    - 2024-10-28 - LAST TECHS NEWS: "https://kaptandatasolutions.github.io/2024-10-28-KAP-TEN-LAST-TECHS-NEWS/"
-    - 2024-11-10 - LAST TECHS NEWS: "https://kaptandatasolutions.github.io/2024-11-10-KAP-TEN-LAST-TECHS-NEWS/"
-    - 2024-11-18 - LAST TECHS NEWS: "https://kaptandatasolutions.github.io/2024-11-18-KAP-TEN-LAST-TECHS-NEWS/"
+    - 2024-11-22 - LAST TECH NEWS: "https://kaptandatasolutions.github.io/2024-11-22-KAP-TEN-LAST-TECH-NEWS/"
+    - 2024-11-18 - LAST TECH NEWS: "https://kaptandatasolutions.github.io/2024-10-28-KAP-TEN-LAST-TECH-NEWS/"
+    - 2024-11-10 - LAST TECH NEWS: "https://kaptandatasolutions.github.io/2024-11-10-KAP-TEN-LAST-TECH-NEWS/"
+    - 2024-10-28 - LAST TECH NEWS: "https://kaptandatasolutions.github.io/2024-11-18-KAP-TEN-LAST-TECH-NEWS/"
+    - 2024-10-21 - LAST TECH NEWS: "https://kaptandatasolutions.github.io/2024-10-21-KAP-TEN-LAST-TECH-NEWS/"
+  our items:
+    - Understanding ARL: "https://kaptandatasolutions.github.io/2024-10-24-ARL0-ARL1/"
+    - Revoltionizing: "https://kaptandatasolutions.github.io/2024-10-02-Revolutionizing/"
+    - Surgical Robots: "https://kaptandatasolutions.github.io/2024-10-11-Robotic-Control-Strategies-at-Ganymed-Robotics/"
+    - Podcast Optimizing Control Charts: "https://kaptandatasolutions.github.io/2024-10-26-Podcast-ARL/"
+    - Podcast Automated Starshot Analysis: "https://kaptandatasolutions.github.io/2024-10-09-Podcast-Starshot-By-Kaptan-data-solutions-Pylinac/"
+    - Podcast Automated SPC: "https://kaptandatasolutions.github.io/2024-10-09-Podcast-SPC-By-Kaptan-data-solution/"
   Solutions:
     - SPC Physique Médicale: "https://kaptandatasolutions.github.io/2024-10-03-Automated-SPC-Web-Solution-for-Quality-Control-in-Radiotherapy/"
     - Chatbot: "https://kaptandatasolutions.github.io/2024-10-04-Chatbot-ansm-2023/"
