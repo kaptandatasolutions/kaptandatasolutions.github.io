@@ -196,6 +196,6 @@ And on that note, we'll wrap up this deep dive. Until next time, keep exploring,
 
 ---
 
-**[[See the demo on our website]](https://www.assistant-physicien.fr/Starshot)** 
+**[[See the demo on our website]](https://kaptan-data.streamlit.app/Starshot)** 
 
-[![png](/assets/img/gantry-star-share.png)](https://www.assistant-physicien.fr/Starshot)
+[![png](/assets/img/gantry-star-share.png)](https://kaptan-data.streamlit.app/Starshot)

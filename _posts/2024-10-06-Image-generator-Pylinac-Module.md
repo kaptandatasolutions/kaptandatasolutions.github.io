@@ -63,6 +63,6 @@ In addition to generating the image, the tool also allows you to embed specific 
 ### 6. Export and Download Your Results
 Once satisfied with the configuration, you can export the generated images in various formats, including **DICOM**. These files can be downloaded for later use, making it easy to revisit or share results with colleagues for further analysis.
 
-**[[See the demo on our website]](https://www.assistant-physicien.fr/image_generator)** 
+**[[See the demo on our website]](https://kaptan-data.streamlit.app/image_generator)** 
 
-[![png](/assets/img/image_gen.png)](https://www.assistant-physicien.fr/image_generator)
+[![png](/assets/img/image_gen.png)](https://kaptan-data.streamlit.app/image_generator)

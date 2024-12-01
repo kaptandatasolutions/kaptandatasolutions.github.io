@@ -10,9 +10,9 @@ Welcome to **Kaptan Data Solutions (KDS)**, where we craft elegant solutions to 
 
 ## Launch of Our Portfolio
 
-In August 2024, we launched our website [The Assistant Physicist](https://www.assistant-physicien.fr/), a showcase dedicated to the innovative solutions we offer to facilitate data analysis and visualization in medical physics. This site allows you to explore demo versions (non-automated) of our QA tools, enabling you to assess their suitability before fully integrating them into your environment.
+In August 2024, we launched our website [The Assistant Physicist](https://kaptan-data.streamlit.app/), a showcase dedicated to the innovative solutions we offer to facilitate data analysis and visualization in medical physics. This site allows you to explore demo versions (non-automated) of our QA tools, enabling you to assess their suitability before fully integrating them into your environment.
 
-![png](/assets/img/blog_image-page_site-portofolio.png)
+![png](/assets/img/new logo kaptan-data-solution-2.png)
 
 > "We are a French startup 🐓 specializing in the creation of cutting-edge web applications designed to meet the data science needs in the field of medical physics. Our services are crafted to empower your research and operations through innovative tools that simplify data analysis and visualization."
 
@@ -52,5 +52,5 @@ The demo tools are currently manual and not yet automated, but keep in mind that
 
 If you're ready to embark on a data-driven adventure, join us. Together, we can make a real difference in the world of medical physics.
 
-**[[Contact us]](https://www.assistant-physicien.fr/KaptanDataSolutions)**  
-**[[Visit our portfolio]](https://www.assistant-physicien.fr/)**
+**[[Contact us]](https://kaptan-data.streamlit.app/KaptanDataSolutions)**  
+**[[Visit our portfolio]](https://kaptan-data.streamlit.app/)**

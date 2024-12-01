@@ -134,6 +134,6 @@ Patient care. They can spend more time
 
 ---
 
-**[[See the demo on our website]](https://www.assistant-physicien.fr/spc_physique_medicale)** 
+**[[See the demo on our website]](https://kaptan-data.streamlit.app/spc_physique_medicale)** 
 
-[![png](/assets/img/spc-logo.png)](https://www.assistant-physicien.fr/spc_physique_medicale)
+[![png](/assets/img/spc-logo.png)](https://kaptan-data.streamlit.app/spc_physique_medicale)
