@@ -8,6 +8,7 @@ share-img: /assets/img/kapt10-3.png
 tags: [TikTok, artificial intelligence, Big Tech, EU regulations, humanoid robotics, OpenAI, digital geopolitics]
 author: Kayhan Kaptan (R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control)
 ---
+
 # The Major Tech and Digital Trends of the Moment: What You Need to Know
 
 In a constantly evolving world, technology continues to shape our lives and interactions. On this January 20, 2025, several major events have marked the digital landscape, with significant implications for geopolitics, the economy, and our societies. Here are the key topics capturing everyone's attention.
