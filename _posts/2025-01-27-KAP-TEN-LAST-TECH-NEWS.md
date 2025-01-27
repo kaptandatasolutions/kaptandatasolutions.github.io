@@ -1,5 +1,13 @@
-
-
+---
+layout: post
+title: KAP10 Weekly Update - Top 10 Tech News of the Week: AI in the Spotlight
+subtitle: Exploring the Stargate Project, OpenAI's Operator, Mistral AI, Samsung's Galaxy S25, and breakthroughs in AI energy efficiency
+cover-img: /assets/img/kapt10-2.png
+thumbnail-img: /assets/img/kapt10-1.png
+share-img: /assets/img/kapt10-3.png
+tags: [AI, Stargate Project, OpenAI, Mistral AI, Samsung Galaxy S25, TikTok, energy efficiency, digital transformation, tech innovation, geopolitics]
+author: Kayhan Kaptan (R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control)
+---
 
 # Top 10 Tech News of the Week: AI in the Spotlight
 
