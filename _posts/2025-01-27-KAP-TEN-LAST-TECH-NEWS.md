@@ -6,7 +6,7 @@ cover-img: /assets/img/kapt10-2.png
 thumbnail-img: /assets/img/kapt10-1.png
 share-img: /assets/img/kapt10-3.png
 tags: [AI, Stargate Project, OpenAI, Mistral AI, Samsung Galaxy S25, TikTok, energy efficiency, digital transformation, tech innovation, geopolitics]
-author: Kayhan Kaptan (R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control)
+author: Kayhan Kaptan (R&D Mechatronics Technician -Modeling, Algorithms, Validation- TEAM - Expert in Medical Physics Quality Control)
 ---
 
 # Top 10 Tech News of the Week: AI in the Spotlight
