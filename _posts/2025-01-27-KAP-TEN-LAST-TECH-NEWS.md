@@ -73,7 +73,7 @@ After revolutionizing robotics with Pepper and Nao, Bruno Maisonnier is now expl
 
 The **Pen Pilot** app, developed by Thomas Truong, allows users to create entire books—novels, essays, or educational material—in just a few clicks using AI. This tool could revolutionize the publishing industry and democratize access to creative writing.
 
-**Link:** [Pen Pilot by Thomas Truong](https://penpilot.ai)
+**Link:** [Pen Pilot by Thomas Truong](https://www.penpilot.ai/)
 
 ---
 
