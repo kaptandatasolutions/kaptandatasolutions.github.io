@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KAP10 Weekly Update - Major Tech and Digital Trends of the Moment
+title: KAP10 Weekly Update - Top 10 Tech News of the Week: AI in the Spotlight
 subtitle: Exploring TikTok's American drama, AI revolutions, Big Tech vs. EU regulations, and humanoid robotics
 cover-img: /assets/img/kapt10-2.png
 thumbnail-img: /assets/img/kapt10-1.png
