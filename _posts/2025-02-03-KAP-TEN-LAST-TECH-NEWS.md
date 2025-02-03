@@ -8,9 +8,6 @@ share-img: /assets/img/kapt10-3.png
 tags: [DeepSeek, artificial intelligence, OpenAI, quantum computing, AI energy efficiency]
 author: Kayhan Kaptan (R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control)
 ---
-Here is the English translation of your text:
-
----
 
 **Top 10 Tech News from Monde Numérique (February 1, 2025)**
 
