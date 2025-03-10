@@ -1,5 +1,5 @@
 ---
-## layout: post
+layout: post
 title: KAP10 Weekly Update - Top 10 technological advances you can't miss
 subtitle: This week, discover the technological advances shaping our future: from AI in smartphones to connected glasses, private 5G networks and new revolutions in mobile photography.
 cover-img: /assets/img/kapt10-2.png
