@@ -22,4 +22,4 @@ Every week, KAP10 takes you to the heart of innovations transforming our world. 
 9. **Smartphone Screens with "Next Paper" Technology**- TCL innovates with "Next Paper," enabling transition between classic color display and monochrome display. This technology reduces blue light emission and energy consumption, improving reading comfort.
 10. **Gesture-Controlled Robotic Arms**- New systems allow control of robotic arms through visual motion recognition. This precise technology finds its use in surgery, industrial manufacturing, and assistance for people with reduced mobility.
 ---
-Have a great day and feel free to visit **this site to see the data science solutions** we offer and submit your objectives so we can find solutions tailored to your needs - **KDS**
+Have a great day and feel free to visit **this site to see the data science solutions** we offer and submit your objectives so we can find solutions tailored to your needs - **Kayhan**
