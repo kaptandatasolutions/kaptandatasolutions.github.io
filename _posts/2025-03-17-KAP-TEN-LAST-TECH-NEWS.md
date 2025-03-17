@@ -12,6 +12,8 @@ author: Kayhan Kaptan (R&D Mechatronics Technician "Modeling, Algorithms, Valida
 
 Welcome to this week's episode of KAP10 Weekly! Here’s a detailed overview of the top 10 tech news stories, enriched with additional insights and analyses.
 
+## Here is the news for March 17, 2025
+
 ## 1. Manus, the AI Revolution from China
 The Chinese startup **Butterfly Effect** launches **Manus**, an AI described as revolutionary by its creators. Manus promises complete autonomy by leveraging external AI models to perform complex tasks, such as resume analysis for hiring, personalized travel itineraries with automatic booking, and advanced management in real estate and finance. Despite considerable media excitement, Manus remains in a limited beta version, even sparking a black market for invitations. However, some users indicate that its execution speed and practical outcomes remain below initial promises. Currently, Manus appears primarily aimed at businesses.
 
