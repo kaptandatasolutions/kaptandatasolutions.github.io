@@ -1,3 +1,14 @@
+---
+layout: post
+title: Understanding ARL-A Guide to Optimizing Control Charts Power Plans
+subtitle: Enhancing Process Quality with Average Run Length Analysis
+cover-img: /assets/img/ia_local_img.jpg
+thumbnail-img: /assets/img/blog_share_ARL-page.png
+share-img: /assets/img/blog_share_ARL-share.png
+tags: [quality control, statistics, process optimization, ARL, control charts, manufacturing, Average-Run-Length]
+author: Kayhan Kaptan (R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control)
+---
+
 # AI without the Internet: GPT-4 on Your Private Server, Secured and Confidential
 
 The rise of ChatGPT and GPT-4 has revolutionized how we leverage **artificial intelligence (AI)**. However, organizations handling sensitive data often hesitate to use online AI services because it involves transmitting confidential information to external servers. How can companies benefit from advanced AI models **without compromising data confidentiality**? At **Kaptan Data Solutions**, we provide the answer: *deploy AI locally*, on your own servers—or even on a high-performance gaming PC equipped with a suitable graphics card—and do so **without any internet connection**.
