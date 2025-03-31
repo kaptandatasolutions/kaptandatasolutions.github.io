@@ -37,6 +37,7 @@ navbar-links:
     #- 2024-10-28: "https://kaptandatasolutions.github.io/2024-11-18-KAP-TEN-LAST-TECH-NEWS/"
     #- 2024-10-21: "https://kaptandatasolutions.github.io/2024-10-21-KAP-TEN-LAST-TECH-NEWS/"    
   our items:
+    - CorpoRAG - Internal Generative Retrieval: "https://kaptandatasolutions.github.io/31-03-03-Local-IA/"
     - Understanding ARL: "https://kaptandatasolutions.github.io/2024-10-24-ARL0-ARL1/"
     - Revoltionizing: "https://kaptandatasolutions.github.io/2024-10-02-Revolutionizing/"
     - Surgical Robots: "https://kaptandatasolutions.github.io/2024-10-11-Robotic-Control-Strategies-at-Ganymed-Robotics/"
@@ -44,6 +45,7 @@ navbar-links:
     - Podcast Automated Starshot Analysis: "https://kaptandatasolutions.github.io/2024-10-09-Podcast-Starshot-By-Kaptan-data-solutions-Pylinac/"
     - Podcast Automated SPC: "https://kaptandatasolutions.github.io/2024-10-09-Podcast-SPC-By-Kaptan-data-solution/"
   Solutions:
+    - CorpoRAG - Internal Generative Retrieval: "https://kaptandatasolutions.github.io/31-03-03-Local-IA/"
     - SPC Physique Médicale: "https://kaptandatasolutions.github.io/2024-10-03-Automated-SPC-Web-Solution-for-Quality-Control-in-Radiotherapy/"
     - Chatbot: "https://kaptandatasolutions.github.io/2024-10-04-Chatbot-ansm-2023/"
     - Picket Fence: "https://kaptandatasolutions.github.io/2024-10-05-Picket-Fence-Pylinac-Module/"
