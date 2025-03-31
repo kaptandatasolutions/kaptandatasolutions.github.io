@@ -11,6 +11,8 @@ author: Kayhan Kaptan (R&D Mechatronics Technician "Modeling, Algorithms, Valida
 
 # AI without the Internet: GPT-4 on Your Private Server, Secured and Confidential
 
+**[[See the demo on our website]](https://kaptan-data.streamlit.app/private_gpt)**
+
 The rise of ChatGPT and GPT-4 has revolutionized how we leverage **artificial intelligence (AI)**. However, organizations handling sensitive data often hesitate to use online AI services because it involves transmitting confidential information to external servers. How can companies benefit from advanced AI models **without compromising data confidentiality**? At **Kaptan Data Solutions**, we provide the answer: *deploy AI locally*, on your own servers—or even on a high-performance gaming PC equipped with a suitable graphics card—and do so **without any internet connection**.
 
 ## Why Deploy AI Locally?
@@ -44,4 +46,7 @@ The need to balance advanced AI with strict data confidentiality isn't limited t
 ## Conclusion
 
 Local AI solutions pave the way for confidently integrating AI in even the most sensitive environments. **Kaptan Data Solutions** is here to guide your organization through this technological transition—from technical deployment to customizing AI to match your specific business needs. *Want to learn more or discuss your project?* [**Contact us today**](mailto:kaptandatasolutions@gmail.com) to discover how to deploy powerful, fully confidential AI solutions directly in your infrastructure.
+
+**[[See the demo on our website]](https://kaptan-data.streamlit.app/private_gpt)**
+
 
