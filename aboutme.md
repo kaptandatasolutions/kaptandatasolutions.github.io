@@ -6,7 +6,7 @@ subtitle: As you wish, a tale of data and healing
 
 # Kaptan Data Solutions - Portfolio
 
-Welcome to **Kaptan Data Solutions (KDS)**, where we craft elegant solutions to meet the data science needs in the field of medical physics. We believe in a world where your data is as sharp as a fencing foil and as loyal as a true friend.
+Welcome to **Kaptan Data Solutions (KDS)**, where we craft elegant solutions to meet the data science needs in the field of medical physics, companies, laboratories, and institutions. We believe in a world where your data is as sharp as a fencing foil and as loyal as a true friend.
 
 ## Launch of Our Portfolio
 
