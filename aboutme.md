@@ -14,7 +14,12 @@ In August 2024, we launched our blog [Kaptan-Data](https://kaptan-data.streamlit
 
 ![png](/assets/img/new logo kaptan-data-solution-2.png)
 
-> "We are a French startup 🐓 specializing in the creation of cutting-edge web applications designed to meet the data science needs in the field of medical physics. Our services are crafted to empower your research and operations through innovative tools that simplify data analysis and visualization."
+> "We are a French startup specializing in creating innovative web applications focused on data science and interactive data visualization. Our mission is to precisely address the specific needs of companies, laboratories, and institutions by offering high-performance, intuitive tools designed to simplify and accelerate research, analysis, and data utilization.
+
+Although our expertise is widely recognized in medical physics, where we actively contribute to optimizing research and operations through innovative tools for processing and visualizing complex data, our scope extends far beyond. We also operate across various other sectors such as industry, environment, finance, biotechnology, and energy, consistently delivering tailored and personalized solutions.
+
+Leveraging advanced technologies and multidisciplinary experience, we assist our clients in harnessing the value of their data, enabling informed decision-making, enhancing operational performance, and maintaining competitiveness within their respective fields.
+"
 
 ### Our Solutions
 
