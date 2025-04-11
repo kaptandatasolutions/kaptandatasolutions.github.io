@@ -54,7 +54,7 @@ comments:
   moderation: True
 
   # Akismet spam detection.
-  # akismet:
+  akismet:
      enabled: true
      author: "name"
      authorEmail: "email"
