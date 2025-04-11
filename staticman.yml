@@ -51,16 +51,16 @@ comments:
   # Whether entries need to be approved before they are published to the main
   # branch. If set to `true`, a pull request will be created for your approval.
   # Otherwise, entries will be published to the main branch automatically.
-  moderation: false
+  moderation: True
 
   # Akismet spam detection.
   # akismet:
-  #   enabled: true
-  #   author: "name"
-  #   authorEmail: "email"
-  #   authorUrl: "url"
-  #   content: "message"
-  #   type: "comment"
+     enabled: true
+     author: "name"
+     authorEmail: "email"
+     authorUrl: "url"
+     content: "message"
+     type: "comment"
 
   # Name of the site. Used in notification emails.
   # name: "Your Site"
