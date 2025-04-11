@@ -1,8 +1,14 @@
-{% if page.comments %}
-  {% include disqus.html %}
-  {% include fb-comment.html %}
-  {% include staticman-comments.html %}
-  {% include utterances-comment.html %}
-  {% include giscus-comment.html %}
-  {% include commentbox.html %}
+{% assign slug = page.slug | default: page.url | slugify %}
+{% assign comments = site.data.comments[slug] %}
+
+<h2>Commentaires</h2>
+{% if comments %}
+  {% for comment in comments %}
+    <div class="comment">
+      <p><strong>{{ comment.name }}</strong> - {{ comment.date }}</p>
+      <p>{{ comment.message }}</p>
+    </div>
+  {% endfor %}
+{% else %}
+  <p>Aucun commentaire pour le moment.</p>
 {% endif %}
