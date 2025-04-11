@@ -172,4 +172,66 @@
     {% endfor %}
   {% endif %}
 
+
 </head>
+<style>
+  .comment-form {
+    max-width: 600px; /* Largeur max du formulaire */
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+    background: #fafafa;
+    font-family: sans-serif;
+  }
+  
+  .comment-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .comment-form label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 5px;
+  }
+  
+  .comment-form label span {
+    color: red; /* Pour signaler les champs obligatoires */
+  }
+  
+  .comment-form input[type="text"],
+  .comment-form input[type="email"],
+  .comment-form input[type="url"],
+  .comment-form textarea {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .comment-form input[type="text"]:focus,
+  .comment-form input[type="email"]:focus,
+  .comment-form input[type="url"]:focus,
+  .comment-form textarea:focus {
+    border-color: #999;
+    outline: none;
+  }
+  
+  .comment-form .comment-submit {
+    display: inline-block;
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+    background: #0073e6;
+    color: #fff;
+    font-weight: 600;
+    transition: background 0.3s;
+  }
+  
+  .comment-form .comment-submit:hover {
+    background: #005bb5;
+  }
+
+</style>
