@@ -1,0 +1,51 @@
+# --- _staticman.yml ---
+comments:
+  # Autoriser uniquement ces champs dans le formulaire
+  allowedFields: ["name", "email", "url", "message"]
+  
+  # Champs obligatoires
+  requiredFields: ["name", "email", "message"]
+
+  # Nom de la branche (doit correspondre à la branche utilisée pour le site)
+  branch: "master"
+
+  # Message du commit lors de la création d’un nouveau commentaire
+  commitMessage: "New comment by {fields.name}"
+
+  # Format de stockage : YAML, JSON ou frontmatter
+  format: "yaml"
+
+  # Chemin où les fichiers de commentaires seront générés
+  path: "_data/comments/{options.slug}"
+
+  # Nom du fichier créé pour chaque commentaire
+  filename: "comment-{@timestamp}"
+
+  # Champs générés automatiquement
+  generatedFields:
+    date:
+      type: date
+      options:
+        format: iso8601
+
+  # Appliquer un hash MD5 sur l’email
+  transforms:
+    email: md5
+
+  # Modération automatique ? false = publie directement
+  moderation: false
+
+  # reCaptcha (optionnel, désactivé ici)
+  reCaptcha:
+    enabled: false
+    #siteKey: ""
+    #secret: ""
+
+  # Exemples de configuration Akismet (optionnelle)
+  # akismet:
+  #   enabled: true
+  #   author: "name"
+  #   authorEmail: "email"
+  #   authorUrl: "url"
+  #   content: "message"
+  #   type: "comment"
