@@ -2,9 +2,9 @@
 layout: post
 title: Podcast - Agent2Agent (A2A) Protocol for Enhanced AI Agent Collaboration
 subtitle: Unlocking AI Potential through Open and Seamless Interoperability
-cover-img: /assets/img/a2a_cover.png
-thumbnail-img: /assets/img/blog_image_podcast_a2a-thumbnail.png
-share-img: /assets/img/blog_image_podcast_a2a-share.png
+cover-img: /assets/img/a2a_cover_2.png
+thumbnail-img: /assets/img/a2a_cover.png
+share-img: /assets/img/a2a_share.png
 tags: [AI, agent-collaboration, interoperability, open-source, protocol, A2A, technology]
 author: Kayhan Kaptan (R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control - Expert in AI and Digital Transformation)
 ---
