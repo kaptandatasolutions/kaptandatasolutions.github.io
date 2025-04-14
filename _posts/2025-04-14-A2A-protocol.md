@@ -91,6 +91,6 @@ For a deeper exploration, we invite you to listen to our podcast dedicated to th
 🎧**Enjoy listening!**
 
 <audio controls style="width: 100%; max-width: 600px;">
-  <source src="/podcast_kds/a2a.wav" type="audio/wav">
+  <source src="/podcast_kds/a2a.mp3" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>
