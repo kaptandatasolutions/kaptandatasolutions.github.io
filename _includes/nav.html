@@ -12,6 +12,7 @@
 
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
+      <!-- Liens de navigation standards -->
       {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
           <li class="nav-item dropdown">
@@ -30,6 +31,13 @@
           </li>
         {%- endif -%}
       {%- endfor -%}
+      
+      <!-- Boutons Auth0 visibles par défaut -->
+      <li class="nav-item">
+        <button id="auth0-login-btn" class="btn btn-sm btn-primary nav-link" onclick="login()" style="margin: 0.5rem;">Login</button>
+        <button id="auth0-logout-btn" class="btn btn-sm btn-outline-primary nav-link" onclick="logout()" style="display: none; margin: 0.5rem;">Logout</button>
+      </li>
+      
       {% if site.post_search %}
         <li class="nav-item">
           <a class="nav-link" id="nav-search-link" href="#" title="Search">

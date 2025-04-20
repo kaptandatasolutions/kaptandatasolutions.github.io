@@ -344,4 +344,5 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
+# Ajoutez cette ligne à votre _config.yml si ce n'est pas déjà fait
+extracss: /assets/css/custom.css

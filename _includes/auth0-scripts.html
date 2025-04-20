@@ -1,0 +1,103 @@
+<!-- Auth0 scripts -->
+<script src="https://cdn.auth0.com/js/auth0-spa-js/2.0/auth0-spa-js.production.js"></script>
+<script>
+  let auth0Client = null;
+  const configureClient = async () => {
+    try {
+      auth0Client = await createAuth0Client({
+        domain: "dev-3u60nolrb8e0gznx.eu.auth0.com",
+        clientId: "LMUi6iOzbNDjg2uNFV9dWXYRNrCJkKOk",
+        authorizationParams: {
+          redirect_uri: "https://kaptandatasolutions.github.io"
+        }
+      });
+      console.log("Auth0 client configured successfully");
+    } catch (error) {
+      console.error("Error configuring Auth0 client:", error);
+    }
+  };
+
+  // Handle login
+  const login = async () => {
+    try {
+      console.log("Login attempt");
+      await auth0Client.loginWithRedirect();
+    } catch (error) {
+      console.error("Login error:", error);
+    }
+  };
+
+  // Handle logout
+  const logout = async () => {
+    try {
+      console.log("Logout attempt");
+      auth0Client.logout({
+        logoutParams: {
+          returnTo: window.location.origin
+        }
+      });
+    } catch (error) {
+      console.error("Logout error:", error);
+    }
+  };
+
+  // Check if user is authenticated
+  const updateUI = async () => {
+    try {
+      const loginBtn = document.getElementById("auth0-login-btn");
+      const logoutBtn = document.getElementById("auth0-logout-btn");
+      
+      if (!loginBtn || !logoutBtn) {
+        console.error("Auth0 buttons not found in DOM");
+        return;
+      }
+      
+      console.log("Updating UI, buttons found");
+      
+      // Always show at least one button
+      const isAuthenticated = await auth0Client.isAuthenticated();
+      console.log("User authenticated:", isAuthenticated);
+      
+      if (isAuthenticated) {
+        loginBtn.style.display = "none";
+        logoutBtn.style.display = "inline-block";
+        
+        const user = await auth0Client.getUser();
+        console.log("User info:", user);
+      } else {
+        loginBtn.style.display = "inline-block";
+        logoutBtn.style.display = "none";
+      }
+    } catch (error) {
+      console.error("Error updating UI:", error);
+      // Show login button by default on errors
+      if (document.getElementById("auth0-login-btn")) {
+        document.getElementById("auth0-login-btn").style.display = "inline-block";
+      }
+      if (document.getElementById("auth0-logout-btn")) {
+        document.getElementById("auth0-logout-btn").style.display = "none";
+      }
+    }
+  };
+
+  // Initialize the client
+  window.addEventListener('DOMContentLoaded', async () => {
+    console.log("DOM loaded, initializing Auth0");
+    await configureClient();
+    
+    // Check for the callback
+    const query = window.location.search;
+    if (query.includes("code=") && query.includes("state=")) {
+      // Process the login state
+      try {
+        await auth0Client.handleRedirectCallback();
+        window.history.replaceState({}, document.title, "/");
+        console.log("Redirect callback handled");
+      } catch (error) {
+        console.error("Error handling redirect:", error);
+      }
+    }
+    
+    await updateUI();
+  });
+</script>
