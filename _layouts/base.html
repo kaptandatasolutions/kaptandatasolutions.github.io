@@ -21,12 +21,13 @@ common-js:
 
 <!DOCTYPE html>
 <html lang="{{ page.language | default: site.language | default: 'en' }}">
-<!-- Beautiful Jekyll 6.0.1 | Copyright Dean Attali 2023 -->
-{% include head.html %}
+  {% include head.html %}
 
-<head>
+  <!-- Charger Auth0 SPA SDK avant tout autre script JS -->
+  <!-- Charge le SDK sans defer, pour qu’il soit dispo immédiatement -->
+  <script src="https://cdn.auth0.com/js/auth0-spa-js/1.21/auth0-spa-js.production.js"></script>
+
   <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
-</head>
 
 <body>
   {% include gtm_body.html %}
@@ -36,11 +37,55 @@ common-js:
   {{ content }}
 
   {% include footer.html %}
-
   {% include footer-scripts.html %}
 
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      if (typeof createAuth0Client !== 'function') {
+        console.error('Auth0 SDK non trouvé : vérifie que le <script src="...auth0-spa-js..."> est bien chargé avant celui‑ci.');
+        return;
+      }
+      const auth0 = await createAuth0Client({
+        domain: 'dev-3u60nolrb8e0gznx.eu.auth0.com',
+        client_id: 'LMUi6iOzbNDjg2uNFV9dWXYRNrCJkKOk',
+        cacheLocation: 'localstorage',
+        useRefreshTokens: true,
+        redirect_uri: window.location.origin
+      });
+
+      // Traiter la redirection Auth0
+      if (window.location.search.includes('code=') && window.location.search.includes('state=')) {
+        try {
+          await auth0.handleRedirectCallback();
+          window.history.replaceState({}, document.title, window.location.pathname);
+        } catch (e) {
+          console.error('Erreur lors du callback Auth0:', e);
+        }
+      }
+
+      const btnLogin    = document.getElementById('btn-login');
+      const btnLogout   = document.getElementById('btn-logout');
+      const profileName = document.getElementById('profile-name');
+
+      const updateUI = async () => {
+        if (await auth0.isAuthenticated()) {
+          btnLogin.classList.add('d-none');
+          btnLogout.classList.remove('d-none');
+          const user = await auth0.getUser();
+          profileName.textContent = user.name || user.email;
+        } else {
+          btnLogin.classList.remove('d-none');
+          btnLogout.classList.add('d-none');
+          profileName.textContent = '';
+        }
+      };
+
+      btnLogin.addEventListener('click', () => auth0.loginWithRedirect());
+      btnLogout.addEventListener('click', () => auth0.logout({ returnTo: window.location.origin }));
+
+      // Initial UI
+      await updateUI();
+    });
+  </script>
 </body>
-
-
-
 </html>
