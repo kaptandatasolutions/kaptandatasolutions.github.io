@@ -107,11 +107,11 @@ Customized training and support for Python web application development and imple
 
 ---
 
-## 📞 Contact
+## 📞 Contact (+33)677264831
 
-**Kaptan Data Solutions**  
+**Kaptan Data Solutions** 
 📍 10 rue de la Grand-Maison, 45200 Paucourt, FRANCE  
-📧 [kaptan.data.solutions@gmail.com](mailto:kaptandatasolutions@gmail.com)  
+📧 [kaptandatasolutions@gmail.com](mailto:kaptandatasolutions@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/company/kaptan-data-solutions/) | [Portfolio](https://kaptan-data.streamlit.app/)
 
 ---
