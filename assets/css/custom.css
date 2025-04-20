@@ -23,22 +23,7 @@ form {
   border-color: #dbdee1;
 }
 
-#auth0-logout-btn {
-  background-color: transparent;
-  border-color: #6f6c72;
-  color: #d9eeef0f;
-}
 
-#auth0-logout-btn:hover {
-  background-color: #f8f9fa;
-}
-
-@media (max-width: 767.98px) {
-  #auth0-login-btn, #auth0-logout-btn {
-    width: 100%;
-    margin: 0.5rem 0;
-  }
-}
 /* Styles pour le bouton de déconnexion avec nom d'utilisateur */
 #auth0-logout-btn {
   display: flex;
