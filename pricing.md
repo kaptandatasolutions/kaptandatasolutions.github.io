@@ -83,7 +83,7 @@ Versatile generator of synthetic medical images for testing and training in medi
 ---
 
 ## 🚀 KDS Exclusive Pack
-**Price:** [Contact us](mailto:kaptan.data.solutions@gmail.com)
+**Price:** [Contact us](mailto:kaptandatasolutions@gmail.com)
 
 Full access to all our applications with personalized installation, comprehensive training, and expert guidance.
 
@@ -96,7 +96,7 @@ Full access to all our applications with personalized installation, comprehensiv
 ---
 
 ## 🎓 Python Web Training & Consulting
-**Price:** [Contact us](mailto:kaptan.data.solutions@gmail.com)
+**Price:** [Contact us](mailto:kaptandatasolutions@gmail.com)
 
 Customized training and support for Python web application development and implementation of quality management techniques (SPC, machine learning).
 
@@ -111,7 +111,7 @@ Customized training and support for Python web application development and imple
 
 **Kaptan Data Solutions**  
 📍 10 rue de la Grand-Maison, 45200 Paucourt, FRANCE  
-📧 [kaptan.data.solutions@gmail.com](mailto:kaptan.data.solutions@gmail.com)  
+📧 [kaptan.data.solutions@gmail.com](mailto:kaptandatasolutions@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/company/kaptan-data-solutions/) | [Portfolio](https://kaptan-data.streamlit.app/)
 
 ---
