@@ -19,14 +19,14 @@ form {
 }
 
 #auth0-login-btn:hover {
-  background-color: #a7adad73;
-  border-color: #0062cc;
+  background-color: #e31ecc73;
+  border-color: #dbdee1;
 }
 
 #auth0-logout-btn {
   background-color: transparent;
   border-color: #6f6c72;
-  color: #007bff;
+  color: #d9eeef0f;
 }
 
 #auth0-logout-btn:hover {
@@ -37,5 +37,30 @@ form {
   #auth0-login-btn, #auth0-logout-btn {
     width: 100%;
     margin: 0.5rem 0;
+  }
+}
+/* Styles pour le bouton de déconnexion avec nom d'utilisateur */
+#auth0-logout-btn {
+  display: flex;
+  align-items: center;
+  padding: 0.25rem 0.75rem;
+}
+
+#auth0-logout-btn .user-name {
+  max-width: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  margin-right: 5px;
+  font-weight: bold;
+}
+
+#auth0-logout-btn .logout-text {
+  margin-left: 5px;
+}
+
+@media (max-width: 767.98px) {
+  #auth0-logout-btn .user-name {
+    max-width: none;
   }
 }

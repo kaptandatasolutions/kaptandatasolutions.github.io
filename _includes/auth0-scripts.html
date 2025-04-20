@@ -29,31 +29,51 @@
       localStorage.setItem('access_token', authResult.accessToken);
       localStorage.setItem('id_token', authResult.idToken);
       
-      // Mettre à jour l'interface
-      updateAuthUI(true);
-      
-      // Optionnel : récupérer le profil utilisateur
+      // Récupérer le profil utilisateur
       lock.getUserInfo(authResult.accessToken, function(error, profile) {
         if (!error) {
           console.log('Profile:', profile);
           localStorage.setItem('user_profile', JSON.stringify(profile));
+          
+          // Mettre à jour l'interface avec le nom d'utilisateur
+          updateAuthUI(true, profile.name || profile.nickname || profile.email || 'Utilisateur');
+        } else {
+          updateAuthUI(true, 'Utilisateur');
         }
       });
     });
     
     // Vérifier si l'utilisateur est déjà connecté
     var idToken = localStorage.getItem('id_token');
+    var userProfile = localStorage.getItem('user_profile');
+    
     if (idToken) {
-      updateAuthUI(true);
+      if (userProfile) {
+        try {
+          var profile = JSON.parse(userProfile);
+          updateAuthUI(true, profile.name || profile.nickname || profile.email || 'Utilisateur');
+        } catch (e) {
+          updateAuthUI(true, 'Utilisateur');
+        }
+      } else {
+        updateAuthUI(true, 'Utilisateur');
+      }
     } else {
       updateAuthUI(false);
     }
     
     // Fonction pour mettre à jour l'interface
-    function updateAuthUI(isLoggedIn) {
+    function updateAuthUI(isLoggedIn, userName) {
       if (isLoggedIn) {
         document.getElementById("auth0-login-btn").style.display = "none";
-        document.getElementById("auth0-logout-btn").style.display = "inline-block";
+        
+        // Mettre à jour le texte du bouton de déconnexion avec le nom d'utilisateur
+        var logoutBtn = document.getElementById("auth0-logout-btn");
+        logoutBtn.style.display = "inline-block";
+        
+        if (userName) {
+          logoutBtn.innerHTML = `<span class="user-name">${userName}</span> <span class="logout-text">Logout</span>`;
+        }
       } else {
         document.getElementById("auth0-login-btn").style.display = "inline-block";
         document.getElementById("auth0-logout-btn").style.display = "none";
