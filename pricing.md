@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Pricing
-subtitle: Explore our comprehensive range of solutions tailored to your professional needs, with transparent and competitive pricing. Each application is carefully developed to ensure performance, reliability, and user-friendliness.
+title: "Pricing"
 permalink: /pricing/
 ---
 
 ## 📌 [Discover our Full Portfolio](https://kaptan-data.streamlit.app/)
 
----
 
 ## 🌐 AI Solutions Without Internet Connection
 
