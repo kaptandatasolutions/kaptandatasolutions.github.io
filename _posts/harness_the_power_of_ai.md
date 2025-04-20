@@ -2,8 +2,8 @@
 layout: post
 title: Harness the Power of AI Without Internet Access
 subtitle: Secure, Customizable, and Efficient Solutions for Your Enterprise
-cover-img: /assets/img/a2a_cover_2.png
-thumbnail-img: /assets/img/a2a_cover.png
+cover-img: /assets/img/pricing_image_cover.webp
+thumbnail-img: /assets/img/accueil image 2 (19).png
 share-img: /assets/img/pricing_image.png
 tags: [AI, agent-collaboration, interoperability, open-source, protocol, A2A, technology]
 author: Kayhan Kaptan (R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control - Expert in AI and Digital Transformation)
