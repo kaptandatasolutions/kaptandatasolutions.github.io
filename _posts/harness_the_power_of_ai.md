@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Harness the Power of AI Without Internet Access: Secure, Customizable, and Efficient Solutions for Your Enterprise
-subtitle: Our Solutions Portfolio
+title: Harness the Power of AI Without Internet Access
+subtitle: Secure, Customizable, and Efficient Solutions for Your Enterprise
 cover-img: /assets/img/a2a_cover_2.png
 thumbnail-img: /assets/img/a2a_cover.png
 share-img: /assets/img/pricing_image.png
