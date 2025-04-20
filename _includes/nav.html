@@ -32,12 +32,11 @@
         {%- endif -%}
       {%- endfor -%}
       
-      <!-- Boutons Auth0 visibles par défaut -->
+      <!-- Boutons Auth0 avec des événements onclick explicites -->
       <li class="nav-item">
-        <button id="auth0-login-btn" class="btn btn-sm btn-primary nav-link" onclick="login()" style="margin: 0.5rem;">Login</button>
-        <button id="auth0-logout-btn" class="btn btn-sm btn-outline-primary nav-link" onclick="logout()" style="display: none; margin: 0.5rem;">Logout</button>
+        <button id="auth0-login-btn" class="btn btn-sm btn-primary nav-link" style="margin: 0.5rem;" onclick="console.log('Login clicked'); document.dispatchEvent(new Event('auth0login'));">Login</button>
+        <button id="auth0-logout-btn" class="btn btn-sm btn-outline-primary nav-link" style="display: none; margin: 0.5rem;" onclick="console.log('Logout clicked'); document.dispatchEvent(new Event('auth0logout'));">Logout</button>
       </li>
-      
       {% if site.post_search %}
         <li class="nav-item">
           <a class="nav-link" id="nav-search-link" href="#" title="Search">
