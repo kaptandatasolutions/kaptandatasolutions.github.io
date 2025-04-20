@@ -25,7 +25,12 @@ layout: base
         </div>
       {% endif %}
 
-      {% include commentbox.html %}
+      {% if page.comments != false %}
+        <div class="comments-section">
+          <h2>Comments</h2>
+          {% include commentbox.html %}
+        </div>
+      {% endif %}
     </div>
   </div>
 </main>
