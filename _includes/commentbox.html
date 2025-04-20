@@ -1,9 +1,27 @@
-{% if site.commentbox %}
-  <div class="commentbox"></div>
-  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js" async></script>
-  <script>
-    document.addEventListener("DOMContentLoaded", function() {
-      commentBox("{{ site.commentbox }}")
-    });
-  </script>
-{% endif %}
+<!-- Commentbox.io integration with delayed loading -->
+<div class="commentbox"></div>
+
+<script>
+  // Attendre que la page soit complètement chargée, y compris tous les autres scripts
+  window.addEventListener('load', function() {
+    // Attendre un peu plus pour s'assurer que Auth0 et autres scripts sont bien initialisés
+    setTimeout(function() {
+      // Charger dynamiquement le script Commentbox
+      var script = document.createElement('script');
+      script.src = 'https://unpkg.com/commentbox.io/dist/commentBox.min.js';
+      script.onload = function() {
+        console.log("Commentbox script loaded, initializing...");
+        try {
+          commentBox('5721091683123200-proj', {
+            className: 'commentbox',
+            defaultBoxId: window.location.pathname
+          });
+          console.log("Commentbox initialized successfully");
+        } catch(e) {
+          console.error("Failed to initialize Commentbox:", e);
+        }
+      };
+      document.body.appendChild(script);
+    }, 1500); // Délai de 1.5 seconde après chargement complet
+  });
+</script>
