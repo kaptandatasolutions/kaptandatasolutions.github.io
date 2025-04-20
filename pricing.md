@@ -84,7 +84,7 @@ Versatile generator of synthetic medical images for testing and training in medi
 ---
 
 ## 🚀 KDS Exclusive Pack
-**Price:** [Contact us](mailto:kaptandatasolutions@gmail.com)
+**Price:** [Contact us](https://kaptandatasolutions.github.io/contact/)
 
 Full access to all our applications with personalized installation, comprehensive training, and expert guidance.
 
@@ -97,7 +97,7 @@ Full access to all our applications with personalized installation, comprehensiv
 ---
 
 ## 🎓 Python Web Training & Consulting
-**Price:** [Contact us](mailto:kaptandatasolutions@gmail.com)
+**Price:** [Contact us](https://kaptandatasolutions.github.io/contact/)
 
 Customized training and support for Python web application development and implementation of quality management techniques (SPC, machine learning).
 
