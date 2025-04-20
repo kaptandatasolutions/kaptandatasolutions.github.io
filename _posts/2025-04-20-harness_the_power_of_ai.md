@@ -3,7 +3,7 @@ layout: post
 title: Harness the Power of AI Without Internet Access
 subtitle: Secure, Customizable, and Efficient Solutions for Your Enterprise
 cover-img: /assets/img/pricing_image_cover.webp
-thumbnail-img: /assets/img/accueil image 2 (19).png
+thumbnail-img: /assets/img/pricing_image_cover.png
 share-img: /assets/img/pricing_image.png
 tags: [KDS, Kaptan Data Solutions, Pricing]
 author: Kayhan Kaptan (R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control - Expert in AI and Digital Transformation)
