@@ -21,6 +21,8 @@ author: Kaptan Data Solutions
 
 navbar-links:
   About Us: "aboutme"
+  Pricing: "pricing"
+  
   Kap10 - Last Tech News :
     - 2025-03-10: "https://kaptandatasolutions.github.io/2025-03-10-KAP-TEN-LAST-TECH-NEWS/"
     - 2025-03-03: "https://kaptandatasolutions.github.io/2025-03-03-KAP-TEN-LAST-TECH-NEWS/"
@@ -37,7 +39,7 @@ navbar-links:
     #- 2024-10-28: "https://kaptandatasolutions.github.io/2024-11-18-KAP-TEN-LAST-TECH-NEWS/"
     #- 2024-10-21: "https://kaptandatasolutions.github.io/2024-10-21-KAP-TEN-LAST-TECH-NEWS/"    
   our items:
-    - CorpoRAG - Internal Generative Retrieval: "https://kaptandatasolutions.github.io/2025-03-31-Local-IA/"
+    - Podcast - Agent2Agent (A2A) Protocol for Enhanced AI Agent Collaboration: "https://kaptandatasolutions.github.io/2025-04-14-A2A-protocol/"
     - Understanding ARL: "https://kaptandatasolutions.github.io/2024-10-24-ARL0-ARL1/"
     - Revoltionizing: "https://kaptandatasolutions.github.io/2024-10-02-Revolutionizing/"
     - Surgical Robots: "https://kaptandatasolutions.github.io/2024-10-11-Robotic-Control-Strategies-at-Ganymed-Robotics/"
