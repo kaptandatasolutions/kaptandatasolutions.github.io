@@ -9,7 +9,7 @@ tags: [KDS, Kaptan Data Solutions, Pricing]
 author: Kayhan Kaptan (R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control - Expert in AI and Digital Transformation)
 ---
 
-![png](/assets/img/new logo kaptan-data-solution-2.png)
+![png](/assets/img/new logo kaptan-data-solution.png)
 
 In today's competitive environment, ensuring data security, efficiency, and compliance is paramount. At [Your Company Name], we specialize in delivering advanced Artificial Intelligence (AI) solutions specifically designed to operate entirely offline, fully integrated within your existing IT infrastructure. Discover our tailored, secure, and efficient AI solutions—crafted to boost your productivity without ever compromising on confidentiality. [More details here](https://kaptandatasolutions.github.io/pricing/)
 
