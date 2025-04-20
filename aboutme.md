@@ -2,7 +2,7 @@
 layout: page
 title: Kaptan Data Solutions
 subtitle: As you wish, a tale of data and healing
-comments: True
+comments: False
 ---
 
 # Kaptan Data Solutions - Portfolio
