@@ -5,7 +5,7 @@ subtitle: Secure, Customizable, and Efficient Solutions for Your Enterprise
 cover-img: /assets/img/pricing_image_cover.webp
 thumbnail-img: /assets/img/accueil image 2 (19).png
 share-img: /assets/img/pricing_image.png
-tags: [AI, agent-collaboration, interoperability, open-source, protocol, A2A, technology]
+tags: [KDS, Kaptan Data Solutions, Pricing]
 author: Kayhan Kaptan (R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control - Expert in AI and Digital Transformation)
 ---
 
