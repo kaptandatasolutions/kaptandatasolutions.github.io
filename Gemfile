@@ -2,5 +2,17 @@
 
 source "https://rubygems.org"
 
-gemspec
+# Jekyll core
+gem "jekyll", "~> 4.4.1"
 
+# Plugins requis par le thème Beautiful Jekyll
+gem "jekyll-paginate", "~> 1.1"
+gem "jekyll-sitemap",  "~> 1.4"
+gem "webrick",         "~> 1.8"      # pour Ruby ≥ 3.x sur Windows
+
+# Fuseaux horaires
+gem "tzinfo"
+gem "tzinfo-data", platforms: %i[mingw mswin x64_mingw jruby]
+
+# Pour supprimer l’avertissement BigDecimal
+gem "bigdecimal"

@@ -1,6 +1,9 @@
-# Pricing
+---
+layout: page
+title: Pricing
+subtitle: Explore our comprehensive range of solutions tailored to your professional needs, with transparent and competitive pricing. Each application is carefully developed to ensure performance, reliability, and user-friendliness.
 
-Explore our comprehensive range of solutions tailored to your professional needs, with transparent and competitive pricing. Each application is carefully developed to ensure performance, reliability, and user-friendliness.
+---
 
 ## 📌 [Discover our Full Portfolio](https://kaptan-data.streamlit.app/)
 
