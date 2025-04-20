@@ -5,4 +5,39 @@ form {
     border-radius: 0.5rem;
     box-shadow: 0 0.25rem 0.5rem rgba(0,0,0,0.1);
   }
+  /* Container des boutons Auth0 dans la navbar */
+.auth-buttons {
+    margin-left: auto;       /* pousser à droite */
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Ajuster l’apparence des boutons */
+  .auth-buttons .btn {
+    border-color: rgba(255,255,255,0.8);
+    color: #fff;
+    transition: background-color 0.2s ease;
+  }
+  
+  .auth-buttons .btn:hover {
+    background-color: rgba(255,255,255,0.2);
+  }
+  
+  /* Nom de l’utilisateur, espacement vertical */
+  #profile-name {
+    font-weight: 500;
+    line-height: 1;
+  }
+  
+  /* En mobile, on peut réduire la taille */
+  @media (max-width: 576px) {
+    .auth-buttons .btn {
+      padding: 0.25rem 0.5rem;
+      font-size: 0.75rem;
+    }
+    #profile-name {
+      font-size: 0.8rem;
+      margin-left: 0.5rem;
+    }
+  }
   
