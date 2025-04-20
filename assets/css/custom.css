@@ -26,11 +26,17 @@ form {
 
 /* Styles pour le bouton de déconnexion avec nom d'utilisateur */
 #auth0-logout-btn {
+  background-color: #7f569b;
+  border-color: #007bff;
+  color: white;
   display: flex;
   align-items: center;
   padding: 0.25rem 0.75rem;
 }
-
+#auth0-logout-btn:hover {
+  background-color: #e31ecc73;
+  border-color: #dbdee1;
+}
 #auth0-logout-btn .user-name {
   max-width: 100px;
   overflow: hidden;
