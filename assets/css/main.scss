@@ -1,0 +1,11 @@
+/* Centrer le titre et donner un padding */
+.modal-header .modal-title {
+    font-size: 1.75rem;
+  }
+  .modal-body {
+    padding: 2rem;
+  }
+  body {
+    padding-top: 70px; /* adapte selon la hauteur de ta navbar */
+  }
+  
