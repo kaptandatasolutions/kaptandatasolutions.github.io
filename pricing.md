@@ -2,6 +2,7 @@
 layout: page
 title: "Pricing"
 permalink: /pricing/
+comments: False
 ---
 
 ## 📌 [Discover our Full Portfolio](https://kaptan-data.streamlit.app/)
