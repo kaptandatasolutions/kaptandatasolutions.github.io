@@ -11,7 +11,7 @@ comments: False
 ## 🌐 AI Solutions Without Internet Connection
 
 ### Virtual Assistant
-**Price:** 3,500 USD excl. VAT (annual fee)
+**Price:** 3,500 USD excl. VAT (annual fee) - [Click here to buy](https://buy.stripe.com/eVa8x89Ea5s5556dQY)
 
 A fully customizable interactive virtual assistant, tailored to your industry. Instantly query your internal or external databases to receive quick and accurate responses.
 
@@ -22,7 +22,7 @@ A fully customizable interactive virtual assistant, tailored to your industry. I
 - Annual license, maintenance, and updates
 
 ### CorpoRag
-**Price:** 3,500 USD excl. VAT (annual fee)
+**Price:** 3,500 USD excl. VAT (annual fee) - [Click here to buy](https://buy.stripe.com/9AQ8x8cQm8Eh4125kr)
 
 An intelligent assistant capable of analyzing and answering directly from your internal documents, automatically creating a dedicated knowledge base for optimal and confidential data management.
 
@@ -37,7 +37,7 @@ An intelligent assistant capable of analyzing and answering directly from your i
 ## ✅ Quality Control Solutions
 
 ### Web SPC – Statistical Process Control Application
-**Price:** 2,500 USD excl. VAT (annual fee)
+**Price:** 2,500 USD excl. VAT (annual fee) - [Click here to buy](https://buy.stripe.com/fZe28K8A61bPbtu5kq)
 
 An intuitive web-based platform for statistical analysis and automatic generation of detailed reports from your data.
 
@@ -52,27 +52,27 @@ An intuitive web-based platform for statistical analysis and automatic generatio
 ## 🏥 Medical Physics Solutions
 
 ### Picket Fence Analyzer
-**Price:** 1,500 USD excl. VAT (annual fee)
+**Price:** 1,500 USD excl. VAT (annual fee) - [Click here to buy](https://buy.stripe.com/28o28K3fM2fT1SUfZ3)
 
 Complete automation and secure routine checks of MLC blades in radiotherapy.
 
 ### StarShot Analyzer
-**Price:** 1,500 USD excl. VAT (annual fee)
+**Price:** 1,500 USD excl. VAT (annual fee) - [Click here to buy](https://buy.stripe.com/eVadRseYu4o1fJK9AE)
 
 Automatic and detailed analysis of Starshot images for quality assurance in radiotherapy.
 
 ### Winston-Lutz 2D Analyzer
-**Price:** 1,500 USD excl. VAT (annual fee)
+**Price:** 1,500 USD excl. VAT (annual fee) - [Click here to buy](https://buy.stripe.com/eVaeVwbMig6JdBC147)
 
 Automatic analysis of DICOM-format EPID images to verify isocenter accuracy in radiotherapy.
 
 ### Winston-Lutz 3D Analyzer
-**Price:** 1,500 USD excl. VAT (annual fee)
+**Price:** 1,500 USD excl. VAT (annual fee) - [Click here to buy](https://buy.stripe.com/fZefZA4jQg6J5568wy)
 
 Advanced isocenter verification with comprehensive analysis of EPID image series from Winston-Lutz tests.
 
 ### Image Test Generator (DICOM)
-**Price:** 1,500 USD excl. VAT (annual fee)
+**Price:** 1,500 USD excl. VAT (annual fee) - [Click here to buy](https://buy.stripe.com/9AQ6p0aIe9Il5563cd)
 
 Versatile generator of synthetic medical images for testing and training in medical imaging.
 
