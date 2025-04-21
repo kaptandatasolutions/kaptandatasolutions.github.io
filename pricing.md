@@ -21,6 +21,18 @@ A fully customizable interactive virtual assistant, tailored to your industry. I
 - Multiple profiles (beginner, expert, student, research)
 - Annual license, maintenance, and updates
 
+<p>Try out our interactive Chatbot - 100% customisable to your field of activity:</p>
+
+<div style="position:relative;padding-bottom:75%;height:0;overflow:hidden;">
+  <iframe
+    src="https://share.streamlit.io/kaptandatasolutions/resume_kaptan_data/main/views/chatbot.py?embed=true"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:1px solid rgba(0,0,0,0.1);"
+    frameborder="0"
+    loading="lazy"
+  ></iframe>
+</div>
+
+
 ### CorpoRag
 **Price:** 3,500 USD excl. VAT (annual fee) - [Click here to buy](https://buy.stripe.com/9AQ8x8cQm8Eh4125kr)
 
@@ -31,6 +43,18 @@ An intelligent assistant capable of analyzing and answering directly from your i
 - Detailed documentation
 - Multiple profiles
 - Annual license, maintenance, and updates
+
+<p>Try out CORPORAG DEMO - 100% customisable to your field of activity:</p>
+
+<div style="position:relative;padding-bottom:75%;height:0;overflow:hidden;">
+  <iframe
+    src="https://share.streamlit.io/kaptandatasolutions/resume_kaptan_data/main/views/private_gpt.py?embed=true"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:1px solid rgba(0,0,0,0.1);"
+    frameborder="0"
+    loading="lazy"
+  ></iframe>
+</div>
+
 
 ---
 
@@ -47,6 +71,7 @@ An intuitive web-based platform for statistical analysis and automatic generatio
 - Documentation and multi-profile support
 - Annual license with updates
 
+[Try out Web SPC DEMO - 100% customisable to your field of activity:](https://kaptan-data.streamlit.app/Web_SPC)
 ---
 
 ## 🏥 Medical Physics Solutions
@@ -56,25 +81,37 @@ An intuitive web-based platform for statistical analysis and automatic generatio
 
 Complete automation and secure routine checks of MLC blades in radiotherapy.
 
+[Try out Picket Fence Analyzer DEMO](https://kaptan-data.streamlit.app/Picketfence_analyse)
+
 ### StarShot Analyzer
 **Price:** 1,500 USD excl. VAT (annual fee) - [Click here to buy](https://buy.stripe.com/eVadRseYu4o1fJK9AE)
 
 Automatic and detailed analysis of Starshot images for quality assurance in radiotherapy.
+
+[Try out StarShot Analyzer DEMO](https://kaptan-data.streamlit.app/Starshot)
 
 ### Winston-Lutz 2D Analyzer
 **Price:** 1,500 USD excl. VAT (annual fee) - [Click here to buy](https://buy.stripe.com/eVaeVwbMig6JdBC147)
 
 Automatic analysis of DICOM-format EPID images to verify isocenter accuracy in radiotherapy.
 
+[Try out Winston-Lutz 2D Analyzer DEMO](https://kaptan-data.streamlit.app/winston-lutz_2d)
+
 ### Winston-Lutz 3D Analyzer
 **Price:** 1,500 USD excl. VAT (annual fee) - [Click here to buy](https://buy.stripe.com/fZefZA4jQg6J5568wy)
 
 Advanced isocenter verification with comprehensive analysis of EPID image series from Winston-Lutz tests.
 
+
+[Try out Winston-Lutz 3D Analyzer DEMO](https://kaptan-data.streamlit.app/winston-lutz_3d)
+
+
 ### Image Test Generator (DICOM)
 **Price:** 1,500 USD excl. VAT (annual fee) - [Click here to buy](https://buy.stripe.com/9AQ6p0aIe9Il5563cd)
 
 Versatile generator of synthetic medical images for testing and training in medical imaging.
+
+[Try out WImage Test Generator (DICOM) DEMO](https://kaptan-data.streamlit.app/image_generator)
 
 **Included with each solution:**
 - Integrated installation
