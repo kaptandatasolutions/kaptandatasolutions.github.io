@@ -6,7 +6,7 @@ cover-img: /assets/img/kapt10-2.png
 thumbnail-img: /assets/img/kapt10-1.png
 share-img: /assets/img/kapt10-3.png
 tags: [Cybersecurity, AI, Legal Affairs, SFR, Sony, Nvidia, Google, Bluesky, Apple, Microsoft, Huawei, HP, Perplexity, OpenAI]
-author: Kayhan Kaptan (R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM – Expert in Medical Physics Quality Control)
+author: Kayhan Kaptan - Expert in Medical Physics, Quality Control, AI and Digital Transformation
 ---
 
 ## Cyberattack on SFR Exposes Millions of Subscribers' Data

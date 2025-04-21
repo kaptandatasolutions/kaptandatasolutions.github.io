@@ -6,7 +6,7 @@ cover-img: /assets/img/blog_image-image-gen-cover-1.png
 thumbnail-img: /assets/img/blog_image-image-gen-cover.png
 share-img: /assets/img/blog_image-image-gen-cover-3.png
 tags: [data-science, medical-physics, software, solutions, spc, statistical process control, Automated SPC]
-author: Kayhan Kaptan (R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control)
+author: Kayhan Kaptan - Expert in Medical Physics, Quality Control, AI and Digital Transformation
 ---
 
 # Simulate Medical Imaging for Quality Control with Customizable DICOM Test Images

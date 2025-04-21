@@ -6,7 +6,7 @@ cover-img: /assets/img/cover-image-spc.png
 thumbnail-img: /assets/img/spc-logo.png
 share-img: /assets/img/cover-image-spc-share.png
 tags: [data-science, medical-physics, software, solutions,spc,statistical process control,Automated SPC]
-author: Kayhan Kaptan (R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control)
+author: Kayhan Kaptan - Expert in Medical Physics, Quality Control, AI and Digital Transformation
 ---
 
 # Transform Your Quality Control with Our Automated SPC Solution

@@ -6,7 +6,7 @@ cover-img: /assets/img/blog_image_podcast_spc-cover.png
 thumbnail-img: /assets/img/blog_image_podcast_spc-1.png
 share-img: /assets/img/blog_image_podcast_spc-share.png
 tags: [data-science, medical-physics, software, solutions, spc, statistical process control, Automated SPC]
-author: Kayhan Kaptan (R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control)
+author: Kayhan Kaptan - Expert in Medical Physics, Quality Control, AI and Digital Transformation
 ---
 
 ## 🎧 Tune Into Our Latest Podcast: Revolutionizing Quality Control in Radiotherapy 🎧
