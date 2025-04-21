@@ -71,7 +71,8 @@ An intuitive web-based platform for statistical analysis and automatic generatio
 - Documentation and multi-profile support
 - Annual license with updates
 
-[Try out Web SPC DEMO - 100% customisable to your field of activity:](https://kaptan-data.streamlit.app/Web_SPC)
+[Try out Web SPC DEMO - 100% customisable to your field of activity](https://kaptan-data.streamlit.app/Web_SPC)
+
 ---
 
 ## 🏥 Medical Physics Solutions
