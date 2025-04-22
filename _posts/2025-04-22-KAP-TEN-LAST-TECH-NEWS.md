@@ -11,8 +11,6 @@ author: Kayhan Kaptan - Expert in Medical Physics, Quality Control, AI and Digit
 
 # 🔝 Top 10 Tech News - April 22, 2025
 
-Here is an in-depth analytical synthesis of the major recent technological developments, drawn from the **"Monde Numérique"** podcast episode of April 19, 2025, targeted at an advanced academic audience, notably doctoral students and researchers.
-
 ## 1. ⚖️ **Google found guilty of antitrust violations in the United States**
 The U.S. federal court has found Google guilty of intentionally manipulating its automated advertising bidding system (ATEC), significantly restricting competition. This verdict could potentially lead to a partial dismantling of Google's advertising activities, reminiscent of historical antitrust cases such as Microsoft in the early 2000s or AT&T in the 1980s. Despite Google's immediate announcement of an appeal, the case highlights the ongoing and complex evolution of American antitrust regulation in the face of growing digital industry power.
 
