@@ -56,7 +56,7 @@ We are here to turn your ideas into reality by designing tailor-made solutions. 
 
 The demo tools are currently manual and not yet automated, but keep in mind that what you’re doing today with your mouse will soon no longer be necessary. These actions will remain relevant only for fine-tuning and parameter adjustments, while automation takes over the repetitive tasks.
 
-If you're ready to embark on a data-driven adventure, join us. Together, we can make a real difference in the world of medical physics.
+If you're ready to embark on a data-driven adventure, join us.
 
 **[[Contact us]](https://kaptan-data.streamlit.app/KaptanDataSolutions)**  
 **[[Visit our portfolio]](https://kaptan-data.streamlit.app/)**
