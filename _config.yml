@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: {% include animated-icon.html %}
+title: Kaptan Data
 
 # Your name to show in the footer
 author: Kaptan Data Solutions
