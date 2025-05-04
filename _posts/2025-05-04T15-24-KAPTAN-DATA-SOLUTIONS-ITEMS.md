@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unlocking Autonomous Automation: A How‑To Guide on AI Agents
+title: Unlocking Autonomous Automation - A How‑To Guide on AI Agents
 subtitle: Enhance Your Workflows with Intelligent Agents That Decide, Act, and Learn
 cover-img: /assets/img/article_cover_std.png  
 thumbnail-img: /assets/img/article_inside_site.png  
