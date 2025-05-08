@@ -2,9 +2,9 @@
 layout: post
 title: Unlocking Autonomous Automation - A How‑To Guide on AI Agents
 subtitle: Enhance Your Workflows with Intelligent Agents That Decide, Act, and Learn
-cover-img: /assets/img/article_cover_std.png  
-thumbnail-img: /assets/img/article_inside_site.png  
-share-img: /assets/img/article_img_share_std.png  
+cover-img: /assets/img/unlock-cover.png  
+thumbnail-img: /assets/img/unlock-inside.png  
+share-img: /assets/img/unlock-share.png  
 tags: [automation, AI, workflow, integration]  
 author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control  
 ---
