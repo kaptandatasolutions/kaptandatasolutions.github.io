@@ -6,7 +6,7 @@ cover-img: /assets/img/kapt10-2.png
 thumbnail-img: /assets/img/kapt10-1.png
 share-img: /assets/img/kapt10-3.png
 tags: [Generative AI, Digital Twin, Edge AI, Post-Quantum Cryptography, Spatial Computing, Green IT, Open-source LLM, Drones, HealthTech, 6G]
-author: Kayhan Kaptan - Expert in Medical Physics, Quality Control, AI and Digital Transformation
+author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control
 ---
 
 # 🔝 Top 10 Tech News - April 28, 2025

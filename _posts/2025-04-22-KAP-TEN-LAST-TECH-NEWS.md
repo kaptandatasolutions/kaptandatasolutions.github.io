@@ -6,7 +6,7 @@ cover-img: /assets/img/kapt10-2.png
 thumbnail-img: /assets/img/kapt10-1.png
 share-img: /assets/img/kapt10-3.png
 tags: [Antitrust, Google, Meta, GDPR, OpenAI, AIInnovation, SovereignCloud, Blockchain, DataPrivacy, LegalTech]
-author: Kayhan Kaptan - Expert in Medical Physics, Quality Control, AI and Digital Transformation
+author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control
 ---
 
 # 🔝 Top 10 Tech News - April 22, 2025

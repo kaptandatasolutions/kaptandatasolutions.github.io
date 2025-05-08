@@ -6,7 +6,7 @@ cover-img: /assets/img/article_cover_std.png
 thumbnail-img: /assets/img/article_inside_site.png  
 share-img: /assets/img/article_img_share_std.png  
 tags: [automation, AI, workflow, integration]  
-author: Kayhan Kaptan - Expert in Medical Physics, Quality Control, AI and Digital Transformation  
+author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control  
 ---
 
 In today’s fast‑paced digital landscape, automation tools are evolving. New intelligent agents are shifting the way we think about workflow automation—moving from rigid, pre‑defined scenarios to dynamic systems that can decide, act, and even learn from context. In this guide, we explain how to leverage these AI agents to build smarter automation, using a popular integration platform as an example.

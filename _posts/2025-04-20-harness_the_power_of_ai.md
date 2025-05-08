@@ -6,7 +6,7 @@ cover-img: /assets/img/pricing_image_cover.png
 thumbnail-img: /assets/img/pricing_image_cover.webp
 share-img: /assets/img/pricing_image.png
 tags: [KDS, Kaptan Data Solutions, Pricing]
-author: Kayhan Kaptan - Expert in Medical Physics, Quality Control, AI and Digital Transformation)
+author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control)
 ---
 
 ![png](/assets/img/new logo kaptan-data-solution.png)

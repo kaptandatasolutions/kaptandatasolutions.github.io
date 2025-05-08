@@ -6,7 +6,7 @@ cover-img: /assets/img/article_cover_std.png
 thumbnail-img: /assets/img/article_inside_site.png  
 share-img: /assets/img/article_img_share_std.png  
 tags: [artificial intelligence, deep research, open source, content creation]  
-author: Kayhan Kaptan - Expert in Medical Physics, Quality Control, AI and Digital Transformation  
+author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control  
 ---
 
 In today’s digital landscape, artificial intelligence is not only changing the way we work but also how we search for, consolidate, and present information. This guide explains a method that combines several AI tools from different parts of the world to help you obtain objective, reliable, and comprehensive answers. By the end of this article, you will understand a step-by-step approach to harnessing American, Chinese, and French AI platforms to perform deep research, generate detailed content, and even create dynamic presentations and audio summaries.

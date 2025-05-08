@@ -6,7 +6,7 @@ cover-img: /assets/img/kapt10-2.png
 thumbnail-img: /assets/img/kapt10-1.png
 share-img: /assets/img/kapt10-3.png
 tags: [space, AI, energy, technology, Google, Adobe, SpaceX, nuclear]
-author: Kayhan Kaptan - Expert in Medical Physics, Quality Control, AI and Digital Transformation
+author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control
 ---
 
 ## SpaceX’s Historic Starship Breakthrough

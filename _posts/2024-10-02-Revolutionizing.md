@@ -6,7 +6,7 @@ cover-img: /assets/img/data_girl.jpg
 thumbnail-img: /assets/img/logo_kaptan_data.png
 share-img: /assets/img/data_girl.jpg
 tags: [data-science, medical-physics, software, solutions]
-author: Kayhan Kaptan - Expert in Medical Physics, Quality Control, AI and Digital Transformation
+author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control
 ---
 
 
