@@ -2,9 +2,9 @@
 layout: post
 title: Leveraging Multiple AIs for Reliable Research and Content Creation
 subtitle: A Step-by-Step Guide to Combining American, Chinese, and French AI Tools for Comprehensive Results
-cover-img: /assets/img/article_cover_std.png  
-thumbnail-img: /assets/img/article_inside_site.png  
-share-img: /assets/img/article_img_share_std.png  
+cover-img: /assets/img/levrering-mult-cover.png  
+thumbnail-img: /assets/img/levrering-mult-inside.png  
+share-img: /assets/img/levrering-mult-share.png  
 tags: [artificial intelligence, deep research, open source, content creation]  
 author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control  
 ---
