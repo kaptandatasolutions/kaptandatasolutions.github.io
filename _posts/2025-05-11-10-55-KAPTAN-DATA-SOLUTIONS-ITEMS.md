@@ -6,7 +6,7 @@ cover-img: /assets/img/article_cover_std.png
 thumbnail-img: /assets/img/article_inside_site.png  
 share-img: /assets/img/article_img_share_std.png  
 tags: [Automation, AI, How-to, Workflow]
-author: Kayhan Kaptan - Expert in Medical Physics, Quality Control, AI and Digital Transformation  
+author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control
 ---
 
 Many traditional automation setups require you to predefine every branch and condition. With the introduction of intelligent AI agents, you can now build workflows that make decisions on their own, choosing the right tool for the task and even determining if an automation has been successful. In this article, we’ll walk you through how these agents work, how to set them up in your workflow, and share some practical examples that might spark ideas for your business.
