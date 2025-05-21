@@ -2,9 +2,9 @@
 layout: post
 title: Boost Your Productivity with a 4-Step AI Method to Save Over 5 Hours Daily
 subtitle: Learn how to integrate a minimum viable toolkit with ChatGPT, Notebook LM, Google AI Studio, and Jenspark to revolutionize your workflow
-cover-img: /assets/img/article_cover_std.png  
-thumbnail-img: /assets/img/article_inside_site.png  
-share-img: /assets/img/article_img_share_std.png  
+cover-img: /assets/img/Boost_Your_Productivity.png  
+thumbnail-img: /assets/img/Boost_Your_Productivity.png  
+share-img: /assets/img/Boost_Your_Productivity.png  
 tags: [AI, Productivity, Workflow, ChatGPT, Notebook LM, Google AI Studio, Presentation Tools]
 author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control
 ---
