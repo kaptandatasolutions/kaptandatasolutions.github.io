@@ -72,5 +72,5 @@ By implementing this method, you shift your focus from endless tool experimentat
 
 Apply these techniques to reclaim your time and drive significant improvements in your daily output. The process not only saves time—it also creates opportunities for deeper analysis and more informed decision-making, enabling you to focus on what truly matters: actionable business strategies.
 
-[Contact our IT development services (“Prestataire”) today!](https://kaptandatasolutions.github.io/pricing/)  
+[Contact our IT development services (“Provider”) today!](https://kaptandatasolutions.github.io/pricing/)  
 We specialize in Data Science, Artificial Intelligence, and Digital Transformation across every industry—with deep expertise in Medical Physics, electronics, software, and hardware.  
