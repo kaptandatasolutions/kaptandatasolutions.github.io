@@ -91,5 +91,5 @@ The agent-based system is versatile:
 
 As you become comfortable with the new paradigm, envision a future where agents eventually generate their own prompts and tools autonomously. For now, the current capabilities already offer a significant upgrade over traditional, branch-based automation.
 
-[Contact our IT development services (“Prestataire”) today!](https://kaptandatasolutions.github.io/pricing/)  
+[Contact our IT development services (“Provider”) today!](https://kaptandatasolutions.github.io/pricing/)  
 We specialize in Data Science, Artificial Intelligence, and Digital Transformation across every industry—with deep expertise in Medical Physics, electronics, software, and hardware.  
