@@ -45,5 +45,5 @@ As digital information proliferates at lightning speed, so do challenges related
 
 ---
 
-[Contact our IT development services (“Prestataire”) today!](https://kaptandatasolutions.github.io/pricing/)  
+[Contact our IT development services (“Provider”) today!](https://kaptandatasolutions.github.io/pricing/)  
 We specialize in Data Science, Artificial Intelligence, and Digital Transformation across every industry—with deep expertise in Medical Physics, electronics, software, and hardware.  

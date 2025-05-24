@@ -2,9 +2,9 @@
 layout: post
 title: How to Supercharge Your Automations with Intelligent AI Agents
 subtitle: A comprehensive guide on configuring dynamic agents to revolutionize your workflow automation
-cover-img: /assets/img/article_cover_std.png  
-thumbnail-img: /assets/img/article_inside_site.png  
-share-img: /assets/img/article_img_share_std.png  
+cover-img: /assets/img/how_to_supercharge.png  
+thumbnail-img: /assets/img/how_to_supercharge.png  
+share-img: /assets/img/how_to_supercharge.png  
 tags: [Automation, AI, How-to, Workflow]
 author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control
 ---
@@ -91,5 +91,5 @@ The agent-based system is versatile:
 
 As you become comfortable with the new paradigm, envision a future where agents eventually generate their own prompts and tools autonomously. For now, the current capabilities already offer a significant upgrade over traditional, branch-based automation.
 
-[Contact our IT development services (“Prestataire”) today!](https://kaptandatasolutions.github.io/pricing/)  
+[Contact our IT development services (“Provider”) today!](https://kaptandatasolutions.github.io/pricing/)  
 We specialize in Data Science, Artificial Intelligence, and Digital Transformation across every industry—with deep expertise in Medical Physics, electronics, software, and hardware.  

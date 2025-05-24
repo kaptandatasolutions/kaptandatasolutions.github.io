@@ -2,9 +2,9 @@
 layout: post
 title: "Automating Viral Video Transformation with an AI-Driven Workflow"
 subtitle: "A step‑by‑step guide to reimagining trending TikTok content into personalized videos and auto‑publishing them on multiple platforms"
-cover-img: /assets/img/article_cover_std.png  
-thumbnail-img: /assets/img/article_inside_site.png  
-share-img: /assets/img/article_img_share_std.png  
+cover-img: /assets/img/Automating_Viral_Video_2.png  
+thumbnail-img: /assets/img/Automating_Viral_Video_1.png  
+share-img: /assets/img/Automating_Viral_Video_1.png  
 tags: [automation, workflow, AI, video creation, digital transformation]  
 author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control
 ---
