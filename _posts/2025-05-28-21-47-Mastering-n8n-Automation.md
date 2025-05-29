@@ -11,7 +11,11 @@ author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Valid
 
 In this comprehensive guide, we walk through the essentials of using n8n to create, deploy, and optimize powerful automation workflows. The video masterclass covers everything from a brief theoretical overview of n8n’s node‐based design to advanced techniques including data manipulation and AI integration. Whether you are new to workflow automation or looking to implement advanced AI-driven solutions in your business, read on to see how you can harness n8n’s low‑code environment.
 
-![Automation N8N](/assets/img/n8n-blog-img.png)
+> VIDEO - Mastering n8n Automation ⬇⬇⬇⬇⬇ 
+> click on the image below to open the video ⬇⬇⬇⬇⬇
+
+[![VIDEO - Mastering n8n Automation ](/assets/img/n8n-blog-img.png)](https://www.youtube.com/watch?v=4QdYfnJrLuE&t=2330s)
+
 
 ## Introduction to n8n and Workflow Concepts
 
