@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Emergence of a Screenless AI-Powered Smartphone: Rumor or Reality?
+title: The Emergence of a Screenless AI-Powered Smartphone - Rumor or Reality?
 subtitle: Exploring the Speculations and Potential of a Revolutionary, Wearable Device
 cover-img: /assets/img/Screenless_smartphone.png
 thumbnail-img: /assets/img/Screenless_smartphone-share.png
