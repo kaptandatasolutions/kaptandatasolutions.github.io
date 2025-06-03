@@ -2,9 +2,9 @@
 layout: post
 title: "Maximizing Productivity with AI - A Four-Step Guide to Saving Hours Daily"
 subtitle: "Learn how to harness the power of Chat GPT, Notebook LM, Google AI Studio, and more to optimize your workflow and streamline your business strategy."
-cover-img: /assets/img/article_cover_std.png  
-thumbnail-img: /assets/img/article_inside_site.png  
-share-img: /assets/img/article_img_share_std.png  
+cover-img: /assets/img/save_5hours_cover.png  
+thumbnail-img: /assets/img/save_5hours_share.png  
+share-img: /assets/img/save_5hours_share.png  
 tags: [AI, Productivity, Automation, Workflow Optimization]  
 author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control
 ---
