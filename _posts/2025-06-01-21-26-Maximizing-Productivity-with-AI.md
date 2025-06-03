@@ -72,4 +72,4 @@ If you are looking to integrate such a method into your own workflow, start by c
 **Contact our IT development services today!**  
 We specialize in Data Science, Artificial Intelligence, and Digital Transformation across every industry—with deep expertise in Medical Physics, electronics, software, and hardware.  
 
-[Learn more and request a quote](https://kaptandatasolutions.github.io/pricing/)  
+[Learn more and request a quote](https://kaptandatasolutions.github.io/contact/)  
