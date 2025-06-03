@@ -69,7 +69,7 @@ The adoption of a Minimum Viable Toolkit (MVT) based method, supported by four d
 
 If you are looking to integrate such a method into your own workflow, start by consolidating your research, then progressively adopt the formatting, centralization, and presentation strategies highlighted here. This approach not only increases productivity but also provides a scalable plan to stay ahead in rapidly evolving digital landscapes.
 
-**Contact our IT development services (“Prestataire”) today!**  
+**Contact our IT development services today!**  
 We specialize in Data Science, Artificial Intelligence, and Digital Transformation across every industry—with deep expertise in Medical Physics, electronics, software, and hardware.  
 
 [Learn more and request a quote](https://kaptandatasolutions.github.io/pricing/)  
