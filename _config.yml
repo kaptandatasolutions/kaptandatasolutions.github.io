@@ -20,7 +20,7 @@ author: Kaptan Data Solutions
 ###############################################
 
 navbar-links:
-  "About Us": "aboutme"
+  "About Us": "about_us"
   "Pricing": "pricing"
   "Contact": "contact"
   
