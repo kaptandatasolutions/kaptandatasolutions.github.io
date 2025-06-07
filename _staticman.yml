@@ -7,7 +7,7 @@ comments:
   requiredFields: ["name", "email", "message"]
 
   # Nom de la branche (doit correspondre à la branche utilisée pour le site)
-  branch: "master"
+  branch: "main"
 
   # Message du commit lors de la création d’un nouveau commentaire
   commitMessage: "New comment by {fields.name}"
