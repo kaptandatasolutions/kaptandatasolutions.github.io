@@ -2,9 +2,9 @@
 layout: post
 title: "How to Download and Manage Your Automation Workflows Easily"
 subtitle: "A Step-by-Step Guide to Import, Configure, and Enhance Your N8N Server Workflows"
-cover-img: /assets/img/n8n_wf1.png  
-thumbnail-img: /assets/img/n8n_wf1.png  
-share-img: /assets/img/n8n_wf1.png  
+cover-img: /assets/img/n8n_wf2.webp  
+thumbnail-img: /assets/img/n8n_wf2.webp 
+share-img: /assets/img/n8n_wf2.webp
 tags: [automation, workflows, tutorials, server setup]  
 author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control
 ---
@@ -12,6 +12,11 @@ author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Valid
 In today’s digital landscape, automating workflows can significantly boost productivity. This guide explains a simple, step-by-step process to download, install, and manage your workflows on an N8N server. The video tutorial walks you through finding workflows on an official creator profile, downloading them, and making informed choices about server hosting – whether by using the official N8N server or opting for a more flexible and cost‑efficient alternative.
 
 Below is a breakdown of the process explained in the video, offering clear insights into how you can get started with creating and testing your own automation workflows.
+
+> VIDEO - Mastering n8n Automation ⬇⬇⬇⬇⬇ 
+> click on the image below to open the video ⬇⬇⬇⬇⬇
+
+[![VIDEO - Mastering n8n Automation ](/assets/img/n8n_wf2.webp)](https://www.youtube.com/watch?v=x7VwQBmjLxY&t=77s)
 
 Step 1: Accessing Your Workflow Repository
 
