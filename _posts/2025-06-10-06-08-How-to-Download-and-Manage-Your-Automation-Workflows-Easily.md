@@ -13,7 +13,7 @@ In today’s digital landscape, automating workflows can significantly boost pro
 
 Below is a breakdown of the process explained in the video, offering clear insights into how you can get started with creating and testing your own automation workflows.
 
-> VIDEO - Mastering n8n Automation ⬇⬇⬇⬇⬇ 
+> VIDEO - How to Download and Manage Your Automation Workflows Easily ⬇⬇⬇⬇⬇ 
 > click on the image below to open the video ⬇⬇⬇⬇⬇
 
 [![VIDEO - Mastering n8n Automation ](/assets/img/n8n_wf2.webp)](https://www.youtube.com/watch?v=x7VwQBmjLxY&t=77s)
