@@ -2,9 +2,9 @@
 layout: post
 title: "How to Download and Manage Your Automation Workflows Easily"
 subtitle: "A Step-by-Step Guide to Import, Configure, and Enhance Your N8N Server Workflows"
-cover-img: /assets/img/article_cover_std.png  
-thumbnail-img: /assets/img/article_inside_site.png  
-share-img: /assets/img/article_img_share_std.png  
+cover-img: /assets/img/n8n_wf1.png  
+thumbnail-img: /assets/img/n8n_wf2.png  
+share-img: /assets/img/n8n_wf3.png  
 tags: [automation, workflows, tutorials, server setup]  
 author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control
 ---
