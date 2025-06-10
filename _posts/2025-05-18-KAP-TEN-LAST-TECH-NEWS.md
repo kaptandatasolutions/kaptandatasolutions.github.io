@@ -71,5 +71,3 @@ We also offer n8n automation services combined with advanced Python analytics, e
 Our know-how goes beyond the medical field, spanning industry, environment, finance, biotechnology, and energy.
 
 Get in touch to discuss your specific requirements and discover how our tailor-made solutions can help you unlock the value of your data, make informed decisions, and boost operational performance!
-
-#DataScience #Automation #Python #n8n #Streamlit #DataAnalysis #AI #Visualization
