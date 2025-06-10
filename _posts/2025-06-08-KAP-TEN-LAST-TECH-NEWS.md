@@ -1,4 +1,4 @@
-https://kaptandatasolutions.github.io/contact/---
+---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
 subtitle: A Deep Dive into Robotics, AI Innovations, and the Future of Digital Experiences

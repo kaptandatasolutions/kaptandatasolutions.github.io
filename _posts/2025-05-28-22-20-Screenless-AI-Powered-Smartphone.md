@@ -1,4 +1,4 @@
-https://kaptandatasolutions.github.io/contact/---
+---
 layout: post
 title: The Emergence of a Screenless AI-Powered Smartphone - Rumor or Reality?
 subtitle: Exploring the Speculations and Potential of a Revolutionary, Wearable Device
