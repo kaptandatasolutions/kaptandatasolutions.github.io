@@ -15,7 +15,7 @@ In the traditional automation setup, you had to specify every possible path: “
 
 Below, we break down how to create and integrate these AI agents into your workflows and outline a couple of practical examples that illustrate their potential.
 
-–––
+---
 Step 1: Setting Up Your AI Agent
 
 • Begin at the central interface of your automation platform where the new AI agent module is accessible.  
