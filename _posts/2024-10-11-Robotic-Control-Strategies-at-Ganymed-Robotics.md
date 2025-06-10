@@ -6,7 +6,7 @@ cover-img: /assets/img/blog_image-gany-robo-cover.png
 thumbnail-img: /assets/img/blog_image-gany-robo-1.png
 share-img: /assets/img/blog_image-gany-robo-1.png
 tags: [robotics, orthopedic-surgery, medical-devices, innovation, MATLAB, Simulink, quality-control]
-author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control
+author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
 ---
 
 # FAQ: Robotic Control Strategies at Ganymed Robotics

@@ -6,7 +6,7 @@ cover-img: /assets/img/gantry-star-cover.png
 thumbnail-img: /assets/img/gantry-star-share.png
 share-img: /assets/img/gantry-star-share.png
 tags: [Starshot-analysis, DICOM-analysis, medical-physics, Python-automation, radiotherapy-QA, medical-imaging, image-processing, isocenter-alignment, healthcare-technology, pylinac, quality-assurance, automated-analysis, medical-software, radiation-therapy, compliance]
-author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control
+author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
 ---
 
 

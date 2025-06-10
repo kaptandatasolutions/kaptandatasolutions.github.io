@@ -6,7 +6,7 @@ cover-img: /assets/img/kapt10-2.png
 thumbnail-img: /assets/img/kapt10-1.png
 share-img: /assets/img/kapt10-3.png
 tags: [Tech News, Artificial Intelligence, Quantum Computing, Robotics, Innovation]
-author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control
+author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
 ---
 **Top 10 Tech News (March 3, 2025)**
 

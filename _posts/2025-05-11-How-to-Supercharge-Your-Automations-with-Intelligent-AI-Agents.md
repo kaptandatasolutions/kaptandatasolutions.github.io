@@ -6,7 +6,7 @@ cover-img: /assets/img/how_to_supercharge.png
 thumbnail-img: /assets/img/how_to_supercharge.png  
 share-img: /assets/img/how_to_supercharge.png  
 tags: [Automation, AI, How-to, Workflow]
-author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control
+author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
 ---
 
 Many traditional automation setups require you to predefine every branch and condition. With the introduction of intelligent AI agents, you can now build workflows that make decisions on their own, choosing the right tool for the task and even determining if an automation has been successful. In this article, we’ll walk you through how these agents work, how to set them up in your workflow, and share some practical examples that might spark ideas for your business.
@@ -91,5 +91,31 @@ The agent-based system is versatile:
 
 As you become comfortable with the new paradigm, envision a future where agents eventually generate their own prompts and tools autonomously. For now, the current capabilities already offer a significant upgrade over traditional, branch-based automation.
 
-[Contact our IT development services (“Provider”) today!](https://kaptandatasolutions.github.io/pricing/)  
-We specialize in Data Science, Artificial Intelligence, and Digital Transformation across every industry—with deep expertise in Medical Physics, electronics, software, and hardware.  
+🔍 Discover Kaptan Data Solutions—your partner for data science and interactive visualization!
+
+We’re a French startup dedicated to building innovative web applications focused on data science and interactive visual analytics.
+Our mission: to meet the specific needs of companies, laboratories, and institutions by delivering powerful, intuitive, and customized tools that streamline and accelerate your data exploration, analysis, and usage.
+
+🌐 Visit our website to see all our services and tech updates: https://kaptandatasolutions.github.io/
+
+💻 Explore our ready-to-use interactive Streamlit apps directly online: https://kaptan-data.streamlit.app/
+
+Our areas of expertise include:
+
+📊 Interactive web apps for data visualization and analysis
+
+🔬 Specialized solutions for medical physics and quality control
+
+🏭 Optimization tools for research and industrial operations
+
+🤖 Advanced automation with n8n and AI integrations
+
+📈 Statistical analyses and complex data processing
+
+We also offer n8n automation services combined with advanced Python analytics, enabling you to build powerful data-driven workflows, perform complex data transformations, and embed AI agents into your business processes.
+
+Our know-how goes beyond the medical field, spanning industry, environment, finance, biotechnology, and energy.
+
+Get in touch to discuss your specific requirements and discover how our tailor-made solutions can help you unlock the value of your data, make informed decisions, and boost operational performance!
+
+#DataScience #Automation #Python #n8n #Streamlit #DataAnalysis #AI #Visualization

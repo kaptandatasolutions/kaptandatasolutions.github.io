@@ -6,7 +6,7 @@ cover-img: /assets/img/n8n_wf3.png
 thumbnail-img: /assets/img/n8n_wf2.webp 
 share-img: /assets/img/n8n_wf2.webp
 tags: [automation, workflows, tutorials, server setup]  
-author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control
+author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
 ---
 
 In today’s digital landscape, automating workflows can significantly boost productivity. This guide explains a simple, step-by-step process to download, install, and manage your workflows on an N8N server. The video tutorial walks you through finding workflows on an official creator profile, downloading them, and making informed choices about server hosting – whether by using the official N8N server or opting for a more flexible and cost‑efficient alternative.

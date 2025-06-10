@@ -6,7 +6,7 @@ cover-img: /assets/img/a2a_cover_2.png
 thumbnail-img: /assets/img/a2a_cover.png
 share-img: /assets/img/a2a_share.png
 tags: [AI, agent-collaboration, interoperability, open-source, protocol, A2A, technology]
-author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control
+author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
 ---
 # A2A: An Innovative Protocol for Open Agent Collaboration
 

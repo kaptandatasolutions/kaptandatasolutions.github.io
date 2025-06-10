@@ -6,7 +6,7 @@ cover-img: /assets/img/Automating_Viral_Video_2.png
 thumbnail-img: /assets/img/Automating_Viral_Video_1.png  
 share-img: /assets/img/Automating_Viral_Video_1.png  
 tags: [automation, workflow, AI, video creation, digital transformation]  
-author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control
+author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
 ---
 
 In this article we explore an innovative process that transforms a viral TikTok video into a personalized piece of content using an automated workflow. With the help of artificial intelligence and the powerful N8N platform, this system extracts key elements from popular videos, adapts the core idea with your own avatar, and then instantly publishes the final result across numerous social networks – all fully automated.
@@ -90,7 +90,33 @@ This AI‑driven workflow shows how automation can revolutionize content creatio
 
 By following these detailed steps, you can set up and customize this system to suit your content needs and enjoy a streamlined production process that scales with your ambition.
 
-**Contact our IT development services (“Prestataire”) today!**  
-We specialize in Data Science, Artificial Intelligence, and Digital Transformation across every industry—with deep expertise in Medical Physics, electronics, software, and hardware.  
+🔍 Discover Kaptan Data Solutions—your partner for data science and interactive visualization!
+
+We’re a French startup dedicated to building innovative web applications focused on data science and interactive visual analytics.
+Our mission: to meet the specific needs of companies, laboratories, and institutions by delivering powerful, intuitive, and customized tools that streamline and accelerate your data exploration, analysis, and usage.
+
+🌐 Visit our website to see all our services and tech updates: https://kaptandatasolutions.github.io/
+
+💻 Explore our ready-to-use interactive Streamlit apps directly online: https://kaptan-data.streamlit.app/
+
+Our areas of expertise include:
+
+📊 Interactive web apps for data visualization and analysis
+
+🔬 Specialized solutions for medical physics and quality control
+
+🏭 Optimization tools for research and industrial operations
+
+🤖 Advanced automation with n8n and AI integrations
+
+📈 Statistical analyses and complex data processing
+
+We also offer n8n automation services combined with advanced Python analytics, enabling you to build powerful data-driven workflows, perform complex data transformations, and embed AI agents into your business processes.
+
+Our know-how goes beyond the medical field, spanning industry, environment, finance, biotechnology, and energy.
+
+Get in touch to discuss your specific requirements and discover how our tailor-made solutions can help you unlock the value of your data, make informed decisions, and boost operational performance!
+
+#DataScience #Automation #Python #n8n #Streamlit #DataAnalysis #AI #Visualization
 
 [Learn more and request a quote](https://kaptandatasolutions.github.io/pricing/)  

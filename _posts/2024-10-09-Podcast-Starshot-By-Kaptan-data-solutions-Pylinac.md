@@ -6,7 +6,7 @@ cover-img: /assets/img/blog_image_podcast_startshot-cover.png
 thumbnail-img: /assets/img/blog_image_podcast_startshot-1.png
 share-img: /assets/img/blog_image_podcast_startshot.png
 tags: [data-science, medical-physics, software, solutions, starshot, radiotherapy, quality-control]
-author: Kayhan Kaptan - R&D Mechatronics Technician "Modeling, Algorithms, Validation" TEAM - Expert in Medical Physics Quality Control
+author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
 ---
 
 ## 🎧 Tune Into Our Latest Podcast: Enhancing Radiotherapy Precision with Automated Starshot Analysis 🎧
