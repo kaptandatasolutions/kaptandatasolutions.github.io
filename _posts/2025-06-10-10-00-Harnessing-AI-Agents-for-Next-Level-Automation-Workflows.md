@@ -15,6 +15,8 @@ In the traditional automation setup, you had to specify every possible path: “
 
 Below, we break down how to create and integrate these AI agents into your workflows and outline a couple of practical examples that illustrate their potential.
 
+[!Harnessing AI Agents for Next-Level Automation Workflows](/assets/img/harnessing1.png)]
+
 ---
 Step 1: Setting Up Your AI Agent
 
