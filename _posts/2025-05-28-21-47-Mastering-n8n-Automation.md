@@ -1,4 +1,4 @@
----
+https://kaptandatasolutions.github.io/contact/---
 layout: post
 title: "Mastering n8n Automation - A Comprehensive Workflow & AI Integration Guide"
 subtitle: "A step-by-step how‑to on building data‐driven workflows, managing data transformations, making API calls, and integrating AI agents using n8n"

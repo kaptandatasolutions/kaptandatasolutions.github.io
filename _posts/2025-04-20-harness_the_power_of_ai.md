@@ -1,4 +1,4 @@
----
+https://kaptandatasolutions.github.io/contact/https://kaptandatasolutions.github.io/contact/---
 layout: post
 title: Harness the Power of AI Without Internet Access
 subtitle: Secure, Customizable, and Efficient Solutions for Your Enterprise

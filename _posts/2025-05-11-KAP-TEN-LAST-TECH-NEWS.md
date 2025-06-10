@@ -1,4 +1,4 @@
----
+https://kaptandatasolutions.github.io/contact/---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
 subtitle: Exploring AI courtroom avatars, futuristic robotics, ultra-thin smartphones and more in a week of breakthrough tech innovations.

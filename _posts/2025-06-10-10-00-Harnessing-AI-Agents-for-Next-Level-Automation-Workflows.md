@@ -142,7 +142,7 @@ By starting with clear needs rather than just the latest gadget, you ensure that
             #DataScience #Automation #Python #n8n #Streamlit #DataAnalysis #AI #Visualization
         </div>
         
-        <p><a href="https://kaptandatasolutions.github.io/pricing/">Learn more and request a quote</a></p>
+        <p><a href="https://kaptandatasolutions.github.io/contact/">Learn more and request a quote</a></p>
     </div>
 </body>
 </html>

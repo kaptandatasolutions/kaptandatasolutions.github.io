@@ -1,4 +1,4 @@
----
+https://kaptandatasolutions.github.io/contact/---
 layout: post
 title: Leveraging Multiple AIs for Reliable Research and Content Creation
 subtitle: A Step-by-Step Guide to Combining American, Chinese, and French AI Tools for Comprehensive Results
