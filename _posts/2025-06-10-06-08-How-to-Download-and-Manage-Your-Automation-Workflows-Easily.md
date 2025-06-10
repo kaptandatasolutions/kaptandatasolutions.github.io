@@ -56,7 +56,7 @@ By following the steps above, you can efficiently download and manage your workf
 
 ---
 
-<!DOCTYPE html>
+
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
