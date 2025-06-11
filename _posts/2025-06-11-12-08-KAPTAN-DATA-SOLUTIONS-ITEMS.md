@@ -1,4 +1,3 @@
-```
 ---
 layout: post
 title: Optimizing Data Entry with Dynamic Default Values in Notion
@@ -164,5 +163,4 @@ By mastering the use of dynamic default values in Notion, you can significantly 
         <p><a href="https://kaptandatasolutions.github.io/contact/">Learn more and request a quote</a></p>
     </div>
 </body>
-</html>
-```  
+</html>  
