@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exploring AI-Powered Developer Tools: How GitHub’s Coding Agent is Shaping the Future of Software Development  
+title: Exploring AI-Powered Developer Tools - How GitHub’s Coding Agent is Shaping the Future of Software Development  
 subtitle: Understanding the Role of AI Agents in Coding, Collaboration, and Open Source Contributions  
 cover-img: /assets/img/article_cover_std.png  
 thumbnail-img: /assets/img/article_inside_site.png  
