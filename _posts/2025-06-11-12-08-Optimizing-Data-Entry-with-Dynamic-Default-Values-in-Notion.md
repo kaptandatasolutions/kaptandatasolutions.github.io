@@ -2,9 +2,9 @@
 layout: post
 title: Optimizing Data Entry with Dynamic Default Values in Notion
 subtitle: Streamline your Notion workflows by automatically populating database fields with calculated default values.
-cover-img: /assets/img/article_cover_std.png
-thumbnail-img: /assets/img/article_inside_site.png
-share-img: /assets/img/article_img_share_std.png
+cover-img: /assets/img/notion2.png
+thumbnail-img: /assets/img/notion1.png
+share-img: /assets/img/notion1.png
 tags: [Notion, Automation, Database, Productivity, Workflow]
 author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
 ---
