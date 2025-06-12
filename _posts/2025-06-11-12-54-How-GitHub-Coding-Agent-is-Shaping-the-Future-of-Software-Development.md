@@ -2,9 +2,9 @@
 layout: post
 title: Exploring AI-Powered Developer Tools - How GitHub’s Coding Agent is Shaping the Future of Software Development  
 subtitle: Understanding the Role of AI Agents in Coding, Collaboration, and Open Source Contributions  
-cover-img: /assets/img/article_cover_std.png  
-thumbnail-img: /assets/img/article_inside_site.png  
-share-img: /assets/img/article_img_share_std.png  
+cover-img: /assets/img/ai-power3.png  
+thumbnail-img: /assets/img/ai-power2.png  
+share-img: /assets/img/ai-power2.png  
 tags: [AI, GitHub Copilot, coding agent, software development, open source, developer tools]  
 author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
 ---
@@ -12,6 +12,8 @@ author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and
 In today’s rapidly evolving software development landscape, artificial intelligence is no longer just a buzzword — it’s actively transforming how developers prototype, write, and maintain code. More specifically, advanced AI agents embedded within development environments are becoming indispensable collaborators, automating routine tasks and freeing engineers to focus on higher-value challenges.
 
 This article delves into the features and implications of GitHub’s latest advancements with AI-powered coding agents, including their new agent mode and asynchronous background automation. It also explores how these tools interact with roles across product management, design, and engineering, how open source fits into this new paradigm, and what aspiring developers can learn to thrive in the AI-augmented future.
+
+![PNG](/assets/img/ai-power1.png)
 
 ## What Are AI Coding Agents and Agent Mode?
 
