@@ -16,3 +16,6 @@ gem "tzinfo-data", platforms: %i[mingw mswin x64_mingw jruby]
 
 # Pour supprimer l’avertissement BigDecimal
 gem "bigdecimal"
+
+# Advanced plugin for multilanguage support
+gem "jekyll-polyglot", "~> 1.7"
