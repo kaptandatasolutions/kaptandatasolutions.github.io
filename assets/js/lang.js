@@ -7,7 +7,8 @@
       "logout": "Logout",
       "search": "Search",
       "newer-posts": "Newer Posts",
-      "older-posts": "Older Posts"
+      "older-posts": "Older Posts",
+      "exit-search": "Exit search"
     },
     fr: {
       "about-us": "À propos",
@@ -16,7 +17,8 @@
       "logout": "Déconnexion",
       "search": "Recherche",
       "newer-posts": "Articles récents",
-      "older-posts": "Articles plus anciens"
+      "older-posts": "Articles plus anciens",
+      "exit-search": "Quitter la recherche"
     }
   };
 
@@ -31,6 +33,9 @@
         }
         if (el.textContent !== undefined && !el.children.length) {
           el.textContent = text;
+        }
+        if (el.hasAttribute('title')) {
+          el.title = text;
         }
       }
     });
