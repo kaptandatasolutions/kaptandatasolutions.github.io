@@ -18,7 +18,10 @@
       "search": "Recherche",
       "newer-posts": "Articles récents",
       "older-posts": "Articles plus anciens",
+      zoq0oa-codex/ajouter-support-i18n-pour-exit-search
+      "exit-search": "Fermer la recherche"
       "exit-search": "Quitter la recherche"
+      main
     }
   };
 
