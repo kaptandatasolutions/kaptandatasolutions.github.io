@@ -35,7 +35,16 @@
           </li>
         {%- endif -%}
       {%- endfor -%}
-      
+
+      <!-- Language selector -->
+      <li class="nav-item">
+        <select id="lang-select" class="nav-link">
+          {%- for lang in site.languages -%}
+            <option value="{{ lang }}">{{ lang | upcase }}</option>
+          {%- endfor -%}
+        </select>
+      </li>
+
       <!-- Boutons Auth0 avec des événements onclick explicites -->
       <li class="nav-item">
         <button id="auth0-login-btn" class="btn btn-sm btn-primary nav-link" style="margin: 0.5rem;" onclick="console.log('Login clicked'); document.dispatchEvent(new Event('auth0login'));">Login</button>
@@ -69,5 +78,25 @@
   {% endif %}
 
 </nav>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var select = document.getElementById('lang-select');
+    if (!select) return;
+
+    var params = new URLSearchParams(window.location.search);
+    var lang = params.get('lang') || localStorage.getItem('lang') || select.value;
+    if (lang) {
+      select.value = lang;
+    }
+
+    select.addEventListener('change', function () {
+      var chosen = this.value;
+      localStorage.setItem('lang', chosen);
+      params.set('lang', chosen);
+      window.location.search = params.toString();
+    });
+  });
+</script>
 
 {% include search.html %}
