@@ -20,32 +20,41 @@
       {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-i18n="{{ link[0] | slugify }}">{{ link[0] }}</a>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
               {%- for childlink in link[1] -%}
                 {%- for linkparts in childlink %}
-                  <a class="dropdown-item" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
+                  <a class="dropdown-item" data-i18n="{{ linkparts[0] | slugify }}" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
                 {%- endfor -%}
               {%- endfor %}
             </div>
           </li>
         {% else %}
           <li class="nav-item">
-            <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
+            <a class="nav-link" data-i18n="{{ link[0] | slugify }}" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
           </li>
         {%- endif -%}
       {%- endfor -%}
-      
+
+      <!-- Language selector -->
+      <li class="nav-item">
+        <select id="lang-select" class="nav-link">
+          {%- for lang in site.languages -%}
+            <option value="{{ lang }}">{{ lang | upcase }}</option>
+          {%- endfor -%}
+        </select>
+      </li>
+
       <!-- Boutons Auth0 avec des événements onclick explicites -->
       <li class="nav-item">
-        <button id="auth0-login-btn" class="btn btn-sm btn-primary nav-link" style="margin: 0.5rem;" onclick="console.log('Login clicked'); document.dispatchEvent(new Event('auth0login'));">Login</button>
-        <button id="auth0-logout-btn" class="btn btn-sm btn-outline-primary nav-link" style="display: none; margin: 0.5rem;" onclick="console.log('Logout clicked'); document.dispatchEvent(new Event('auth0logout'));">Logout</button>
+        <button id="auth0-login-btn" class="btn btn-sm btn-primary nav-link" style="margin: 0.5rem;" data-i18n="login" onclick="console.log('Login clicked'); document.dispatchEvent(new Event('auth0login'));">Login</button>
+        <button id="auth0-logout-btn" class="btn btn-sm btn-outline-primary nav-link" style="display: none; margin: 0.5rem;" data-i18n="logout" onclick="console.log('Logout clicked'); document.dispatchEvent(new Event('auth0logout'));">Logout</button>
       </li>
       {% if site.post_search %}
         <li class="nav-item">
           <a class="nav-link" id="nav-search-link" href="#" title="Search">
             <span id="nav-search-icon" class="fa fa-search"></span>
-            <span id="nav-search-text">Search</span>
+            <span id="nav-search-text" data-i18n="search">Search</span>
           </a>
         </li>
       {%- endif -%}
@@ -69,5 +78,33 @@
   {% endif %}
 
 </nav>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var select = document.getElementById('lang-select');
+    if (!select) return;
+
+    var params = new URLSearchParams(window.location.search);
+    var lang = params.get('lang') || localStorage.getItem('lang') || select.value;
+    var available = {{ site.languages | jsonify }};
+    if (available.indexOf(lang) === -1) {
+      lang = available[0];
+    }
+    select.value = lang;
+    if (typeof applyTranslations === 'function') {
+      applyTranslations(lang);
+    }
+
+    select.addEventListener('change', function () {
+      var chosen = this.value;
+      localStorage.setItem('lang', chosen);
+      params.set('lang', chosen);
+      history.replaceState(null, '', '?' + params.toString());
+      if (typeof applyTranslations === 'function') {
+        applyTranslations(chosen);
+      }
+    });
+  });
+</script>
 
 {% include search.html %}

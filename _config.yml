@@ -14,6 +14,7 @@ title: home
 
 # Your name to show in the footer
 author: Kaptan Data Solutions
+languages: [en, fr]
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -213,8 +214,8 @@ footer-hover-col: "#f549f4"
 #  - "/assets/css/custom-styles.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
-#site-js:
-#  - "/assets/js/custom-script.js"
+site-js:
+  - "/assets/js/lang.js"
 
 #################################
 # --- Web Analytics Section --- #
