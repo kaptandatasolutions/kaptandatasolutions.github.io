@@ -10,19 +10,17 @@
       "older-posts": "Older Posts",
       "exit-search": "Exit search"
     },
-    fr: {
-      "about-us": "À propos",
-      "contact": "Contact",
-      "login": "Connexion",
-      "logout": "Déconnexion",
-      "search": "Recherche",
-      "newer-posts": "Articles récents",
-      "older-posts": "Articles plus anciens",
-      zoq0oa-codex/ajouter-support-i18n-pour-exit-search
-      "exit-search": "Fermer la recherche"
-      "exit-search": "Quitter la recherche"
-      main
-    }
+  fr: {
+    "about-us":      "À propos",
+    "contact":       "Contact",
+    "login":         "Connexion",
+    "logout":        "Déconnexion",
+    "search":        "Recherche",
+    "newer-posts":   "Articles récents",
+    "older-posts":   "Articles plus anciens",
+    "exit-search":   "Quitter la recherche"
+  },
+
   };
 
   window.applyTranslations = function(lang) {
