@@ -89,7 +89,11 @@
     select.value = lang;
     if (typeof applyTranslations === 'function') {
       applyTranslations(lang);
-    }
+      history.replaceState(null, '', '?' + params.toString());
+      if (typeof applyTranslations === 'function') {
+        applyTranslations(chosen);
+      }
+{% include search.html %}
 
     select.addEventListener('change', function () {
       var chosen = this.value;
