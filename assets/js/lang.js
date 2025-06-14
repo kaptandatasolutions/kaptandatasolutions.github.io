@@ -10,16 +10,17 @@
       "older-posts": "Older Posts",
       "exit-search": "Exit search"
     },
-    fr: {
-      "about-us": "À propos",
-      "contact": "Contact",
-      "login": "Connexion",
-      "logout": "Déconnexion",
-      "search": "Recherche",
-      "newer-posts": "Articles récents",
-      "older-posts": "Articles plus anciens",
-      "exit-search": "Fermer la recherche"
-    }
+  fr: {
+    "about-us":      "À propos",
+    "contact":       "Contact",
+    "login":         "Connexion",
+    "logout":        "Déconnexion",
+    "search":        "Recherche",
+    "newer-posts":   "Articles récents",
+    "older-posts":   "Articles plus anciens",
+    "exit-search":   "Quitter la recherche"
+  },
+
   };
 
   window.applyTranslations = function(lang) {
