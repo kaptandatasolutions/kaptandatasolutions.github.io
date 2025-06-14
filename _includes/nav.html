@@ -86,25 +86,49 @@
 
     var params = new URLSearchParams(window.location.search);
     var lang = params.get('lang') || localStorage.getItem('lang') || select.value;
+    // Récupération de la langue dans l’URL, le localStorage ou la valeur par défaut du select
+    var params = new URLSearchParams(window.location.search);
+    var lang = params.get('lang') || localStorage.getItem('lang') || select.value;
+
+    // Liste des langues disponibles (Jekyll)
     var available = {{ site.languages | jsonify }};
+
+    // Si la langue n’est pas dans la liste, on prend la première
     if (available.indexOf(lang) === -1) {
       lang = available[0];
     }
+
+    // On met à jour le select et on persiste au besoin
     select.value = lang;
+    localStorage.setItem('lang', lang);
+
+    // Si la fonction d’application des traductions existe, on l’appelle
     if (typeof applyTranslations === 'function') {
       applyTranslations(lang);
     }
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var params = new URLSearchParams(window.location.search);
+    var select = document.querySelector('#language-select');
 
     select.addEventListener('change', function () {
       var chosen = this.value;
       localStorage.setItem('lang', chosen);
       params.set('lang', chosen);
-      history.replaceState(null, '', '?' + params.toString());
+
       if (typeof applyTranslations === 'function') {
+        // Met à jour l’URL sans recharger et applique les traductions
+        history.replaceState(null, '', '?' + params.toString());
         applyTranslations(chosen);
+      } else {
+        // Pas de fonction de traduction dynamique → reload complet
+        window.location.search = params.toString();
       }
     });
   });
 </script>
 
 {% include search.html %}
+
