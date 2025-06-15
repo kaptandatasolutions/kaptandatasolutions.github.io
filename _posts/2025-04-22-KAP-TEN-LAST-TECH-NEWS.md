@@ -1,4 +1,4 @@
----
+Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalhref="https://kaptandatasolutions.github.io/submit-project/">---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech Developments Shaping Digital Sovereignty and AI Advancements
 subtitle: This week, explore critical insights into antitrust cases involving Google and Meta, revolutionary AI models from OpenAI, the future of blockchain and sovereign clouds, and significant regulatory challenges
@@ -116,7 +116,7 @@ Continue following KAP10 for in-depth analyses on the societal impacts and regul
             #DataScience #Automation #Python #n8n #Streamlit #DataAnalysis #AI #Visualization
         </div>
         
-        <p><a href="https://kaptandatasolutions.github.io/contact/">Learn more and request a quote</a></p>
+        <p><a href="https://kaptandatasolutions.github.io/contact/">Submit your project brief and receive a proposal</a></p>
     </div>
 </body>
 </html>

@@ -1,4 +1,4 @@
----
+href="https://kaptandatasolutions.github.io/submit-project/">---
 layout: post
 title: KAP10 Weekly Update - Apple and Samsung Revolutionize Foldable Displays and Extended Reality
 subtitle: A comprehensive overview of the latest technological advancements in foldable displays, extended reality, and artificial intelligence

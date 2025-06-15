@@ -1,4 +1,4 @@
----
+Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalhref="https://kaptandatasolutions.github.io/submit-project/">---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week - AI in the Spotlight
 subtitle: Exploring the Stargate Project, OpenAI's Operator, Mistral AI, Samsung's Galaxy S25, and breakthroughs in AI energy efficiency
@@ -160,7 +160,7 @@ Stay tuned for our next analyses of tech trends.
             #DataScience #Automation #Python #n8n #Streamlit #DataAnalysis #AI #Visualization
         </div>
         
-        <p><a href="https://kaptandatasolutions.github.io/contact/">Learn more and request a quote</a></p>
+        <p><a href="https://kaptandatasolutions.github.io/contact/">Submit your project brief and receive a proposal</a></p>
     </div>
 </body>
 </html>

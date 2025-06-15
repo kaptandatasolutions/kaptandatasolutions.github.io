@@ -1,4 +1,4 @@
----
+href="https://kaptandatasolutions.github.io/submit-project/">---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
 subtitle: A deep dive into global tech shifts, AI breakthroughs, innovative hardware, and the future of digital transformation.

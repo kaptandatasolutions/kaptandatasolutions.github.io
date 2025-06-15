@@ -1,4 +1,4 @@
----
+Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalhref="https://kaptandatasolutions.github.io/submit-project/">---
 layout: post
 title: Harness the Power of AI Without Internet Access
 subtitle: Secure, Customizable, and Efficient Solutions for Your Enterprise
@@ -187,7 +187,7 @@ Enhance your team's capabilities with customized training in Python-based web ap
             #DataScience #Automation #Python #n8n #Streamlit #DataAnalysis #AI #Visualization
         </div>
         
-        <p><a href="https://kaptandatasolutions.github.io/contact/">Learn more and request a quote</a></p>
+        <p><a href="https://kaptandatasolutions.github.io/contact/">Submit your project brief and receive a proposal</a></p>
     </div>
 </body>
 </html>

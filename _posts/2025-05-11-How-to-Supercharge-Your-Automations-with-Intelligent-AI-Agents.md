@@ -1,4 +1,4 @@
----
+Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposal---
 layout: post
 title: How to Supercharge Your Automations with Intelligent AI Agents
 subtitle: A comprehensive guide on configuring dynamic agents to revolutionize your workflow automation

@@ -1,4 +1,4 @@
----
+href="https://kaptandatasolutions.github.io/submit-project/">---
 layout: post
 title: KAP10 Weekly Update - SpaceX’s Starship Milestone, Adobe AI Innovations, and Google’s Nuclear Power Plans
 subtitle: A Deep Dive into the Latest Breakthroughs in Space, Tech, and Energy
@@ -112,7 +112,7 @@ Google Chrome has started disabling the popular ad blocker uBlock Origin due to 
             #DataScience #Automation #Python #n8n #Streamlit #DataAnalysis #AI #Visualization
         </div>
         
-        <p><a href="https://kaptandatasolutions.github.io/contact/">Learn more and request a quote</a></p>
+        <p><a href="https://kaptandatasolutions.github.io/contact/">Submit your project brief and receive a proposal</a></p>
     </div>
 </body>
 </html>

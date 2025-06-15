@@ -1,4 +1,4 @@
----
+href="https://kaptandatasolutions.github.io/submit-project/">---
 layout: post
 title: KAP10 Weekly Update - Major Tech and Digital Trends of the Moment
 subtitle: Exploring TikTok's American drama, AI revolutions, Big Tech vs. EU regulations, and humanoid robotics

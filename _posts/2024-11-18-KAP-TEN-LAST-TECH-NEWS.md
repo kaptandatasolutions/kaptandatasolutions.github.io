@@ -1,4 +1,4 @@
----
+Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalhref="https://kaptandatasolutions.github.io/submit-project/">---
 layout: post
 title: "Technological News: Snowflake Intelligence, Cloudera Acquisition, and AI Advancements"
 subtitle: "An overview of recent developments in data science, physics, and health"
@@ -114,7 +114,7 @@ Recent developments in data science, physics, and health highlight significant i
             #DataScience #Automation #Python #n8n #Streamlit #DataAnalysis #AI #Visualization
         </div>
         
-        <p><a href="https://kaptandatasolutions.github.io/contact/">Learn more and request a quote</a></p>
+        <p><a href="https://kaptandatasolutions.github.io/contact/">Submit your project brief and receive a proposal</a></p>
     </div>
 </body>
 </html>

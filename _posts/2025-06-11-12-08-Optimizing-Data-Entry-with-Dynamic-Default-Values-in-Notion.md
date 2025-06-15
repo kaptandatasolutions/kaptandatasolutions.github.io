@@ -1,4 +1,4 @@
----
+Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposal---
 layout: post
 title: Optimizing Data Entry with Dynamic Default Values in Notion
 subtitle: Streamline your Notion workflows by automatically populating database fields with calculated default values.

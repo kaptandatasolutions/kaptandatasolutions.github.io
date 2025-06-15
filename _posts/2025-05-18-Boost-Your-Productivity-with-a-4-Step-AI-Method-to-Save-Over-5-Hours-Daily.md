@@ -1,4 +1,4 @@
----
+Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposal---
 layout: post
 title: Boost Your Productivity with a 4-Step AI Method to Save Over 5 Hours Daily
 subtitle: Learn how to integrate a minimum viable toolkit with ChatGPT, Notebook LM, Google AI Studio, and Jenspark to revolutionize your workflow
