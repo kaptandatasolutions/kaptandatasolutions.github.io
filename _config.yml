@@ -14,12 +14,6 @@ title: home
 
 # Your name to show in the footer
 author: Kaptan Data Solutions
-languages: [en, fr]
-default_lang: en
-exclude_from_localization:
-  - assets
-  - Gemfile
-  - Gemfile.lock
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -219,8 +213,8 @@ footer-hover-col: "#f549f4"
 #  - "/assets/css/custom-styles.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
-site-js:
-  - "/assets/js/lang.js"
+#site-js:
+#  - "/assets/js/custom-script.js"
 
 #################################
 # --- Web Analytics Section --- #
@@ -355,7 +349,6 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-polyglot
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
