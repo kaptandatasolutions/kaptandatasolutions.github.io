@@ -4,7 +4,7 @@ title: Exploring Open Router - The Ultimate Gateway to Hundreds of Large Languag
 subtitle: How Open Router Empowers You with Cost-Effective, Decentralized Access to Cutting-Edge LLMs and Enhances AI Benchmarking  
 cover-img: /assets/img/open-router1.png  
 thumbnail-img: /assets/img/open-router1.png  
-share-img: /assets/img/open-router2.png  
+share-img: /assets/img/open-router3.png  
 tags: [AI, LLM, OpenRouter, API, Benchmarking, Automation, Python, n8n, AI-models]  
 author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
 ---
@@ -13,7 +13,7 @@ Large Language Models (LLMs) are rapidly evolving, with new, more powerful versi
 
 In this post, we will walk you through the essential features of Open Router, demonstrate how it revolutionizes LLM access and benchmarking, and explore how you can integrate it into your workflows or developer projects.
 
-![PNG](/assets/img/open-router2.png)
+![PNG](/assets/img/open-router3.png)
 
 ---
 
