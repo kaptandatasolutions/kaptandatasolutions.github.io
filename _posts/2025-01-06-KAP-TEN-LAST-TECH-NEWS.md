@@ -1,4 +1,4 @@
-href="https://kaptandatasolutions.github.io/submit-project/">---
+---href="https://kaptandatasolutions.github.io/submit-project/">---
 layout: post
 title: KAP10 Weekly Update - Key Trends and Technological News of the Moment
 subtitle: A deep dive into CES 2025, AI breakthroughs, USB-C standardization, and privacy challenges
@@ -126,7 +126,7 @@ These topics highlight both the challenges and opportunities facing the global t
             #DataScience #Automation #Python #n8n #Streamlit #DataAnalysis #AI #Visualization
         </div>
         
-        <p><a href="https://kaptandatasolutions.github.io/contact/">Submit your project brief and receive a proposal</a></p>
+        <p><a href="https://kaptandatasolutions.github.io/submit-project/">Submit your project brief and receive a proposal</a></p>
     </div>
 </body>
 </html>

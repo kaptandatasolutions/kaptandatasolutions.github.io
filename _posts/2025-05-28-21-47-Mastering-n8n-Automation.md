@@ -1,4 +1,4 @@
-Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposal---
+---------------------------------------------------------Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposal---
 layout: post
 title: "Mastering n8n Automation - A Comprehensive Workflow & AI Integration Guide"
 subtitle: "A step-by-step how‑to on building data‐driven workflows, managing data transformations, making API calls, and integrating AI agents using n8n"
@@ -163,7 +163,7 @@ By applying these step‑by‑step techniques—from capturing dynamic JSON inpu
             #DataScience #Automation #Python #n8n #Streamlit #DataAnalysis #AI #Visualization
         </div>
         
-        <p><a href="https://kaptandatasolutions.github.io/contact/">Learn more and request a quote</a></p>
+        <p><a href="https://kaptandatasolutions.github.io/submit-project/">Learn more and request a quote</a></p>
     </div>
 </body>
 </html>

@@ -1,4 +1,4 @@
-Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalhref="https://kaptandatasolutions.github.io/submit-project/">---
+---Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalhref="https://kaptandatasolutions.github.io/submit-project/">---
 
 ## layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
@@ -126,7 +126,7 @@ Have a great day and feel free to visit **this site to see the data science solu
             #DataScience #Automation #Python #n8n #Streamlit #DataAnalysis #AI #Visualization
         </div>
         
-        <p><a href="https://kaptandatasolutions.github.io/contact/">Submit your project brief and receive a proposal</a></p>
+        <p><a href="https://kaptandatasolutions.github.io/submit-project/">Submit your project brief and receive a proposal</a></p>
     </div>
 </body>
 </html>

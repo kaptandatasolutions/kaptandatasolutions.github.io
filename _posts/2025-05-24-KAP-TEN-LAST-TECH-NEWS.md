@@ -1,4 +1,4 @@
-href="https://kaptandatasolutions.github.io/submit-project/">---
+---href="https://kaptandatasolutions.github.io/submit-project/">---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
 subtitle: "Weekly Roundup of Breakthroughs in AI, Quantum Computing, and Autonomous Technology"
@@ -131,7 +131,7 @@ Our mission: to meet the specific needs of companies, laboratories, and institut
             #DataScience #Automation #Python #n8n #Streamlit #DataAnalysis #AI #Visualization
         </div>
         
-        <p><a href="https://kaptandatasolutions.github.io/contact/">Submit your project brief and receive a proposal</a></p>
+        <p><a href="https://kaptandatasolutions.github.io/submit-project/">Submit your project brief and receive a proposal</a></p>
     </div>
 </body>
 </html>

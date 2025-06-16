@@ -1,4 +1,4 @@
-Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalhref="https://kaptandatasolutions.github.io/submit-project/">---
+---Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalhref="https://kaptandatasolutions.github.io/submit-project/">---
 ## layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
 subtitle: Manus AI, Apple's Challenges, Cybersecurity, Digital Health, Organic Computing, and More.

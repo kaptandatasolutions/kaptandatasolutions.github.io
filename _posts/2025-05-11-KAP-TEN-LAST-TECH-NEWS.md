@@ -1,4 +1,4 @@
-href="https://kaptandatasolutions.github.io/submit-project/">---
+---href="https://kaptandatasolutions.github.io/submit-project/">---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
 subtitle: Exploring AI courtroom avatars, futuristic robotics, ultra-thin smartphones and more in a week of breakthrough tech innovations.
@@ -114,7 +114,7 @@ Lastly, we explore an ambitious project that bridges the gap between history and
             #DataScience #Automation #Python #n8n #Streamlit #DataAnalysis #AI #Visualization
         </div>
         
-        <p><a href="https://kaptandatasolutions.github.io/contact/">Submit your project brief and receive a proposal</a></p>
+        <p><a href="https://kaptandatasolutions.github.io/submit-project/">Submit your project brief and receive a proposal</a></p>
     </div>
 </body>
 </html>

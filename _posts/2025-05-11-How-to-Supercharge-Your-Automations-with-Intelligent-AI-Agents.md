@@ -1,4 +1,4 @@
-Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposal---
+---------------------------------Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposal---
 layout: post
 title: How to Supercharge Your Automations with Intelligent AI Agents
 subtitle: A comprehensive guide on configuring dynamic agents to revolutionize your workflow automation
@@ -162,7 +162,7 @@ As you become comfortable with the new paradigm, envision a future where agents 
             #DataScience #Automation #Python #n8n #Streamlit #DataAnalysis #AI #Visualization
         </div>
         
-        <p><a href="https://kaptandatasolutions.github.io/contact/">Learn more and request a quote</a></p>
+        <p><a href="https://kaptandatasolutions.github.io/submit-project/">Learn more and request a quote</a></p>
     </div>
 </body>
 </html>

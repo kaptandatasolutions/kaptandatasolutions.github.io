@@ -1,4 +1,4 @@
-href="https://kaptandatasolutions.github.io/submit-project/">---
+---href="https://kaptandatasolutions.github.io/submit-project/">---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech Developments Shaping Digital Sovereignty and AI Advancements
 subtitle: The trends that will shape your data, code and business projects over the next 12 months
@@ -254,7 +254,7 @@ Continue following KAP10 for in-depth analyses on the societal impacts and regul
             #DataScience #Automation #Python #n8n #Streamlit #DataAnalysis #AI #Visualization
         </div>
         
-        <p><a href="https://kaptandatasolutions.github.io/contact/">Learn more and request a quote</a></p>
+        <p><a href="https://kaptandatasolutions.github.io/submit-project/">Learn more and request a quote</a></p>
     </div>
 </body>
 </html>

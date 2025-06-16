@@ -181,7 +181,7 @@ By embracing these tools thoughtfully, investing in foundational knowledge, and 
             #DataScience #Automation #Python #n8n #Streamlit #DataAnalysis #AI #Visualization
         </div>
         
-        <p><a href="https://kaptandatasolutions.github.io/contact/">Learn more and request a quote</a></p>
+        <p><a href="https://kaptandatasolutions.github.io/submit-project/">Learn more and request a quote</a></p>
     </div>
 </body>
 </html>  

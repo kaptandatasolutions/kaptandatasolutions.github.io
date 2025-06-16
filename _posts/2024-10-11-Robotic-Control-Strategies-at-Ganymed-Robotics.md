@@ -1,4 +1,4 @@
-Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposal---
+------------------------------Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposal---
 layout: post
 title: Robotic Control Strategies at Ganymed Robotics - MATLAB EXPO Paris 2024
 subtitle: Innovating Orthopedic Surgery with Collaborative Surgical Robots
@@ -265,7 +265,7 @@ Yep. It's a total game changer. They'll be able to jump back and forth between v
             #DataScience #Automation #Python #n8n #Streamlit #DataAnalysis #AI #Visualization
         </div>
         
-        <p><a href="https://kaptandatasolutions.github.io/contact/">Learn more and request a quote</a></p>
+        <p><a href="https://kaptandatasolutions.github.io/submit-project/">Learn more and request a quote</a></p>
     </div>
 </body>
 </html>

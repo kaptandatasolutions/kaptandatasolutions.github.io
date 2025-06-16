@@ -1,4 +1,4 @@
----
+/submit-project/---
 layout: post
 title: "Automating Viral Video Transformation with an AI-Driven Workflow"
 subtitle: "A step‑by‑step guide to reimagining trending TikTok content into personalized videos and auto‑publishing them on multiple platforms"

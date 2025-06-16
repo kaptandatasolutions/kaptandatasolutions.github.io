@@ -1,4 +1,4 @@
-href="https://kaptandatasolutions.github.io/submit-project/">---
+---href="https://kaptandatasolutions.github.io/submit-project/">---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
 subtitle: From Alexa Plus to Quantum Chips - A Roundup of This Week's Top Tech Innovations

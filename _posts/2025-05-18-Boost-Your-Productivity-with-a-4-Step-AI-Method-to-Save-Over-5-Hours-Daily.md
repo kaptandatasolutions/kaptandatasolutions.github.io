@@ -1,4 +1,4 @@
-Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposal---
+---------------------------------Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposal---
 layout: post
 title: Boost Your Productivity with a 4-Step AI Method to Save Over 5 Hours Daily
 subtitle: Learn how to integrate a minimum viable toolkit with ChatGPT, Notebook LM, Google AI Studio, and Jenspark to revolutionize your workflow
@@ -143,7 +143,7 @@ Apply these techniques to reclaim your time and drive significant improvements i
             #DataScience #Automation #Python #n8n #Streamlit #DataAnalysis #AI #Visualization
         </div>
         
-        <p><a href="https://kaptandatasolutions.github.io/contact/">Learn more and request a quote</a></p>
+        <p><a href="https://kaptandatasolutions.github.io/submit-project/">Learn more and request a quote</a></p>
     </div>
 </body>
 </html>

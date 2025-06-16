@@ -1,4 +1,4 @@
-Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposal---
+------------------------------Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposal---
 layout: post
 title: "Maximizing Productivity with AI - A Four-Step Guide to Saving Hours Daily"
 subtitle: "Learn how to harness the power of Chat GPT, Notebook LM, Google AI Studio, and more to optimize your workflow and streamline your business strategy."

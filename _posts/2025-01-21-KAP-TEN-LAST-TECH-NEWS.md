@@ -1,4 +1,4 @@
-href="https://kaptandatasolutions.github.io/submit-project/">---
+---href="https://kaptandatasolutions.github.io/submit-project/">---
 layout: post
 title: KAP10 Weekly Update - Major Tech and Digital Trends of the Moment
 subtitle: Exploring TikTok's American drama, AI revolutions, Big Tech vs. EU regulations, and humanoid robotics
@@ -142,7 +142,7 @@ We live in an exciting yet challenging time. Staying informed about these develo
             #DataScience #Automation #Python #n8n #Streamlit #DataAnalysis #AI #Visualization
         </div>
         
-        <p><a href="https://kaptandatasolutions.github.io/contact/">Learn more and request a quote</a></p>
+        <p><a href="https://kaptandatasolutions.github.io/submit-project/">Learn more and request a quote</a></p>
     </div>
 </body>
 </html>
