@@ -1,4 +1,4 @@
-------------------------------Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposal---
+---
 layout: post
 title: Robotic Control Strategies at Ganymed Robotics - MATLAB EXPO Paris 2024
 subtitle: Innovating Orthopedic Surgery with Collaborative Surgical Robots

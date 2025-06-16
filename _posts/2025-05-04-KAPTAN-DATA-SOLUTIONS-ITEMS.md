@@ -1,4 +1,4 @@
----Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalhref="https://kaptandatasolutions.github.io/submit-project/">---
+---
 layout: post
 title: Leveraging Multiple AIs for Reliable Research and Content Creation
 subtitle: A Step-by-Step Guide to Combining American, Chinese, and French AI Tools for Comprehensive Results

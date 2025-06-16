@@ -1,4 +1,4 @@
----href="https://kaptandatasolutions.github.io/submit-project/">---
+---
 layout: post
 title: Podcast - Agent2Agent (A2A) Protocol for Enhanced AI Agent Collaboration
 subtitle: Unlocking AI Potential through Open and Seamless Interoperability

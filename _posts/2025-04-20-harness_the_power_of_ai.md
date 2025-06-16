@@ -1,4 +1,4 @@
----Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalhref="https://kaptandatasolutions.github.io/submit-project/">---
+---
 layout: post
 title: Harness the Power of AI Without Internet Access
 subtitle: Secure, Customizable, and Efficient Solutions for Your Enterprise

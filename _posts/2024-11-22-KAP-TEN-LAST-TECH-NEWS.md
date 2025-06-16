@@ -1,4 +1,4 @@
----Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalhref="https://kaptandatasolutions.github.io/submit-project/">---
+---
 layout: post
 title: KAP10 Weekly Update - OpenAI Web Search, Freds Growth, and Controversial Changes on X
 subtitle: A Deep Dive into This Week’s Major Developments in AI Integration, Social Media Expansion, and Tech Policy Shifts

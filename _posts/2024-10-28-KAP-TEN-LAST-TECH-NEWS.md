@@ -1,4 +1,4 @@
----href="https://kaptandatasolutions.github.io/submit-project/">---
+---
 layout: post
 title: KAP10 Weekly Update - News Corp Sues Perplexity, Meta's Account Ban, and Qualcomm’s New Snapdragon
 subtitle: A Deep Dive into This Week’s Major Developments in AI, Social Media, and Mobile Tech

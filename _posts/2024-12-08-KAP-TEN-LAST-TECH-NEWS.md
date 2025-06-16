@@ -1,4 +1,4 @@
----Submit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalSubmit your project brief and receive a proposalhref="https://kaptandatasolutions.github.io/submit-project/">---
+---
 layout: post
 title: KAP10 Weekly Update – Massive Investments, AI Browsers, and Industry Shake-Ups
 subtitle: Detailed Insights on the Latest Developments in AI, Smartphones, and Corporate Governance

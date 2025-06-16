@@ -1,4 +1,4 @@
----href="https://kaptandatasolutions.github.io/submit-project/">---
+---
 layout: post
 title: KAP10 Weekly Update - Key Trends and Technological News of the Moment
 subtitle: A deep dive into CES 2025, AI breakthroughs, USB-C standardization, and privacy challenges

@@ -1,4 +1,4 @@
----href="https://kaptandatasolutions.github.io/submit-project/">---
+---
 layout: post
 title: KAP10 Weekly Update - OpenAI’s Web Search, Japan’s Wooden Satellite, and Apple’s Record Fine
 subtitle: Key Highlights in AI Advancements, Social Media Changes, and Tech Industry Movements This Week

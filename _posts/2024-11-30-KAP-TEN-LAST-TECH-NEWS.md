@@ -1,4 +1,4 @@
----href="https://kaptandatasolutions.github.io/submit-project/">---
+---
 layout: post
 title: KAP10 Weekly Update – Major Cyberattacks, AI Innovations, and Tech Industry Legal Challenges
 subtitle: An In-Depth Analysis of This Week's Significant Developments in Cybersecurity, Artificial Intelligence, and Legal Affairs in the Tech Industry

@@ -1,4 +1,4 @@
----href="https://kaptandatasolutions.github.io/submit-project/">---
+---
 layout: post
 title: Podcast - Optimizing EWMA and CUSUM Control Charts for Effective Process Monitoring
 subtitle: Enhancing Process Stability and Quality with Advanced Statistical Tools
