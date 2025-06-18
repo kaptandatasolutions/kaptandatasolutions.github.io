@@ -58,5 +58,5 @@ The demo tools are currently manual and not yet automated, but keep in mind that
 
 If you're ready to embark on a data-driven adventure, join us.
 
-**[[Contact us]](https://kaptan-data.streamlit.app/KaptanDataSolutions)**  
+**[[Contact us]](https://kaptandatasolutions.github.io/contact/)**  
 **[[Visit our portfolio]](https://kaptan-data.streamlit.app/)**
