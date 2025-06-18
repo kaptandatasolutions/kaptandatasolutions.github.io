@@ -87,8 +87,6 @@
     var params = new URLSearchParams(window.location.search);
     var lang = params.get('lang') || localStorage.getItem('lang') || select.value;
     // Récupération de la langue dans l’URL, le localStorage ou la valeur par défaut du select
-    var params = new URLSearchParams(window.location.search);
-    var lang = params.get('lang') || localStorage.getItem('lang') || select.value;
 
     // Liste des langues disponibles (Jekyll)
     var available = {{ site.languages | jsonify }};
@@ -108,10 +106,9 @@
     }
 
 
-<script>
   document.addEventListener('DOMContentLoaded', function () {
     var params = new URLSearchParams(window.location.search);
-    var select = document.querySelector('#language-select');
+    var select = document.querySelector('#lang-select');
 
     select.addEventListener('change', function () {
       var chosen = this.value;
