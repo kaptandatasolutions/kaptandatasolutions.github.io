@@ -1,4 +1,3 @@
-/submit-project/---
 layout: page
 title: "Pricing"
 permalink: /pricing/
