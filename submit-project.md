@@ -8,7 +8,7 @@ comments: False
 
 ### English
 
-<div style="position:relative;padding-bottom:75%;height:0;overflow:hidden;">
+<div class="embed-container">
   <iframe
     src="https://app.youform.com/forms/etg01si1"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;"
@@ -25,7 +25,7 @@ This form is designed to collect your **project ideas** through targeted questio
 
 ### Français
 
-<div style="position:relative;padding-bottom:75%;height:0;overflow:hidden;">
+<div class="embed-container">
   <iframe
     src="https://app.youform.com/forms/hiznnsev"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;"
