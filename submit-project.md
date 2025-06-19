@@ -17,7 +17,7 @@ comments: False
   ></iframe>
 </div>
 
-This form is designed to collect your **project ideas** through targeted questions. Based on your answers, an **AI agent**—configured with dedicated prompts and various tools—will generate an **indicative commercial proposal** and email it to you. The AI provides an initial, intelligent analysis that reflects current market trends and aligns with our internal **KDS** process.
+This [form](https://app.youform.com/forms/etg01si1) is designed to collect your **project ideas** through targeted questions. Based on your answers, an **AI agent**—configured with dedicated prompts and various tools—will generate an **indicative commercial proposal** and email it to you. The AI provides an initial, intelligent analysis that reflects current market trends and aligns with our internal **KDS** process.
 
 > **Important:** This tool serves only to outline the main elements of your project. We will then review your request in detail and discuss every point with you during a first meeting.
 
@@ -34,7 +34,7 @@ This form is designed to collect your **project ideas** through targeted questio
   ></iframe>
 </div>
 
-Ce formulaire a pour objectif de recueillir vos **idées de projet** au moyen de questions ciblées. Sur la base de vos réponses, un **agent IA**—paramétré avec des prompts dédiés et différents outils—génère une **proposition commerciale indicative** qui vous est envoyée par e-mail. L’IA fournit ainsi une première analyse intelligente, cohérente avec l’évolution du marché et alignée sur notre processus interne **KDS**.
+Ce [formulaire](https://app.youform.com/forms/hiznnsev) a pour objectif de recueillir vos **idées de projet** au moyen de questions ciblées. Sur la base de vos réponses, un **agent IA**—paramétré avec des prompts dédiés et différents outils—génère une **proposition commerciale indicative** qui vous est envoyée par e-mail. L’IA fournit ainsi une première analyse intelligente, cohérente avec l’évolution du marché et alignée sur notre processus interne **KDS**.
 
 > **Important :** cet outil sert uniquement à cadrer les grandes lignes de votre projet. Nous étudions ensuite votre demande de façon personnalisée et examinons chaque point avec vous lors d’un premier rendez-vous.
 
