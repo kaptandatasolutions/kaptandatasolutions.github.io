@@ -1,4 +1,3 @@
----
 layout: page
 title: "Pricing"
 permalink: /pricing/
@@ -23,7 +22,7 @@ A fully customizable interactive virtual assistant, tailored to your industry. I
 
 <p>Try out our interactive Chatbot - 100% customisable to your field of activity:</p>
 
-<div style="position:relative;padding-bottom:75%;height:0;overflow:hidden;">
+<div class="embed-container">
   <iframe
     src="https://share.streamlit.io/kaptandatasolutions/resume_kaptan_data/main/views/chatbot.py?embed=true"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:1px solid rgba(0,0,0,0.1);"
@@ -46,7 +45,7 @@ An intelligent assistant capable of analyzing and answering directly from your i
 
 <p>Try out CORPORAG DEMO - 100% customisable to your field of activity:</p>
 
-<div style="position:relative;padding-bottom:75%;height:0;overflow:hidden;">
+<div class="embed-container">
   <iframe
     src="https://share.streamlit.io/kaptandatasolutions/resume_kaptan_data/main/views/private_gpt.py?embed=true"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:1px solid rgba(0,0,0,0.1);"

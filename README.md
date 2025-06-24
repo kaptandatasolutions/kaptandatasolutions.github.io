@@ -34,4 +34,11 @@ So, if you're ready to embark on a data-driven adventure, join us. Together, we 
 
 **[[Contact us]](kaptandatasolutions@gmail.com)** 
 
-**[[visit our website solutions portfolio]](https://kaptan-data.streamlit.app/)** 
+**[[visit our website solutions portfolio]](https://kaptan-data.streamlit.app/)**
+
+## Internationalization
+
+The site now uses the **jekyll-polyglot** plugin to handle multiple languages.
+Pages can be translated by creating language-specific versions like `about_us.fr.md`.
+The plugin will automatically route visitors to the correct language based on
+their selection or browser settings.

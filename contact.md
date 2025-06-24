@@ -10,5 +10,3 @@ comments: False
 Fill in the form below :</p>
 
 {% include contact-form.html %}
-
-
