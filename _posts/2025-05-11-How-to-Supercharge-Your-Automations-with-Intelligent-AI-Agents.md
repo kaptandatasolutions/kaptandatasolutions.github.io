@@ -131,38 +131,36 @@ As you become comfortable with the new paradigm, envision a future where agents 
     </style>
 </head>
 <body>
-    <div class="citation">
-        <h3>🔍 Discover Kaptan Data Solutions—your partner for data science and interactive visualization!</h3>
-        
-        <p>We're a French startup dedicated to building innovative web applications focused on data science and interactive visual analytics.</p>
-        
-        <p>Our mission: to meet the specific needs of companies, laboratories, and institutions by delivering powerful, intuitive, and customized tools that streamline and accelerate your data exploration, analysis, and usage.</p>
-        
-        <p>
-            <a href="https://kaptandatasolutions.github.io/">🌐 Visit our website to see all our services and tech updates</a><br>
-            <a href="https://kaptan-data.streamlit.app/">💻 Explore our ready-to-use interactive Streamlit apps directly online</a>
-        </p>
-        
-        <p><strong>Our areas of expertise include:</strong></p>
-        <div class="expertise-list">
-            📊 Interactive web apps for data visualization and analysis<br>
-            🔬 Specialized solutions for medical physics and quality control<br>
-            🏭 Optimization tools for research and industrial operations<br>
-            🤖 Advanced automation with n8n and AI integrations<br>
-            📈 Statistical analyses and complex data processing
-        </div>
-        
-        <p>We also offer n8n automation services combined with advanced Python analytics, enabling you to build powerful data-driven workflows, perform complex data transformations, and embed AI agents into your business processes.</p>
-        
-        <p>Our know-how goes beyond the medical field, spanning industry, environment, finance, biotechnology, and energy.</p>
-        
-        <p>Get in touch to discuss your specific requirements and discover how our tailor-made solutions can help you unlock the value of your data, make informed decisions, and boost operational performance!</p>
-        
-        <div class="hashtags">
-            #DataScience #Automation #Python #n8n #Streamlit #DataAnalysis #AI #Visualization
-        </div>
-        
-        <p><a href="https://kaptandatasolutions.github.io/submit-project/">Learn more and request a quote</a></p>
+  <div class="citation">
+    <h3>🔍 Discover Kaptan Data Solutions — your partner for medical-physics data science & QA!</h3>
+
+    <p>We're a French startup dedicated to building innovative web applications for <strong>medical physics, radiotherapy and quality assurance (QA)</strong>.</p>
+
+    <p>Our mission: provide hospitals, cancer centers and dosimetry labs with powerful, intuitive and compliant tools that streamline beam-data acquisition, analysis and reporting.</p>
+
+    <p>
+      <a href="https://kaptandatasolutions.github.io/">🌐 Explore all our medical-physics services and tech updates</a><br>
+      <a href="https://kaptan-data.streamlit.app/">💻 Test our ready-to-use QA dashboards online</a>
+    </p>
+
+    <p><strong>Our expertise covers:</strong></p>
+    <div class="expertise-list">
+      📊 Interactive dashboards for linac performance & trend analysis<br>
+      🔬 Patient-specific dosimetry and image QA (EPID, portal dosimetry)<br>
+      📈 Statistical Process Control (SPC) & anomaly detection for beam data<br>
+      🤖 Automated QA workflows with n8n + AI agents (predictive maintenance)<br>
+      � DICOM-RT / HL7 compliant reporting and audit trails
     </div>
+
+    <p>Leveraging advanced Python analytics and n8n orchestration, we help physicists automate routine QA, detect drifts early and generate regulatory-ready PDFs in one click.</p>
+
+    <p>Ready to boost treatment quality and uptime? Let’s discuss your linac challenges and design a tailor-made solution!</p>
+
+    <div class="hashtags">
+      #MedicalPhysics #Radiotherapy #LinacQA #DICOM #DataScience #Automation
+    </div>
+
+    <p><a href="https://kaptandatasolutions.github.io/submit-project/">Request a quote</a></p>
+  </div>
 </body>
 </html>
