@@ -2,7 +2,7 @@
 layout: post
 title: Accelerating Cancer Radiotherapy Advances through Biology-Informed Nanoparticle Simulations  
 subtitle: How Integrating Cellular Biology into Monte Carlo Modeling Enhances Radiosensitizing Nanoparticle Selection  
-cover-img: /assets/img/Nanoparticles4.png  
+cover-img: /assets/img/Nanoparticules5.png
 thumbnail-img: /assets/img/Nanoparticle1.png  
 share-img: /assets/img/Nanoparticle1.png  
 tags: [oncology, radiotherapy, nanotechnology, simulation, MonteCarlo, radiosensitizers, cancer research, drug development]  
