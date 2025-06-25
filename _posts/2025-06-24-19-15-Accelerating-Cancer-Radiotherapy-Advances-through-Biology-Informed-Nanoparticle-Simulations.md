@@ -71,8 +71,9 @@ Envisioned broadly, adapting this biology-informed simulation framework could ac
 
 To predict radiosensitizing nanoparticle efficacy, simulations must fuse physical radiation modeling with detailed biological data describing nanoparticle distribution and uptake within cells. This integrated strategy enables faster, more accurate candidate ranking, ultimately cutting years from development timelines and optimizing cancer radiotherapy innovations.
 
----
+
 [[See all scientific studies by Ph.D. Paul Retif]](https://scholar.google.com/citations?user=kyh8-WMAAAAJ&hl=fr)
+
 ---
 
 <html lang="fr">
