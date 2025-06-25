@@ -16,7 +16,8 @@ Cancer treatment innovation, especially in radiotherapy, is notoriously slow des
 >Study carried out in 2016 by Paul RETIF, Ph.D.
 >Person specialised in medical radiophysics (PSRPM)
 >Head of the medical physics unit
->**[[Monte Carlo simulations guided by imaging to predict the in vitro ranking of radiosensitizing nanoparticles]](https://scholar.google.com/citations?user=kyh8-WMAAAAJ&hl=fr)** 
+
+[[See article]](https://scholar.google.com/citations?user=kyh8-WMAAAAJ&hl=fr)
 
 
 ## The Challenge: Slow and Uncertain Nanoparticle Development
@@ -71,7 +72,7 @@ Envisioned broadly, adapting this biology-informed simulation framework could ac
 To predict radiosensitizing nanoparticle efficacy, simulations must fuse physical radiation modeling with detailed biological data describing nanoparticle distribution and uptake within cells. This integrated strategy enables faster, more accurate candidate ranking, ultimately cutting years from development timelines and optimizing cancer radiotherapy innovations.
 
 ---
->**[[See all scientific studies by Ph.D. Paul Retif]](https://scholar.google.com/citations?user=kyh8-WMAAAAJ&hl=fr)** 
+>[[See all scientific studies by Ph.D. Paul Retif]](https://scholar.google.com/citations?user=kyh8-WMAAAAJ&hl=fr)
 ---
 
 <html lang="fr">
