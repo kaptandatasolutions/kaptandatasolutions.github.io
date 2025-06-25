@@ -97,7 +97,7 @@ By following the steps above, you can efficiently download and manage your workf
   <div class="citation">
     <h3>🔍 Discover Kaptan Data Solutions — your partner for medical-physics data science & QA!</h3>
 
-    <p>We're a French startup dedicated to building innovative web applications for <strong>medical physics, radiotherapy and quality assurance (QA)</strong>.</p>
+    <p>We're a French startup dedicated to building innovative web applications for <strong>medical physics, and quality assurance (QA)</strong>.</p>
 
     <p>Our mission: provide hospitals, cancer centers and dosimetry labs with powerful, intuitive and compliant tools that streamline beam-data acquisition, analysis and reporting.</p>
 
