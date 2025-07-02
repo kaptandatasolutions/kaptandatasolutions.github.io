@@ -9,7 +9,7 @@ tags: [AI, Copyright, Smart Glasses, AR, Satellites, Creativity, Privacy, Social
 author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
 ---
 
-# Top 10 Tech News of the Week
+# Top 10 Tech News of the Week !!
 
 ## 1. AI and Copyright Battles
 
