@@ -6,7 +6,7 @@ cover-img: /assets/img/kapt10-2.png
 thumbnail-img: /assets/img/kapt10-1.png  
 share-img: /assets/img/hebdo-21-06.png 
 tags: [Tech, Innovation, Digital, Cybersecurity, AI, Smartphones, IoT, Data Privacy]
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automationy Control
+author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
 ---
 
 # Top 10 Tech News of the Week
