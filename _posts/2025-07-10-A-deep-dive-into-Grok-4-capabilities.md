@@ -2,9 +2,9 @@
 layout: post
 title: Grok 4 - The New AI Giant Redefining Multimodal Intelligence and Advanced Reasoning  
 subtitle: A deep dive into Grok 4’s capabilities, pricing, benchmarks, and practical testing with API integration  
-cover-img: /assets/img/article_cover_std.png  
-thumbnail-img: /assets/img/article_inside_site.png  
-share-img: /assets/img/article_img_share_std.png  
+cover-img: /assets/img/grok4-1.png  
+thumbnail-img: /assets/img/grok4-2.png  
+share-img: /assets/img/grok4-3.png  
 tags: [AI, Grok4, LargeLanguageModels, MultimodalAI, Benchmarks, API, Reasoning, Coding, Automation]  
 author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
 ---
