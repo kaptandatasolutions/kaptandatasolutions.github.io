@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grok 4: The New AI Giant Redefining Multimodal Intelligence and Advanced Reasoning  
+title: Grok 4 - The New AI Giant Redefining Multimodal Intelligence and Advanced Reasoning  
 subtitle: A deep dive into Grok 4’s capabilities, pricing, benchmarks, and practical testing with API integration  
 cover-img: /assets/img/article_cover_std.png  
 thumbnail-img: /assets/img/article_inside_site.png  
