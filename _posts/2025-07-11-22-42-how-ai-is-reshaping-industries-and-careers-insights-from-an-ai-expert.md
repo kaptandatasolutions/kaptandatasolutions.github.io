@@ -9,8 +9,6 @@ tags: [AI, Careers, Industry Impact, Upskilling, Technology, Automation]
 author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
 ---
 
-
-
 Artificial intelligence (AI) has become a buzzword that's sparking both excitement and anxiety across the globe. From developers worried about job security to businesses navigating new technologies, AI is undeniably changing the landscape. In this article, we'll dive into key insights from a recent discussion with an AI practitioner who works at a leading AI and data services company. The conversation covers how AI is impacting various industries, the future of jobs, essential skills for the AI era, and practical adoption strategies in enterprises. By breaking it down accessibly, we'll see that while AI disrupts certain tasks, it also opens doors for innovation and growth—provided we adapt wisely.
 
 ### Understanding AI's Broad Impact on Tasks and Industries
