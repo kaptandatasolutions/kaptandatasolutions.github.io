@@ -2,8 +2,8 @@
 layout: post
 title: How AI is Reshaping Industries and Careers Insights from an AI Expert
 subtitle: Exploring the transformative impact of artificial intelligence on jobs skills and business decisions
-cover-img: /assets/img/article_cover_std.png  
-thumbnail-img: /assets/img/article_inside_site.png  
+cover-img: /assets/img/ia-jobs1.png  
+thumbnail-img: /assets/img/ia-jobs1.png  
 share-img: /assets/img/article_img_share_std.png  
 tags: [AI, Careers, Industry Impact, Upskilling, Technology, Automation]  
 author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
