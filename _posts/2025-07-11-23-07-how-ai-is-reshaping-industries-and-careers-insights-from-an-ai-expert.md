@@ -6,7 +6,7 @@ cover-img: /assets/img/ia-jobs1.png
 thumbnail-img: /assets/img/ia-jobs1.png  
 share-img: /assets/img/article_img_share_std.png  
 tags: [AI, Careers, Industry Impact, Upskilling, Technology, Automation]  
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 

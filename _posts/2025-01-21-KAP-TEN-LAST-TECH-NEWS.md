@@ -6,7 +6,7 @@ cover-img: /assets/img/kapt10-2.png
 thumbnail-img: /assets/img/kapt10-1.png
 share-img: /assets/img/kapt10-3.png
 tags: [TikTok, artificial intelligence, Big Tech, EU regulations, humanoid robotics, OpenAI, digital geopolitics]
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 # The Major Tech and Digital Trends of the Moment: What You Need to Know

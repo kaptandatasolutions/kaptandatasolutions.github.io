@@ -6,7 +6,7 @@ cover-img: /assets/img/banniere-physique-medicale.png
 thumbnail-img: /assets/img/podcast-1.png  
 share-img: /assets/img/podcast-1.png  
 tags: [AI, ConversationalAgents, MedicalPhysics, DataSecurity, RAG, LocalAI, Radiotherapy, RegulatoryCompliance]  
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 In recent years, artificial intelligence (AI) chatbots have become widespread tools for answering general questions, assisting with daily tasks, or providing customer support by drawing from vast amounts of online data. Yet, in specialized fields—such as medical physics and radiotherapy—precision, accuracy, and data confidentiality are paramount. To meet these critical needs, a distinct type of AI conversational assistant is emerging: chatbots trained exclusively on carefully curated, domain-specific documents.

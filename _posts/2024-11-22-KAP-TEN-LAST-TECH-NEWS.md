@@ -6,7 +6,7 @@ cover-img: /assets/img/kapt10-2.png
 thumbnail-img: /assets/img/kapt10-1.png
 share-img: /assets/img/kapt10-3.png
 tags: [AI, social media, technology policy, OpenAI, Freds, Elon Musk, Meta, Space Technology, Mozilla, Apple, Elon Musk]
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 ## OpenAI Integrates Real-Time Web Search in ChatGPT

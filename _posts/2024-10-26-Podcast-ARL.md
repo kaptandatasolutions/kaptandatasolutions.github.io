@@ -6,7 +6,7 @@ cover-img: /assets/img/blog_image_ARL_podcast-cover.png
 thumbnail-img: /assets/img/blog_image_ARL_podcast-1.png
 share-img: /assets/img/blog_image_ARL_podcast-share.png
 tags: [quality-control, statistics, process-optimization, EWMA, CUSUM, manufacturing, data-analysis]
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 # Introducing Our New Podcast: Optimizing EWMA and CUSUM Control Charts

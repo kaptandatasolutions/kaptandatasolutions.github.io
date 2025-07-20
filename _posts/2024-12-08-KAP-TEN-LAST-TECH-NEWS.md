@@ -6,7 +6,7 @@ cover-img: /assets/img/kapt10-2.png
 thumbnail-img: /assets/img/kapt10-1.png
 share-img: /assets/img/kapt10-3.png
 tags: [AI, Smartphones, Corporate Governance, Meta, OnePlus, Free, Apple, AWS, Tech Industry]
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 ## Meta Invests $10 Billion in Submarine Cable Network

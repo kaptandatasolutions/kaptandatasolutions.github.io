@@ -6,7 +6,7 @@ cover-img: /assets/img/notion2.png
 thumbnail-img: /assets/img/notion1.png
 share-img: /assets/img/notion1.png
 tags: [Notion, Automation, Database, Productivity, Workflow]
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 Streamlining workflows is key to boosting productivity, and Notion is a powerful tool for organizing information and managing projects. One way to enhance your Notion experience is by setting default values for database properties. While Notion allows static default values, you can take it a step further by creating *dynamic* default values that automatically update based on calculations or other data within your database. This article will guide you through the process of setting up these dynamic default values, saving you time and ensuring data consistency.

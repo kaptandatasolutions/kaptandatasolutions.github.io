@@ -6,7 +6,7 @@ cover-img: /assets/img/data_girl.jpg
 thumbnail-img: /assets/img/logo_kaptan_data.png
 share-img: /assets/img/data_girl.jpg
 tags: [data-science, medical-physics, software, solutions]
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 

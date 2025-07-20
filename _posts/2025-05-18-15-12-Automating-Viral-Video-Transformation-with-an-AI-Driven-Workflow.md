@@ -6,7 +6,7 @@ cover-img: /assets/img/Automating_Viral_Video_2.png
 thumbnail-img: /assets/img/Automating_Viral_Video_1.png  
 share-img: /assets/img/Automating_Viral_Video_1.png  
 tags: [automation, workflow, AI, video creation, digital transformation]  
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 In this article we explore an innovative process that transforms a viral TikTok video into a personalized piece of content using an automated workflow. With the help of artificial intelligence and the powerful N8N platform, this system extracts key elements from popular videos, adapts the core idea with your own avatar, and then instantly publishes the final result across numerous social networks – all fully automated.

@@ -5,7 +5,7 @@ subtitle: A Step-by-Step Guide to Analyzing Multi-Leaf Collimator Alignment with
 cover-img: /assets/img/demo_web_application_picket_fence.png
 thumbnail-img: /assets/img/demo_web_application_picket_fence.png
 share-img: /assets/img/demo_web_application_picket_fence.png
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 tags: [Radiotherapy, Quality Control, Streamlit, Data Analysis, Python, Medical Physics]
 ---
 

@@ -6,7 +6,7 @@ cover-img: /assets/img/blog_image_podcast_spc-cover.png
 thumbnail-img: /assets/img/blog_image_podcast_spc-1.png
 share-img: /assets/img/blog_image_podcast_spc-share.png
 tags: [data-science, medical-physics, software, solutions, spc, statistical process control, Automated SPC]
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 ## 🎧 Tune Into Our Latest Podcast: Revolutionizing Quality Control in Radiotherapy 🎧

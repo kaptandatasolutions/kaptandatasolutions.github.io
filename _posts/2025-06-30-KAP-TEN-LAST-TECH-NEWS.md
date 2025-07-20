@@ -6,7 +6,7 @@ cover-img: /assets/img/kapt10-2.png
 thumbnail-img: /assets/img/kapt10-1.png  
 share-img: /assets/img/hebdo-21-06.png 
 tags: [AI, Copyright, Smart Glasses, AR, Satellites, Creativity, Privacy, Social Networks, Startups, Ethics]
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 # Top 10 Tech News of the Week !!

@@ -6,7 +6,7 @@ cover-img: /assets/img/Screenless_smartphone.webp
 thumbnail-img: /assets/img/Screenless_smartphone-share.png
 share-img: /assets/img/Screenless_smartphone-share.png
 tags: [technology, innovation, AI, smartphone]
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 Recent rumors in the tech world have introduced an intriguing concept: a smartphone without a traditional screen, enhanced by artificial intelligence reminiscent of advanced conversational models. This mysterious device, described as slightly larger than a similar gadget introduced last year, appears to blend elements of wearable tech and mobile computing. Although details remain sparse and many of the circulating images are unofficial, the buzz is hard to ignore.

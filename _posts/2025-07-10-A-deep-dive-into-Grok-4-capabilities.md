@@ -6,7 +6,7 @@ cover-img: /assets/img/grok4-1.png
 thumbnail-img: /assets/img/grok4-2.png  
 share-img: /assets/img/grok4-3.png  
 tags: [AI, Grok4, LargeLanguageModels, MultimodalAI, Benchmarks, API, Reasoning, Coding, Automation]  
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 The AI landscape just witnessed a major arrival with the launch of Grok 4 from XAI, Elon Musk’s AI venture. Released early morning on July 10, 2025, this new model promises to outpace competitors such as OpenAI’s GPT-4, Anthropic’s Claude, and Google’s Gemini in reasoning, coding, and multimodal capabilities — all underpinned by an impressive technological foundation.

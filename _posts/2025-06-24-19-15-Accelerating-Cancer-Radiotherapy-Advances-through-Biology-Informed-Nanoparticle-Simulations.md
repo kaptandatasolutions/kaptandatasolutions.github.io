@@ -6,7 +6,7 @@ cover-img: /assets/img/Nanoparticules5.png
 thumbnail-img: /assets/img/Nanoparticle1.png  
 share-img: /assets/img/Nanoparticle1.png  
 tags: [oncology, radiotherapy, nanotechnology, simulation, MonteCarlo, radiosensitizers, cancer research, drug development]  
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 Cancer treatment innovation, especially in radiotherapy, is notoriously slow despite intense scientific effort. Developing effective radiosensitizing nanoparticles (NPs) — tiny particles designed to enhance radiation damage to tumor cells — can take decades before reaching clinical application. A promising 2016 study addresses this bottleneck by combining biological data with advanced computer simulations to better predict which nanoparticles will actually work.

@@ -6,7 +6,7 @@ cover-img: /assets/img/levrering-mult-cover.png
 thumbnail-img: /assets/img/levrering-mult-inside.png  
 share-img: /assets/img/levrering-mult-share.png  
 tags: [artificial intelligence, deep research, open source, content creation]  
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation  
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation  
 ---
 
 In today’s digital landscape, artificial intelligence is not only changing the way we work but also how we search for, consolidate, and present information. This guide explains a method that combines several AI tools from different parts of the world to help you obtain objective, reliable, and comprehensive answers. By the end of this article, you will understand a step-by-step approach to harnessing American, Chinese, and French AI platforms to perform deep research, generate detailed content, and even create dynamic presentations and audio summaries.

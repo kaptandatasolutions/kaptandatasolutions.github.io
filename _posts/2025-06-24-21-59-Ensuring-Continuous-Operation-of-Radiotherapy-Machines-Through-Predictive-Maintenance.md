@@ -6,7 +6,7 @@ cover-img: /assets/img/linac3.png
 thumbnail-img: /assets/img/linac1.png  
 share-img: /assets/img/linac1.png  
 tags: [radiotherapy, predictive maintenance, LINAC, healthcare technology, medical devices, data analytics, remote monitoring]  
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 Radiotherapy machines, specifically linear accelerators (LINACs), are among the most critical and complex tools in cancer treatment. Their uninterrupted operation is vital because any machine downtime can directly delay patient care and affect treatment outcomes. Recent advancements focus on connecting these machines remotely and leveraging data analytics to predict and prevent equipment failures before they occur. This article explores how two major LINAC manufacturers approach this challenge through intelligent maintenance services that redefine the reliability and efficiency of radiotherapy equipment.

@@ -5,7 +5,7 @@ subtitle: A Comprehensive Guide to Boosting Productivity Through AI-Driven Workf
 cover-img: /assets/img/developpeur_intelligence_artificielle_multi_taches.png
 thumbnail-img: /assets/img/developpeur_intelligence_artificielle_multi_taches.png
 share-img: /assets/img/developpeur_intelligence_artificielle_multi_taches.png
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 tags: [AI, DataScience, Automation, Productivity, Python]
 ---
 

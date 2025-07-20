@@ -6,7 +6,7 @@ cover-img: /assets/img/ai-power3.png
 thumbnail-img: /assets/img/ai-power2.png  
 share-img: /assets/img/ai-power2.png  
 tags: [AI, GitHub Copilot, coding agent, software development, open source, developer tools]  
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 In today’s rapidly evolving software development landscape, artificial intelligence is no longer just a buzzword — it’s actively transforming how developers prototype, write, and maintain code. More specifically, advanced AI agents embedded within development environments are becoming indispensable collaborators, automating routine tasks and freeing engineers to focus on higher-value challenges.

@@ -6,7 +6,7 @@ cover-img: /assets/img/kapt10-2.png
 thumbnail-img: /assets/img/kapt10-1.png  
 share-img: /assets/img/kapt10-3.png  
 tags: [tech, innovation, AI, robotics, digital transformation, IT development]
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 # Top 10 Tech News of the Week Special VivaTech 2025 Paris

@@ -6,7 +6,7 @@ cover-img: /assets/img/blog_image-image-gen-cover-1.png
 thumbnail-img: /assets/img/blog_image-image-gen-cover.png
 share-img: /assets/img/blog_image-image-gen-cover-3.png
 tags: [data-science, medical-physics, software, solutions, spc, statistical process control, Automated SPC]
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 # Simulate Medical Imaging for Quality Control with Customizable DICOM Test Images

@@ -6,7 +6,7 @@ cover-img: /assets/img/Boost_Your_Productivity.png
 thumbnail-img: /assets/img/Boost_Your_Productivity.png  
 share-img: /assets/img/Boost_Your_Productivity.png  
 tags: [AI, Productivity, Workflow, ChatGPT, Notebook LM, Google AI Studio, Presentation Tools]
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 In today’s fast-paced digital landscape, many professionals find themselves overwhelmed by the ever-increasing number of emerging AI tools. Rather than gaining a competitive edge through enhanced productivity, many fall into the trap of endless experimentation that wastes valuable time. This article presents a carefully designed 4-step method using AI that not only simplifies your workflow but also promises to give you back more than five extra hours a day.

@@ -6,7 +6,7 @@ cover-img: /assets/img/save_5hours_cover.png
 thumbnail-img: /assets/img/save_5hours_share.png  
 share-img: /assets/img/save_5hours_share.png  
 tags: [AI, Productivity, Automation, Workflow Optimization]  
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 Artificial Intelligence has the power to revolutionize the way we work, yet many professionals often find themselves overwhelmed by the sheer number of available tools. In this article, we explore a four-step method designed to save you more than five hours a day. By establishing a “Minimum Viable Toolkit” (MVT) approach—focused on just three or four key AI products—you can overcome cognitive overload, reduce unnecessary costs, and boost productivity enormously.

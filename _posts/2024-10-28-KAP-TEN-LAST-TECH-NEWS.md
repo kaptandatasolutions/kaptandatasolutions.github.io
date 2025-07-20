@@ -6,7 +6,7 @@ cover-img: /assets/img/kapt10-2.png
 thumbnail-img: /assets/img/kapt10-1.png
 share-img: /assets/img/kapt10-3.png
 tags: [AI, social media, mobile technology, News Corp, Meta, Qualcomm, Perplexity, Apple, Stability AI]
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 Welcome to this week’s tech roundup, where we explore recent developments making headlines in AI, social media, mobile technology, and more. From lawsuits involving major tech players to innovative mobile processors and new user tools, here’s what you need to know.

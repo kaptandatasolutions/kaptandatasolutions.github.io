@@ -6,7 +6,7 @@ cover-img: /assets/img/open-router1.png
 thumbnail-img: /assets/img/open-router1.png  
 share-img: /assets/img/open-router3.png  
 tags: [AI, LLM, OpenRouter, API, Benchmarking, Automation, Python, n8n, AI-models]  
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 Large Language Models (LLMs) are rapidly evolving, with new, more powerful versions released frequently. However, accessing the best models often involves high subscription fees, multiple platforms, and fragmented tools. Enter **Open Router**, a groundbreaking unified interface that aggregates around a hundred LLMs from providers like OpenAI, Google, Meta, and others, offering you a seamless, no-subscription API gateway. You pay only for the tokens you consume, and benefit from the latest models on day one, all while maintaining greater privacy and control.

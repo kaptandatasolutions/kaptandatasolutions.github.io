@@ -6,7 +6,7 @@ cover-img: /assets/img/n8n-img-cover-goog.png
 thumbnail-img: /assets/img/n8n-img-cover.png  
 share-img: /assets/img/n8n-img-1.png  
 tags: ["n8n", "automation", "workflow", "API", "AI", "integration"]  
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 In this comprehensive guide, we walk through the essentials of using n8n to create, deploy, and optimize powerful automation workflows. The video masterclass covers everything from a brief theoretical overview of n8n’s node‐based design to advanced techniques including data manipulation and AI integration. Whether you are new to workflow automation or looking to implement advanced AI-driven solutions in your business, read on to see how you can harness n8n’s low‑code environment.

@@ -6,7 +6,7 @@ cover-img: /assets/img/ai_harnessing1.png
 thumbnail-img: /assets/img/ai_harnessing2.png  
 share-img: /assets/img/ai_harnessing2.png  
 tags: ["Automation", "AI", "Workflow", "Integration"]  
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 Automation is evolving beyond rigid, predetermined logic into a dynamic ecosystem where intelligent agents can make decisions, execute tasks, and even interact with various services on your behalf. In this guide, we explore a new paradigm that incorporates AI agents within an automation platform, empowering users to build workflows that adapt in real time and execute complex operations without the need to predefine every branch.
