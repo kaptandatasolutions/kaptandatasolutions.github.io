@@ -5,7 +5,7 @@ subtitle: A step-by-step guide to streamlining your sales and project initiation
 cover-img: /assets/img/automated_collaboration_proposal_workflow_cover.png
 thumbnail-img: /assets/img/automated_collaboration_proposal_workflow.png
 share-img: /assets/img/automated_collaboration_proposal_workflow.png
-author: Kayhan Kaptan - Expert in radiotherapy quality control, data science and automation
+author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 In today's fast-paced business environment, efficiency is key. Automating routine tasks not only saves time but also ensures consistency and reduces human error. This guide explores a powerful example of automation using N8N, an open-source automation tool, to generate and manage collaboration proposals seamlessly.
