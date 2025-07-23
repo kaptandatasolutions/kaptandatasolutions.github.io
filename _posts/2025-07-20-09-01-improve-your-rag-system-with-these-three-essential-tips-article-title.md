@@ -6,6 +6,7 @@ cover-img: /assets/img/three_tips_to_improve_rag_system_cover.png
 thumbnail-img: /assets/img/three_tips_to_improve_rag_system.png
 share-img: /assets/img/three_tips_to_improve_rag_system.png
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
+tags: [RAG, AI, Vector-search, Prompt-engineering, LLM]
 ---
 
 Retrieval Augmented Generation (RAG) systems are becoming increasingly vital for enhancing the capabilities of Large Language Models (LLMs) by providing them with relevant context. While foundational steps like ensuring clean documents and selecting an effective RAG method (e.g., hybrid search, graph-based) are crucial, there are advanced techniques that can significantly boost your system's performance.

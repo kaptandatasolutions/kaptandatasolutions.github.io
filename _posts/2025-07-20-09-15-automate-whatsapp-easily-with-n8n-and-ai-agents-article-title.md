@@ -6,6 +6,8 @@ cover-img: /assets/img/automating_whatsapp_with_nen_agent_cover.png
 thumbnail-img: /assets/img/automating_whatsapp_with_nen_agent.png
 share-img: /assets/img/automating_whatsapp_with_nen_agent.png
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
+tags: [Automation, WhatsApp, N8N, AI-agents, No-code]
+
 ---
 
 Many believe that automating WhatsApp is reserved for experts, requiring expensive WhatsApp Business accounts, often leading to blocks after a limited number of automated messages. However, there's a simple, free, and unlimited method to connect your WhatsApp to an AI agent using n8n and Docker. This guide provides a step-by-step procedure to set up this powerful automation.

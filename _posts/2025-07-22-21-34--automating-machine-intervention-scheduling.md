@@ -6,6 +6,7 @@ cover-img: /assets/img/automated_machine_intervention_scheduling_cover.png
 thumbnail-img: /assets/img/automated_machine_intervention_scheduling.png
 share-img: /assets/img/automated_machine_intervention_scheduling.png
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
+tags: [Automation, Predictive-maintenance, Medical-physics, Scheduling, N8N]
 ---
 
 In today's fast-paced operational environments, especially in fields like medical physics and equipment maintenance, efficient scheduling of machine interventions is paramount. Manual processes can lead to delays, errors, and significant overheads. This article dives into an innovative automated solution designed to streamline the entire process of scheduling machine interventions, from identifying available slots to confirming appointments with technicians.
