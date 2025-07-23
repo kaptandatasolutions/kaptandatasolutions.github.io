@@ -9,6 +9,8 @@ author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Autom
 tags: [ISO 27001, Information Security, Data Protection, Cybersecurity, Risk Management, Compliance]
 ---
 
+[![](/assets/img/iso_27001_information_security_standard.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
+
 In today's digital landscape, where cyberattacks and data breaches are increasingly common, protecting sensitive information is paramount for any organization. This is where ISO 27001 comes in—the international benchmark for information security management. If you're looking to safeguard your company's data and client information, understanding this standard is crucial.
 
 ### What is ISO 27001?

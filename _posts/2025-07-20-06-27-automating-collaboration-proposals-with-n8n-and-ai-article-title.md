@@ -9,6 +9,8 @@ author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Autom
 tags: [Automation, Collaboration, N8N, AI, Proposal-generation]
 ---
 
+[![](/assets/img/automated_collaboration_proposal_workflow.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
+
 In today's fast-paced business environment, efficiency is key. Automating routine tasks not only saves time but also ensures consistency and reduces human error. This guide explores a powerful example of automation using N8N, an open-source automation tool, to generate and manage collaboration proposals seamlessly.
 
 ## The Automated Collaboration Proposal Workflow
