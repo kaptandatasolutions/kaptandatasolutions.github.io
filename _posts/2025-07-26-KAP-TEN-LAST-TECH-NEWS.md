@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
@@ -127,4 +126,3 @@ As AI capabilities rapidly advance, the discussion around Artificial General Int
 </body>
 </html>
 ---
-```
