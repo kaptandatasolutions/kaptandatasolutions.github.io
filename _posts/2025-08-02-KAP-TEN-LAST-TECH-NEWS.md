@@ -1,15 +1,13 @@
-```yaml
 ---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
 subtitle: Exploring the Latest in AI, Robotics, and Tech Trends from Around the Globe
 cover-img: /assets/img/kapt10-2.png  
 thumbnail-img: /assets/img/kapt10-1.png  
-share-img: /assets/img/kapt10-3.png  
+share-img: /assets/img/gpt5-1.png  
 tags: [AI, Artificial Intelligence, Robotics, Tech News, CES, Metaverse, OpenAI, ChatGPT, Mark Zuckerberg, Sam Altman, YouTube, Google, Apple, Meta, Autonomous Driving, China Tech, Wearable Tech, Smart Ring, Health Tech, Innovation, Technology Trends, Regulatory Affairs, Data Privacy]  
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation  
 ---
-```
 
 # Top 10 Tech News of the Week
 
@@ -17,9 +15,13 @@ The world of technology is buzzing with innovation, bold pronouncements, and a c
 
 ## 1. Mark Zuckerberg's Super AI Vision: A New Era of Personal Superintelligences
 
+[![](/assets/img/zukck1.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
+
 Mark Zuckerberg, the CEO of Meta, has once again made headlines with a grand declaration, this time announcing an "era of personal superintelligences." This marks a significant shift in focus for Meta, four years after his ambitious pivot to the metaverse. Zuckerberg envisions a future where everyone has their own highly advanced AI, capable of understanding and interacting with their needs on an unprecedented level. He predicts a new era of prosperity, where individuals spend less time on mundane productivity software and more time on creative pursuits, empowered by these intelligent personal assistants, potentially integrated into devices like Meta's smart glasses. This bold statement, while met with some skepticism given the unfulfilled promises of the metaverse, clearly positions Meta at the forefront of the AI race, particularly in direct competition with other tech giants. The announcement, coming just before a significant jump in Meta's stock, indicates a strategic move to reassure investors and stake a claim in the burgeoning AI landscape.
 
 ## 2. Sam Altman's GPT-5 Anticipation and the "Manhattan Project" Analogy
+
+[![](/assets/img/gpt5-1.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
 
 Not to be outdone, OpenAI CEO Sam Altman also made waves this week, expressing profound awe and even being "bouleversé" (overwhelmed) by the capabilities of the upcoming GPT-5. He drew a controversial parallel between the development of GPT-5 and the "Manhattan Project," the top-secret research and development undertaking that produced the first nuclear weapons during World War II. For Altman, this analogy highlights the unprecedented power and potential of the new AI, suggesting a level of technological advancement that surprises even its creators. However, critics quickly pointed out the problematic nature of this comparison, arguing that the Manhattan Project, while demonstrating immense scientific power, also resulted in devastating consequences. While Altman's intent was likely to convey a sense of awe and the transformative nature of GPT-5, the analogy sparks important discussions about the ethical implications and potential risks associated with such powerful AI.
 
@@ -52,6 +54,8 @@ China is rapidly asserting itself as a global leader in robotics and artificial 
 Beyond showcasing technological prowess, the WAIC in Shanghai also served as a platform for China to advocate for international cooperation in AI governance. Drawing on the metaphor of AI as a growing "tiger" that cannot be stopped but must be tamed (used by American AI expert Geoffrey Hinton), Chinese officials, including Premier Li Qiang, emphasized the urgent need for a global mechanism to ensure AI safety and ethical development. China proposed a four-point action plan: seizing common opportunities, protecting personal data from discrimination and prejudice, ensuring AI security through shared investment and information, and promoting international cooperation, particularly in making AI tools accessible to underserved communities. This proactive stance reflects China's recognition of the dual nature of AI's power and its desire to play a leading role in shaping the future of global AI ethics and regulation.
 
 ## 10. Velia: The World's Smallest and Smartest Smart Ring
+
+[![](/assets/img/velia.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
 
 At a major tech expo in Las Vegas earlier this year, a French company unveiled Velia, a smart ring that claims to be the smallest yet most intelligent connected ring on the market. Unlike many smart rings that integrate external technology, Velia's innovation lies in its in-house developed semiconductor technology. Originating from a background in semiconductor manufacturing, the company miniaturized advanced PPG (photoplethysmography) technology (similar to that used in Apple Watches for vital sign measurement) into an incredibly compact form. This allows Velia to measure a wide range of biometrics, including heart rate, heart rate variability, sleep analysis, and stress levels. Crucially, Velia also boasts the ability to measure blood pressure, a rare feature for wearable devices, supported by clinical studies showing high reliability. While not positioned as a medical device, Velia aims to be a preventative health tool, empowering users with continuous physiological data to monitor their well-being and identify potential health issues early, all within the discreet design of a traditional wedding band. Priced at approximately $349, Velia represents a significant step forward in wearable health technology, blending advanced capabilities with elegant design.
 
@@ -128,4 +132,3 @@ At a major tech expo in Las Vegas earlier this year, a French company unveiled V
     </div>
 </body>
 </html>
-```
