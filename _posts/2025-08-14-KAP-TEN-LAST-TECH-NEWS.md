@@ -1,4 +1,3 @@
-```
 ---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
@@ -126,4 +125,3 @@ Behind the remarkable capabilities of generative AI like GPT-5 lies a sophistica
     </div>
 </body>
 </html>
-```
