@@ -37,7 +37,7 @@ This guide assumes you have basic computer literacy. Even if you're not a develo
 
 1.  **Open Docker:** Once installed, open your Docker Desktop application.
 2.  **Pull the n8n MCP Image:** Open your terminal or command prompt and execute the following command. This command pulls the necessary Docker image, which contains everything required for the MCP server to function.
-    `docker pull n8n/n8n-cli-ai-agent`
+    `docker pull ghcr.io/czlonkowski/n8n-mcp:latest`
     This downloads the pre-configured environment for the n8n MCP, ensuring compatibility regardless of your machine.
 
 #### Step 3: Configure Claude Desktop
@@ -47,15 +47,23 @@ This guide assumes you have basic computer literacy. Even if you're not a develo
 3.  **Modify Configuration File:** This will open a configuration file (likely a JSON file) in a text editor. You will need to paste a specific command line into this file. This command will typically involve an array where you define the `tools` property. An example structure might look like this:
     ```json
     {
-      "tools": [
-        {
-          "type": "n8n",
-          "config": {
-            "n8nApiUrl": "YOUR_N8N_INSTANCE_URL",
-            "n8nApiKey": "YOUR_N8N_API_KEY"
-          }
+    "mcpServers": {
+        "n8n-mcp": {
+        "command": "docker",
+        "args": [
+            "run",
+            "-i",
+            "--rm",
+            "--init",
+            "-e", "MCP_MODE=stdio",
+            "-e", "LOG_LEVEL=error",
+            "-e", "DISABLE_CONSOLE_OUTPUT=true",
+            "-e", "N8N_API_URL=https://your-n8n-instance.com",
+            "-e", "N8N_API_KEY=your-api-key",
+            "ghcr.io/czlonkowski/n8n-mcp:latest"
+        ]
         }
-      ]
+    }
     }
     ```
     You will replace `YOUR_N8N_INSTANCE_URL` and `YOUR_N8N_API_KEY` with actual values from your n8n instance in a later step.
