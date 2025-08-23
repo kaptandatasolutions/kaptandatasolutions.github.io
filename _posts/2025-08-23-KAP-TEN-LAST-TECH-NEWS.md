@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
@@ -127,4 +126,3 @@ Amazon Web Services (AWS) is making headlines for its innovative use of gamifica
     </div>
 </body>
 </html>
-```
