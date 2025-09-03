@@ -2,7 +2,7 @@
 layout: post
 title: Automate Your AI Agent with Open Source GPT and N8N
 subtitle: Unlock the Power of AI Automation for Free A Step-by-Step Guide
-cover-img: /assets/img/gpt_agent_mode_free_setup_cover.png
+cover-img: /assets/img/automated_collaboration_proposal_workflow_cover.png
 thumbnail-img: /assets/img/gpt_agent_mode_free_setup.png
 share-img: /assets/img/gpt_agent_mode_free_setup.png
 tags: [AI, Automation, N8N, GPT-OSS, Open Source, Productivity, Tech Tutorial]

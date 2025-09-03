@@ -2,7 +2,7 @@
 layout: post
 title: Unlocking Client Acquisition for AI Automation Consultants
 subtitle: A comprehensive guide to securing your first high-value contracts in AI and automation
-cover-img: /assets/img/ai_automation_client_acquisition_cover.png
+cover-img: /assets/img/automated_collaboration_proposal_workflow_cover.png
 thumbnail-img: /assets/img/ai_automation_client_acquisition.png
 share-img: /assets/img/ai_automation_client_acquisition.png
 tags: [AI, Automation, Business, Consulting, Client Acquisition, n8n, OpenAI, Entrepreneurship]

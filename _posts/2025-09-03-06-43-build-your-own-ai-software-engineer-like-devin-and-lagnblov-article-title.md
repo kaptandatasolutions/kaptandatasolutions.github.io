@@ -2,7 +2,7 @@
 layout: post
 title: Build Your Own AI Software Engineer Like Devin and Lagnblov
 subtitle: Learn how to create an agentic AI system that generates functional web applications from simple prompts, mirroring advanced AI software engineers
-cover-img: /assets/img/agentic_ai_software_engineer_project_cover.png
+cover-img: /assets/img/automated_collaboration_proposal_workflow_cover.png
 thumbnail-img: /assets/img/agentic_ai_software_engineer_project.png
 share-img: /assets/img/agentic_ai_software_engineer_project.png
 tags: [AI, Software Engineering, Agentic AI, LangChain, LangGraph, LLM, Python, PyCharm, Groq, Web Development]
