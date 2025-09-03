@@ -1,7 +1,7 @@
 ---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
-subtitle: Exploring the rapid advancements and growing challenges in AI: from ethical dilemmas and legal battles to groundbreaking innovations in language and learning models.
+subtitle: Exploring the rapid advancements and growing challenges in AI - from ethical dilemmas and legal battles to groundbreaking innovations in language and learning models.
 cover-img: /assets/img/kapt10-2.png  
 thumbnail-img: /assets/img/kapt10-1.png  
 share-img: /assets/img/kapt10-3.png  
