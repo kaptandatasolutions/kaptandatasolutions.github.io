@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Build Your Own AI Software Engineer Like Devin and Lagnblov
+title: Build Your Own AI Software Engineer Like Devin and Loveable
 subtitle: Learn how to create an agentic AI system that generates functional web applications from simple prompts, mirroring advanced AI software engineers
 cover-img: /assets/img/automated_collaboration_proposal_workflow_cover.png
 thumbnail-img: /assets/img/agentic_ai_software_engineer_project.png
@@ -11,7 +11,7 @@ author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Autom
 
 ![AI Software Engineer Project Cover Image](/assets/img/agentic_ai_software_engineer_project_cover.png)
 
-The landscape of software development is undergoing a revolutionary shift with the advent of AI software engineers like Devin AI and Lagnblov. These innovative systems promise to transform natural language prompts into fully functional software applications, streamlining the development process like never before. This article details a hands-on approach to building your own end-to-end agentic AI project, nicknamed "Coder Buddy," capable of generating web applications such as calculators or to-do lists from simple text commands.
+The landscape of software development is undergoing a revolutionary shift with the advent of AI software engineers like Devin AI and Loveable. These innovative systems promise to transform natural language prompts into fully functional software applications, streamlining the development process like never before. This article details a hands-on approach to building your own end-to-end agentic AI project, nicknamed "Coder Buddy," capable of generating web applications such as calculators or to-do lists from simple text commands.
 
 ### The Vision Behind Coder Buddy
 
