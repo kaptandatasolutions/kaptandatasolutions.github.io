@@ -2,7 +2,7 @@
 layout: post
 title: The Indispensable Role of Medical Physicists in Linear Accelerator Cancer Treatment
 subtitle: Discover how these unsung heroes ensure precision, safety, and effectiveness in radiation therapy
-cover-img: /assets/img/role_of_physicist_linear_accelerator_treatment_cover.png
+cover-img: /assets/img/role_of_medical_physicist_in_vmat_cover.png
 thumbnail-img: /assets/img/role_of_physicist_linear_accelerator_treatment.png
 share-img: /assets/img/role_of_physicist_linear_accelerator_treatment.png
 tags: [Medical Physics, Radiation Therapy, Cancer Treatment, Linear Accelerator, Quality Assurance, Dosimetry]
