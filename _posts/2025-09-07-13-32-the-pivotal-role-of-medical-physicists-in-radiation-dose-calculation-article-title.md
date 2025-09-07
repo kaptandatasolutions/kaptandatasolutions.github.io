@@ -2,7 +2,7 @@
 layout: post
 title: The Pivotal Role of Medical Physicists in Radiation Dose Calculation
 subtitle: Ensuring Precision and Safety in Cancer Treatment
-cover-img: /assets/img/role_of_medical_physicist_in_vmat_cover.png
+cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/role_of_medical_physicist_in_radiation_dose_calculation.png
 share-img: /assets/img/role_of_medical_physicist_in_radiation_dose_calculation.png
 tags: [Medical Physics, Radiation Oncology, Cancer Treatment, Dosimetry, Quality Assurance, Patient Safety, Medical Devices]  

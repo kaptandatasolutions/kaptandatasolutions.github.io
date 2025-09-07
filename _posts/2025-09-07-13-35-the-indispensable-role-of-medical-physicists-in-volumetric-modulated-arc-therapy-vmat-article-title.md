@@ -2,7 +2,7 @@
 layout: post
 title: The Indispensable Role of Medical Physicists in Volumetric Modulated Arc Therapy (VMAT)
 subtitle: Ensuring Precision and Safety in Advanced Cancer Treatment
-cover-img: /assets/img/role_of_medical_physicist_in_vmat_cover.png
+cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/role_of_medical_physicist_in_vmat.png
 share-img: /assets/img/role_of_medical_physicist_in_vmat.png
 tags: [Medical Physics, Radiation Therapy, VMAT, Cancer Treatment, Quality Assurance, Patient Safety, Oncology, Healthcare]
