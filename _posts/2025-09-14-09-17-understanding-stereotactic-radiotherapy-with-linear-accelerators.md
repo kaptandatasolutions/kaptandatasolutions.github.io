@@ -2,7 +2,7 @@
 layout: post
 title:  Understanding Stereotactic Radiotherapy with Linear Accelerators
 subtitle: A Closer Look at Precision Cancer Treatment
-cover-img: /assets/img/stereotactic_radiotherapy_linear_accelerator_cover.png
+cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/stereotactic_radiotherapy_linear_accelerator.png
 share-img: /assets/img/stereotactic_radiotherapy_linear_accelerator.png
 tags: [Radiotherapy, Cancer Treatment, Medical Physics, Linear Accelerator, Precision Medicine, Oncology, Image-Guided Radiotherapy]
