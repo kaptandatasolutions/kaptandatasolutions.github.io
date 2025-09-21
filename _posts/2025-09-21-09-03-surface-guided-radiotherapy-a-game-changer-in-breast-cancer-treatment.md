@@ -2,7 +2,7 @@
 layout: post
 title: Surface Guided Radiotherapy A Game Changer in Breast Cancer Treatment
 subtitle: Enhancing Precision and Patient Experience in Radiotherapy
-cover-img: /assets/img/radiotherapy_surface_guided_precision_cover.png
+cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/radiotherapy_surface_guided_precision.png
 share-img: /assets/img/radiotherapy_surface_guided_precision.png
 tags: [Radiotherapy, Cancer Treatment, Medical Innovation, Patient Care, SGRT, Breast Cancer]
