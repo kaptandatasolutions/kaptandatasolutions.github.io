@@ -2,7 +2,7 @@
 layout: post
 title: Unraveling the Technology of Linear Accelerators in Oncology
 subtitle: A Comprehensive Look at Linacs and Their Pivotal Role in Modern Cancer Treatment
-cover-img: /assets/img/types_of_linear_accelerators_in_oncology_cover.png
+cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/types_of_linear_accelerators_in_oncology.png
 share-img: /assets/img/types_of_linear_accelerators_in_oncology.png
 tags: [Radiation Therapy, Linear Accelerators, Oncology, Cancer Treatment, Medical Physics, IMRT, VMAT, IGRT, SRS, SBRT, MRI-Linac]

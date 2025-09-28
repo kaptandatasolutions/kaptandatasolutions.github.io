@@ -2,7 +2,7 @@
 layout: post
 title: Unveiling the Costs of Linear Accelerator Cancer Treatment
 subtitle: A comprehensive breakdown of equipment, operational, and treatment expenses for LINAC therapy
-cover-img: /assets/img/linear_accelerator_treatment_costs_cover.png
+cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/linear_accelerator_treatment_costs.png
 share-img: /assets/img/linear_accelerator_treatment_costs.png
 tags: [Cancer Treatment, Radiation Therapy, Linear Accelerator, Medical Costs, Healthcare Technology, Oncology]

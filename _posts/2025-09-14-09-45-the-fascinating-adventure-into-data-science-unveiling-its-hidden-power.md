@@ -2,7 +2,7 @@
 layout: post
 title: The Fascinating Adventure into Data Science Unveiling its Hidden Power
 subtitle: Transform your understanding of data from raw numbers to informed decisions
-cover-img: /assets/img/data_science_adventure_cover.png
+cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/data_science_adventure.png
 share-img: /assets/img/data_science_adventure.png
 tags: [Data Science, Python, Machine Learning, Data Analysis, Data Storytelling, Ethical AI]

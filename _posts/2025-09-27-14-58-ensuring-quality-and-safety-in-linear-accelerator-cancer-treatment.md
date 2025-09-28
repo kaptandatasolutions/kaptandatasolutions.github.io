@@ -2,7 +2,7 @@
 layout: post
 title:  Ensuring Quality and Safety in Linear Accelerator Cancer Treatment
 subtitle: A Comprehensive Guide to Quality Assurance in Radiation Therapy
-cover-img: /assets/img/quality_assurance_linear_accelerator_treatment_cover.png
+cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/quality_assurance_linear_accelerator_treatment.png
 share-img: /assets/img/quality_assurance_linear_accelerator_treatment.png
 tags: [Medical Physics, Radiotherapy, Quality Assurance, Linear Accelerator, Patient Safety, Oncology, Healthcare Technology]
