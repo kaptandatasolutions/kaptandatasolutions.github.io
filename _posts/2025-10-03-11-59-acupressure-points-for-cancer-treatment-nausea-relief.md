@@ -2,7 +2,7 @@
 layout: post
 title: Acupressure Points for Cancer Treatment Nausea Relief
 subtitle: A complementary approach to managing nausea during cancer therapy
-cover-img: /assets/img/acupressure_points_for_cancer_treatment_nausea_cover.png
+cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/acupressure_points_for_cancer_treatment_nausea.png
 share-img: /assets/img/acupressure_points_for_cancer_treatment_nausea.png
 tags: [Acupressure, Cancer Treatment, Nausea, Complementary Therapy, Health, Wellness, P6, Nuan, Stomach 36, Auricular Points, Yintang]
