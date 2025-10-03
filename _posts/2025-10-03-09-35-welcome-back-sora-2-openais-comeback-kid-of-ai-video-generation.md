@@ -2,7 +2,7 @@
 layout: post
 title: Welcome back Sora 2 OpenAI s comeback kid of AI video generation
 subtitle: OpenAI's new video generation model Sora 2 is here and it's free Can it unseat Google's Vo3 and revolutionize content creation
-cover-img: /assets/img/ok_vee_might_not_have_served_dosa_but_cover.png
+cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/sora_2_openai_video_ai_launch.png
 share-img: /assets/img/sora_2_openai_video_ai_launch.png
 tags: [AI, OpenAI, Sora 2, Video Generation, Content Creation, Deep Learning, Machine Learning, Tech News, Artificial Intelligence]
