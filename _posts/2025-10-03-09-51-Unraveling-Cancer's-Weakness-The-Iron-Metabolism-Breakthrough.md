@@ -2,7 +2,7 @@
 layout: post
 title: Unraveling Cancer's Weakness The Iron Metabolism Breakthrough
 subtitle: French Researchers Discover a Novel Approach to Combat Aggressive Cancers by Targeting Iron Dependency
-cover-img: /assets/img/interview_research_on_cancer_and_iron_metabolism_cover.png
+cover-img: /assets/img/ok_vee_might_not_have_served_dosa_but_cover.png
 thumbnail-img: /assets/img/interview_research_on_cancer_and_iron_metabolism.png
 share-img: /assets/img/interview_research_on_cancer_and_iron_metabolism.png
 tags: [Cancer Research, Iron Metabolism, Metastasis, Cancer Treatment, Medical Innovation, French Research, CNRS, Institut Curie, Oncology, Scientific Breakthrough]
