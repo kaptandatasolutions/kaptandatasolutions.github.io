@@ -19,6 +19,8 @@ This demonstration stems from a client's request to compare our analytical tools
 
 To begin, navigate to our showcase website. Here, you'll find a wealth of information, including blog articles, tech news, and details about our services. Look for the "Streamlit Demo" button, typically located in the top right corner. Clicking this will redirect you to our dedicated Streamlit web application platform, hosting various interactive demos.
 
+[![]](/assets/img/cbct-phantom.png)](https://kaptan-data.streamlit.app/winston-lutz_3d)
+
 These demos, while presented manually for demonstration purposes, highlight the potential for full automation. Imagine a workflow where your DICOM images are automatically retrieved from a designated folder, analyzed, and a detailed report is generated and emailed or stored securely. This level of automation is achievable with Python and orchestration tools.
 
 Among the various tools available, locate the "Winston-Lutz 3D" option. While a 2D version and other utilities are also present, our focus today is on the comprehensive 3D analysis. These tools showcase our capability to develop solutions across diverse subjects, leveraging both established libraries and custom algorithms for tasks like Statistical Process Control (SPC) or even AI-driven chatbots.
