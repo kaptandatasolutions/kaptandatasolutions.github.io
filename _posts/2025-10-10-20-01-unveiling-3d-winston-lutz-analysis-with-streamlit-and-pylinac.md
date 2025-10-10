@@ -2,7 +2,7 @@
 layout: post
 title: Unveiling 3D Winston-Lutz Analysis with Streamlit and Pylinac
 subtitle: A comprehensive guide to evaluating linac isocenter accuracy
-cover-img: /assets/img/streamlit_demo_winston_luts_3d_analysis_cover.png
+cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/streamlit_demo_winston_luts_3d_analysis.png
 share-img: /assets/img/streamlit_demo_winston_luts_3d_analysis.png
 tags: [Streamlit, Pylinac, Medical Physics, Quality Assurance, Winston-Lutz, Linac QA, Data Analysis, Python]

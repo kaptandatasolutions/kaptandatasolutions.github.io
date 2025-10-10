@@ -2,7 +2,7 @@
 layout: post
 title: GPT5 Unveiled A Comprehensive Review and Real-World Comparison with GPT4
 subtitle: Exploring the speed, intelligence, and new capabilities of OpenAI's latest AI model
-cover-img: /assets/img/gpt5_vs_gpt4_performance_comparison_cover.png
+cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/gpt5_vs_gpt4_performance_comparison.png
 share-img: /assets/img/gpt5_vs_gpt4_performance_comparison.png
 tags: [AI, GPT5, GPT4, OpenAI, Large Language Models, LLM, Tech Review, Coding, Image Generation, Content Creation, Performance Comparison]

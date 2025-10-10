@@ -2,7 +2,7 @@
 layout: post
 title: OpenAI Agent Kit vs N8N Which AI Agent Builder Reigns Supreme
 subtitle: A Detailed Comparison for Developers and Beginners
-cover-img: /assets/img/openai_agent_kit_vs_naden_comparison_cover.png
+cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/openai_agent_kit_vs_naden_comparison.png
 share-img: /assets/img/openai_agent_kit_vs_naden_comparison.png
 tags: [AI, Automation, Agent Kit, N8N, OpenAI, Low-Code, No-Code, AI Agents, Workflow Automation, Developer Tools]
