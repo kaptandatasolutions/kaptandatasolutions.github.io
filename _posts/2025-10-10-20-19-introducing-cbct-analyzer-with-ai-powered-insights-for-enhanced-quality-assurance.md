@@ -2,7 +2,7 @@
 layout: post
 title: Introducing CBCT Analyzer with AI-powered Insights for Enhanced Quality Assurance
 subtitle: A comprehensive guide to leveraging our new tool for CBCT phantom analysis and regulatory compliance
-cover-img: /assets/img/cbct-phantom.png
+cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/cbct_analyzer_demo_presentation.png
 share-img: /assets/img/cbct_analyzer_demo_presentation.png
 tags: [Medical Physics, CBCT, Quality Assurance, AI, Data Analysis, Phantom, Regulatory Compliance, PDF Reports]
