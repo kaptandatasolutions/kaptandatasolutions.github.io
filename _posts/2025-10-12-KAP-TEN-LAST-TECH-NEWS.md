@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
@@ -9,7 +8,6 @@ share-img: /assets/img/kapt10-3.png
 tags: [AI, Robotics, Quantum Computing, Tech Innovation, Digital Transformation, Business Impact]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
-```
 
 # Top 10 Tech News of the Week
 
