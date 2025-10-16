@@ -2,7 +2,7 @@
 layout: post
 title: Unveiling the Precision of Radiotherapy Understanding Multileaf Collimators (MLCs)
 subtitle: How these essential devices shape the future of cancer treatment
-cover-img: /assets/img/types_of_multileaf_collimators_cover.png
+cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/types_of_multileaf_collimators.png
 share-img: /assets/img/types_of_multileaf_collimators.png
 tags: [Radiotherapy, Oncology, Medical Physics, Cancer Treatment, Multileaf Collimators, Radiation Therapy, Linear Accelerators]
