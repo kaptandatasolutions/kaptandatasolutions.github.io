@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
@@ -23,6 +22,8 @@ A significant movement is gaining momentum across European public and private se
 The future of autonomous mobility is inching closer to Europe, with the American company Waymo (Alphabet's subsidiary) set to launch its driverless taxi service in London by 2026. This marks Waymo's first international expansion, following successful deployments in several U.S. cities. While not within the European Union, this move into the UK signals progress in autonomous vehicle technology on the continent. The British government plans pilot projects in spring 2026, with full legislative framework for broader deployment anticipated by 2027. This development prompts questions about the eventual rollout of similar services in major European cities like Paris, Lyon, or Marseille, suggesting that technical feasibility is rapidly outpacing regulatory and societal acceptance. For now, Europeans might content themselves with automated metros, but the presence of driverless taxis in a major European capital hints at a broader transformation of urban transport.
 
 ## 3. Chat Control Project Shelved in Europe
+
+[![](/assets/img/Digital_Privacy_Debate_simple_compose.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
 
 A controversial European Union initiative aimed at monitoring private messaging conversations (WhatsApp, Signal, Messenger) for child exploitation content, dubbed "Chat Control," has been put on hold. Germany's strong opposition to the measure effectively buried the proposal, at least for the time being. While some European states supported the idea, many others, including privacy advocates, expressed deep concerns about potential violations of fundamental rights to privacy and the broad scope of surveillance. The decision to shelve it reflects the ongoing tension between security concerns and digital liberties, highlighting the public and political reluctance to implement sweeping surveillance measures that could undermine encrypted communications.
 
@@ -131,4 +132,3 @@ The nuclear energy sector, often perceived as traditional, is experiencing a qui
     </div>
 </body>
 </html>
-```
