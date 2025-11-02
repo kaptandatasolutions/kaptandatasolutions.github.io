@@ -37,8 +37,6 @@ A significant data breach has come to light, exposing over 180 million email acc
 
 ## 6. Google's Quantum Eco Signals New Era in Quantum Computing
 
-[![](/assets/img/Quantum_google.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
-
 Google has once again pushed the boundaries of quantum computing with the announcement of "Quantum Eco," a verifiable and reproducible algorithm running on their new Willow quantum chip. This algorithm is reported to be astonishingly fast, outperforming traditional supercomputers by 13,000 times on specific tasks. The key breakthrough lies in its verifiability, moving quantum experiments from theoretical laboratory settings to practical, reliable scientific tools. One immediate practical application is in Nuclear Magnetic Resonance (NMR), where Quantum Eco has demonstrated superior precision in analyzing molecular structures compared to classical methods. This has profound implications for drug discovery and materials science, offering a "quantum magnifying glass" for atomic-level insights. This marks a significant step towards real-world quantum applications, potentially even boosting classical AI by providing highly precise molecular data. The next goal for Google is to create a stable, error-correcting logical qubit, essential for expanding quantum computing's capabilities.
 
 ## 7. Tech Giants' Staggering AI Investments
