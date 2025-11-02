@@ -1,0 +1,974 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Beautiful Jekyll 6.0.1 | Copyright Dean Attali 2023 -->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  
+
+  
+
+  
+
+  <title>Robotic Control Strategies at Ganymed Robotics - MATLAB EXPO Paris 2024 | home</title>
+
+  
+  
+  <meta name="author" content="Kayhan Kaptan - Expert in Medical Physics, Quality Control, AI and Digital Transformation">
+  
+
+  <meta name="description" content="Innovating Orthopedic Surgery with Collaborative Surgical Robots">
+
+  
+
+  
+
+  
+  <link rel="alternate" type="application/rss+xml" title="home" href="http://localhost:4000/feed.xml">
+  
+
+  
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MX5ZJFPTBX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-MX5ZJFPTBX');
+</script>
+
+
+  
+
+  
+
+  
+
+  
+
+
+  
+    
+      
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+
+    
+      
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/assets/css/bootstrap-social.css">
+    
+      <link rel="stylesheet" href="/assets/css/beautifuljekyll.css">
+    
+  
+
+  
+
+  
+  
+  
+
+  
+
+  
+  <meta property="og:site_name" content="home">
+  <meta property="og:title" content="Robotic Control Strategies at Ganymed Robotics - MATLAB EXPO Paris 2024 | home">
+  <meta property="og:description" content="Innovating Orthopedic Surgery with Collaborative Surgical Robots">
+
+  
+  <meta property="og:image" content="http://localhost:4000/assets/img/blog_image-gany-robo-1.png">
+  
+
+  
+  <meta property="og:type" content="article">
+  
+  <meta property="og:article:author" content="Kayhan Kaptan - Expert in Medical Physics, Quality Control, AI and Digital Transformation">
+  
+  <meta property="og:article:published_time" content="2024-10-11T00:00:00+02:00">
+  <meta property="og:url" content="http://localhost:4000/2024-10-11-Robotic-Control-Strategies-at-Ganymed-Robotics/">
+  <link rel="canonical" href="http://localhost:4000/2024-10-11-Robotic-Control-Strategies-at-Ganymed-Robotics/">
+  
+
+  
+  <meta name="twitter:card" content="summary_large_image">
+  
+  <meta name="twitter:site" content="@KaptanData">
+  <meta name="twitter:creator" content="@KaptanData">
+
+  <meta property="twitter:title" content="Robotic Control Strategies at Ganymed Robotics - MATLAB EXPO Paris 2024 | home">
+  <meta property="twitter:description" content="Innovating Orthopedic Surgery with Collaborative Surgical Robots">
+
+  
+  <meta name="twitter:image" content="http://localhost:4000/assets/img/blog_image-gany-robo-1.png">
+  
+
+  
+
+
+  
+
+  
+  
+
+  
+
+
+  <!-- Auth0 Lock widget -->
+<script src="https://cdn.auth0.com/js/lock/12.1/lock.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    console.log("Initializing Auth0 Lock");
+    
+    // Initialiser Auth0 Lock
+    var lock = new Auth0Lock(
+      'LMUi6iOzbNDjg2uNFV9dWXYRNrCJkKOk',
+      'dev-3u60nolrb8e0gznx.eu.auth0.com',
+      {
+        auth: {
+          redirectUrl: window.location.origin,
+          responseType: 'token id_token',
+          params: {
+            scope: 'openid profile email'
+          }
+        },
+        autoclose: true,
+        languageDictionary: {
+          title: "Se connecter"
+        }
+      }
+    );
+    
+    // Écouter les événements d'authentification
+    lock.on('authenticated', function(authResult) {
+      console.log('Authenticated!', authResult);
+      localStorage.setItem('access_token', authResult.accessToken);
+      localStorage.setItem('id_token', authResult.idToken);
+      
+      // Récupérer le profil utilisateur
+      lock.getUserInfo(authResult.accessToken, function(error, profile) {
+        if (!error) {
+          console.log('Profile:', profile);
+          localStorage.setItem('user_profile', JSON.stringify(profile));
+          
+          // Mettre à jour l'interface avec le nom d'utilisateur
+          updateAuthUI(true, profile.name || profile.nickname || profile.email || 'Utilisateur');
+        } else {
+          updateAuthUI(true, 'Utilisateur');
+        }
+      });
+    });
+    
+    // Vérifier si l'utilisateur est déjà connecté
+    var idToken = localStorage.getItem('id_token');
+    var userProfile = localStorage.getItem('user_profile');
+    
+    if (idToken) {
+      if (userProfile) {
+        try {
+          var profile = JSON.parse(userProfile);
+          updateAuthUI(true, profile.name || profile.nickname || profile.email || 'Utilisateur');
+        } catch (e) {
+          updateAuthUI(true, 'Utilisateur');
+        }
+      } else {
+        updateAuthUI(true, 'Utilisateur');
+      }
+    } else {
+      updateAuthUI(false);
+    }
+    
+    // Fonction pour mettre à jour l'interface
+    function updateAuthUI(isLoggedIn, userName) {
+      if (isLoggedIn) {
+        document.getElementById("auth0-login-btn").style.display = "none";
+        
+        // Mettre à jour le texte du bouton de déconnexion avec le nom d'utilisateur
+        var logoutBtn = document.getElementById("auth0-logout-btn");
+        logoutBtn.style.display = "inline-block";
+        
+        if (userName) {
+          logoutBtn.innerHTML = `<span class="user-name">${userName}</span> <span class="logout-text">Logout</span>`;
+        }
+      } else {
+        document.getElementById("auth0-login-btn").style.display = "inline-block";
+        document.getElementById("auth0-logout-btn").style.display = "none";
+      }
+    }
+    
+    // Attacher les événements aux boutons
+    document.getElementById("auth0-login-btn").addEventListener("click", function() {
+      console.log("Login button clicked");
+      lock.show();
+    });
+    
+    document.getElementById("auth0-logout-btn").addEventListener("click", function() {
+      console.log("Logout button clicked");
+      // Supprimer les tokens
+      localStorage.removeItem('access_token');
+      localStorage.removeItem('id_token');
+      localStorage.removeItem('user_profile');
+      
+      // Mettre à jour l'interface
+      updateAuthUI(false);
+      
+      // Rediriger vers la page d'accueil
+      window.location.href = window.location.origin;
+    });
+  });
+</script>
+</head>
+<style>
+  .comment-form {
+    max-width: 600px; /* Largeur max du formulaire */
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+    background: #fafafa;
+    font-family: sans-serif;
+  }
+  
+  .comment-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .comment-form label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 5px;
+  }
+  
+  .comment-form label span {
+    color: red; /* Pour signaler les champs obligatoires */
+  }
+  
+  .comment-form input[type="text"],
+  .comment-form input[type="email"],
+  .comment-form input[type="url"],
+  .comment-form textarea {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .comment-form input[type="text"]:focus,
+  .comment-form input[type="email"]:focus,
+  .comment-form input[type="url"]:focus,
+  .comment-form textarea:focus {
+    border-color: #999;
+    outline: none;
+  }
+  
+  .comment-form .comment-submit {
+    display: inline-block;
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+    background: #0073e6;
+    color: #fff;
+    font-weight: 600;
+    transition: background 0.3s;
+  }
+  
+  .comment-form .comment-submit:hover {
+    background: #005bb5;
+  }
+
+</style>
+
+
+
+<head>
+  <link rel="stylesheet" href="/assets/css/custom.css">
+
+</head>
+
+<body>
+  
+
+
+  <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular"><a class="navbar-brand" href="http://localhost:4000/" title="home">
+      <div class="animated-icon" aria-hidden="true">
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="28" height="28"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    >
+      <rect width="18" height="14" x="3" y="3" rx="2" />
+      <path d="M4 21h1" class="fade-line"/>
+      <path d="M9 21h1" class="fade-line"/>
+      <path d="M14 21h1" class="fade-line"/>
+      <path d="M19 21h1" class="fade-line"/>
+    </svg>
+  </div>
+  
+    </a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="main-navbar">
+    <ul class="navbar-nav ml-auto">
+      <!-- Liens de navigation standards -->
+          <li class="nav-item">
+            <a class="nav-link" href="/aboutme">About Us</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/pricing">Pricing</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/contact">Contact</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Kap10 - Last Tech News</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-05-03-KAP-TEN-LAST-TECH-NEWS/">2025-05-03</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-04-28-KAP-TEN-LAST-TECH-NEWS/">2025-04-28</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-04-22-KAP-TEN-LAST-TECH-NEWS/">2025-04-22</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-03-10-KAP-TEN-LAST-TECH-NEWS/">2025-03-10</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-03-03-KAP-TEN-LAST-TECH-NEWS/">2025-03-03</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-02-03-KAP-TEN-LAST-TECH-NEWS/">2025-02-03</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-01-27-KAP-TEN-LAST-TECH-NEWS/">2025-01-27</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-01-21-KAP-TEN-LAST-TECH-NEWS/">2025-01-21</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-01-06-KAP-TEN-LAST-TECH-NEWS/">2025-01-06</a>
+            </div>
+          </li>
+        
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">our items</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-04-14-A2A-protocol/">Podcast - Agent2Agent (A2A) Protocol for Enhanced AI Agent Collaboration</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-24-ARL0-ARL1/">Understanding ARL</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-02-Revolutionizing/">Revoltionizing</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-11-Robotic-Control-Strategies-at-Ganymed-Robotics/">Surgical Robots</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-26-Podcast-ARL/">Podcast Optimizing Control Charts</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-09-Podcast-Starshot-By-Kaptan-data-solutions-Pylinac/">Podcast Automated Starshot Analysis</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-09-Podcast-SPC-By-Kaptan-data-solution/">Podcast Automated SPC</a>
+            </div>
+          </li>
+        
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Solutions</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-03-31-Local-IA/">CorpoRAG - Internal Generative Retrieval</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-03-Automated-SPC-Web-Solution-for-Quality-Control-in-Radiotherapy/">SPC Physique Médicale</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-04-Chatbot-ansm-2023/">Chatbot</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-05-Picket-Fence-Pylinac-Module/">Picket Fence</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-06-Starshot-Pylinac-Module/">Starshot</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-06-Winston-lutz-2D-and-3D">Winston-Lutz 2D & 3D</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-06-Image-generator-Pylinac-Module">Image Test Generator</a>
+            </div>
+          </li>
+        
+          <li class="nav-item">
+            <a class="nav-link" href="https://kaptan-data.streamlit.app/">Portfolio of App's 🚀</a>
+          </li><!-- Boutons Auth0 avec des événements onclick explicites -->
+      <li class="nav-item">
+        <button id="auth0-login-btn" class="btn btn-sm btn-primary nav-link" style="margin: 0.5rem;" onclick="console.log('Login clicked'); document.dispatchEvent(new Event('auth0login'));">Login</button>
+        <button id="auth0-logout-btn" class="btn btn-sm btn-outline-primary nav-link" style="display: none; margin: 0.5rem;" onclick="console.log('Logout clicked'); document.dispatchEvent(new Event('auth0logout'));">Logout</button>
+      </li>
+      
+        <li class="nav-item">
+          <a class="nav-link" id="nav-search-link" href="#" title="Search">
+            <span id="nav-search-icon" class="fa fa-search"></span>
+            <span id="nav-search-text">Search</span>
+          </a>
+        </li></ul>
+  </div>
+
+  
+
+  
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        <a href="http://localhost:4000/">
+          <img alt="Navigation bar avatar" class="avatar-img" src="/assets/img/avatar-icon.png" />
+        </a>
+      </div>
+    </div>
+  
+
+</nav>
+
+
+
+<div id="beautifuljekyll-search-overlay">
+
+  <div id="nav-search-exit" title="Exit search">✕</div>
+  <input type="text" id="nav-search-input" placeholder="Search">
+  <ul id="search-results-container"></ul>
+  
+  <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+  <script>
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('nav-search-input'),
+      resultsContainer: document.getElementById('search-results-container'),
+      json: '/assets/data/searchcorpus.json' 
+    });
+  </script>
+</div>
+
+
+
+
+  
+
+
+  <div id="header-big-imgs" data-num-img=1
+    
+    
+    
+    
+      data-img-src-1="http://localhost:4000/assets/img/blog_image-gany-robo-cover.png"
+    
+    
+    
+  ></div>
+
+
+<header class="header-section has-img">
+<div class="intro-header  big-img ">
+  
+  <div class="container-md">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+        <div class="post-heading">
+          <h1>Robotic Control Strategies at Ganymed Robotics - MATLAB EXPO Paris 2024</h1>
+          
+            
+              <h2 class="post-subheading">Innovating Orthopedic Surgery with Collaborative Surgical Robots</h2>
+            
+          
+          
+           
+            
+              By <strong>Kayhan Kaptan - Expert in Medical Physics, Quality Control, AI and Digital Transformation</strong><br>
+            
+            <span class="post-meta">Posted on October 11, 2024</span>
+            
+            
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <span class='img-desc'></span>
+</div>
+
+
+
+</header>
+
+
+<main class=" container-md ">
+  <div class="row">
+    <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
+
+      
+
+      
+
+      <div class="blog-post">
+        <h1 id="faq-robotic-control-strategies-at-ganymed-robotics">FAQ: Robotic Control Strategies at Ganymed Robotics</h1>
+
+<p>Ganymed Robotics stands at the forefront of innovation in orthopedic surgery, developing a collaborative surgical robot to assist surgeons in knee replacement procedures. With the rising demand for these surgeries, the company strives to address clinical needs while adhering to the strict regulatory requirements of medical devices. This blog highlights Ganymed’s robotic control strategies, their collaboration with MathWorks, and the key stages in their technological development.</p>
+
+<h2 id="1-what-clinical-need-is-ganymed-robotics-addressing">1. What clinical need is Ganymed Robotics addressing?</h2>
+
+<p>Ganymed Robotics is developing a robot to assist surgeons in total knee replacement, a common surgery used to treat osteoarthritis. In the U.S., the demand for this procedure is rapidly increasing, with an expected 2.3 million annual surgeries by 2030, up from 1.2 million in 2019. This growth reflects the rising number of osteoarthritis patients, necessitating an innovative and reliable solution.</p>
+
+<h2 id="2-how-are-matlab-and-simulink-used-in-the-development-of-ganymed-robotics-surgical-robot">2. How are MATLAB and Simulink used in the development of Ganymed Robotics’ surgical robot?</h2>
+
+<p>Ganymed Robotics utilizes <strong>MATLAB</strong> and <strong>Simulink</strong> to model the robot’s actuators, simulate control loops, and test results on a bench before integration into the embedded application. These tools enable the modeling of non-standard components, virtual model control simulation, and the generation of optimized <strong>C</strong> code for production.</p>
+
+<h2 id="3-how-does-ganymed-robotics-ensure-its-robot-meets-regulatory-requirements">3. How does Ganymed Robotics ensure its robot meets regulatory requirements?</h2>
+
+<p>Ganymed Robotics follows a rigorous development process, compliant with regulatory standards, including <strong>FDA 21 CFR Part 11</strong>. The <strong>V-model</strong> development cycle ensures that every phase—from modeling to final validation—meets safety and efficiency standards. Continuous documentation and testing throughout the process are essential to achieve the certifications required for a medical device.</p>
+
+<h2 id="4-can-you-provide-a-concrete-example-of-a-control-function-implemented-in-the-robot">4. Can you provide a concrete example of a control function implemented in the robot?</h2>
+
+<p>A notable example is the brake phase management, a critical function for precise control of the robot’s movement during surgery. The controller defines braking phases based on the robot’s position and brake status, ensuring smooth and safe surgical operations.</p>
+
+<h2 id="5-how-is-the-modeling-of-non-standard-components-like-an-electromagnetic-brake-performed">5. How is the modeling of non-standard components like an electromagnetic brake performed?</h2>
+
+<p>The modeling of a non-standard component, such as an <strong>electromagnetic brake</strong>, is achieved through a multi-physics approach. Three models are combined to simulate the brake’s behavior: an electrical model to simulate current in the coil, an electromechanical model to calculate braking force, and a mechanical model accounting for the robot’s inertia and applied torque. This allows for seamless and accurate integration of the component into the overall system.</p>
+
+<h2 id="6-what-types-of-testing-are-conducted-to-validate-the-robots-control-strategies">6. What types of testing are conducted to validate the robot’s control strategies?</h2>
+
+<p>Ganymed conducts rigorous testing at multiple levels. <strong>Bench tests</strong> are used to verify control loop performance in a controlled environment. Next, <strong>integration tests on the robot</strong> ensure the system functions properly in real-world conditions, validating the effectiveness of the implemented control strategies.</p>
+
+<h2 id="7-what-are-the-benefits-of-using-matlab-and-simulink-for-the-robots-development">7. What are the benefits of using MATLAB and Simulink for the robot’s development?</h2>
+
+<p>The adoption of MATLAB and Simulink allowed Ganymed to transition from a <strong>proof of concept (POC)</strong> to industrial-grade, modular, and extensible code. This process accelerated development and enhanced the testability and efficiency of control loops. Moreover, the partnership with MathWorks enabled the Ganymed team to acquire new skills, optimizing their workflow.</p>
+
+<h2 id="8-what-are-the-next-development-steps-for-ganymed-robotics">8. What are the next development steps for Ganymed Robotics?</h2>
+
+<p>Looking forward, Ganymed Robotics plans to refine its robotic model using <strong>Simscape Multibody</strong> to simulate more accurate mechanical behaviors. Additionally, they aim to integrate their test bench into the Simulink environment to better correlate virtual simulations with physical testing.</p>
+
+<hr />
+
+<h2 id="key-milestones">Key Milestones</h2>
+
+<ul>
+  <li><strong>Late 2019</strong>: Demonstration of a control proof of concept using Arduino and a commercial driver.</li>
+  <li><strong>Early 2020</strong>: Start of modeling and simulations using MATLAB Simulink.</li>
+  <li><strong>Mid 2020</strong>: First test bench to verify simulation results.</li>
+  <li><strong>Late 2020</strong>: Initial control loops integrated into the embedded code.</li>
+  <li><strong>2024</strong>: Industrialization of test benches and continuous integration of models into GitLab.</li>
+</ul>
+
+<hr />
+
+<h2 id="conclusion-a-promising-future-for-surgical-robotics">Conclusion: A Promising Future for Surgical Robotics</h2>
+
+<p>Through a close collaboration with <strong>MathWorks</strong>, Ganymed Robotics has developed a high-performance surgical robot that complies with the stringent regulatory requirements of the medical sector. This success is rooted in the use of MATLAB and Simulink for modeling, simulation, and code generation, paving the way for more precise and safer robots. The next steps will further refine these systems to meet the growing needs of orthopedic surgery.</p>
+
+<blockquote>
+  <p><strong>Next Step:</strong> Integrate Simscape Multibody tools and test benches into Simulink to optimize simulation-test correlation.</p>
+</blockquote>
+
+<hr />
+
+<p>This article is based on insights shared by <strong>Margot Guillouard</strong> and <strong>Blaise Bleunven</strong> at MATLAB EXPO 2024.</p>
+
+<p>🎧 <strong>Listen to the podcast now:</strong></p>
+
+<audio controls="" style="width: 100%; max-width: 600px;">
+  <source src="/podcast_kds/Ganymed Robotics.wav" type="audio/wav" />
+  Your browser does not support the audio element.
+</audio>
+
+<hr />
+
+<p><img src="/assets/img/blog_image-robotics.png" alt="PNG" /></p>
+
+<hr />
+
+<p>📥 <strong>Podcast Transcription</strong></p>
+
+<hr />
+
+<p>All right. So, you know, everyone’s always going on about robots taking over the world. Well, seems like you were way ahead of the curve, you know, with all your interest in Ganymede robotics. Let’s dive into this whole world of robots doing knee surgery of all things.</p>
+
+<p>Yeah. And it’s not some far off sci-fi thing either. Like the actual need for knee replacements is going to skyrocket by 2030. Think about this. The U.S. alone will need to be doing twice as many surgeries as we do right now.</p>
+
+<p>Twice. So we’re talking, what, two million every year?</p>
+
+<p>Two million a year. It’s crazy.</p>
+
+<p>Okay. Yeah. I see why you sent this my way. That’s a huge number. But hold on. Can’t surgeons already handle like all those surgeries? What’s the big advantage of bringing robots into the operating room?</p>
+
+<p>Well, think about it. Traditional knee replacements, they work, but they’re tough on people. Recovery, it takes a while. And even the best surgeon, they can’t be totally, absolutely precise every single time, right? And that’s where this robotics thing comes in. It’s all about upping that accuracy, making those surgeries super efficient, and hopefully people recover faster, get better outcomes overall.</p>
+
+<p>You know what, now that you mention it, I do remember my grandma’s knee replacement. It was a pretty rough recovery, that’s for sure. So Ganymede, they’re developing robots just for these kinds of surgeries.</p>
+
+<p>They are. They’ve got this surgical robot and get this, it actually works with the surgeon right there in the moment. Makes the whole thing smoother, more precise. And here’s the kicker, it’s designed to be compact, more affordable too. That’s huge for hospitals.</p>
+
+<p>We’re talking collaborative robots in the operating room. It’s like something out of the future, but in a good way. Right. But how do you even begin to design something that complex? I mean, where do you even start?</p>
+
+<p>This is where it gets really cool. They use this software, MATLAB and Simulink, and it’s like super key because it lets them build the whole robot virtually, test it out before even touching a single physical piece.</p>
+
+<p>Hold on. So are we talking like those crazy realistic video games? They’re practicing on virtual knees with a robot that’s not even real?</p>
+
+<p>You got it. That’s a great way to think about it. It lets them perfect every little movement, every control, catch any hiccups before they even build anything. And in medicine, that’s everything, right? Because safety is like the biggest deal. They have to hit the highest possible standard. It’s called 21 CFR Part 11 compliance, if you want the technical term.</p>
+
+<p>Okay, that 21 CFR Part 11 compliance. That’s the FDA making sure this robot is as safe as humanly possible, right?</p>
+
+<p>Exactly. It’s like the gold standard for software and medical devices. Super strict rules, you know. But let’s bring it down. So imagine you have to program this robot to move really precisely, stopping on a dime during surgery.</p>
+
+<p>Otherwise, we’ve got a runaway robot scalpel on our hands. Not good.</p>
+
+<p>Right. That’s where one of many control functions comes in. It’s called break phase management, and it basically ensures all those movements are smooth, controlled, and most importantly, they stop exactly when they should.</p>
+
+<p>Okay, that makes me feel a lot better. But I gotta ask, a robot with brakes, how does that even work?</p>
+
+<p>Well, they went all out and actually designed this electromagnetic brake, totally custom. To do that, they used something called a multi-physics approach.</p>
+
+<p>Sounds complicated.</p>
+
+<p>Well, kind of. Basically, they have to think about all these different parts of physics working together at the same time. Imagine, like baking a cake, right? You need that perfect balance of ingredients so it rises just right. Except here, the ingredients are electricity, magnetism, and actual mechanics, and they all have to work together to create the perfect braking force.</p>
+
+<p>So they had to make sure the electrical current, the magnets, and the whole physical braking thing all worked together perfectly.</p>
+
+<p>Exactly. And they had to model every single step in detail. First, they simulated how the electricity flows through the brake to make that magnetic field. Then they modeled how that magnetic field, along with friction, actually stops the robot. It’s kind of mind-blowing how much detail they had to work with.</p>
+
+<p>Okay, so we’ve got this incredibly intricate robot, custom-made brakes, software that’s gone through the FDA ringer. But how do they know it actually works in the real world? That’s what I want to know.</p>
+
+<p>That’s where Ganymed really sets themselves apart.</p>
+
+<p>Because, like, anybody can cobble a robot together, but making sure it can actually do what it’s supposed to. You know, especially in surgery, that’s got to be the tricky part, right?</p>
+
+<p>You got it. They don’t just stay in the virtual world. They bring it into the real one.</p>
+
+<p>So less virtual knee and more like robot surgery boot camp.</p>
+
+<p>Something like that. They have these like specialized test benches and they basically put the robot and all its software through the ringer. It’s the robot’s final exam before it gets anywhere near an operating room.</p>
+
+<p>OK, so paint me a picture. They’ve got this robot up on a table and they’re making it do a bunch of knee surgeries on what crash test dummies or something?</p>
+
+<p>Not crash test dummies exactly, but you’re on the right track. They set up these super controlled scenarios that are basically like real surgeries. They push that robot to its limits, see how it handles the pressure.</p>
+
+<p>Makes sense. Going to make sure it can think on its feet or wheels or whatever. But how do they connect what they’re seeing on these test benches back to, you know, that MATLAB and Simulink stuff, those virtual models?</p>
+
+<p>That’s the really cool part. The code they make and refine in that virtual MATLAB and Simulink world, they actually upload it straight to the physical robot for the test.</p>
+
+<p>Wait, really? It’s that direct? From computer to robot? Just like that?</p>
+
+<p>That’s the power of these tools. And what it means for Ganymede is they get to see exactly how their code, you know, the stuff designed in that perfect virtual world, how it actually behaves in the real world with all its messiness. And they can use that feedback to make their models even better. So it’s like this tight loop between the virtual and the real.</p>
+
+<p>A constant back and forth. The models make the real thing better, which makes the models even better and so on.</p>
+
+<p>Exactly. That’s how they’ve been able to make so much progress so fast. I mean, think about it. It’s only been a few years and look where they are. It’s amazing.</p>
+
+<p>It really is. You know, with all this talk about robots doing surgery, is there any part of you that’s a little, I don’t know, weirded out? Like, are we one step closer to robots taking over everything?</p>
+
+<p>I get where you’re coming from, but honestly, what Ganymede is doing is pretty inspiring. They’re taking this technology and they’re solving a real problem, something that could help millions of people facing knee surgery. To me, that’s the opposite of something to be worried about.</p>
+
+<p>Yeah, it’s easy to get caught up in the sci-fi of it all, but really it’s about helping people.</p>
+
+<p>Exactly. And the way Ganymed goes about it, you know, all that care and precision, it makes me really optimistic about what’s possible in medicine.</p>
+
+<p>Okay, so we’ve got this virtual design, this super rigorous testing, but this is just the beginning for Ganymed, right? They’re not going to stop at knee surgery.</p>
+
+<p>Right. Really good when it comes to this tech. What’s next for them? How do they want to push the boundaries of robot surgery even further? So before we got sidetracked with the whole robot uprising thing, you’re about to tell me about Ganymede’s next big thing. Simscape Multibody, was it? It sounds a little intense, even for them.</p>
+
+<p>It’s pretty wild. Remember how we were talking about those crazy, detailed virtual models they build of the robots? Simscape Multibody takes that to a whole other level. It’s like… Imagine being able to take into account how flexible the materials are, the exact shape of every single part, even those tiny little interactions between different components and all of that in the virtual world.</p>
+
+<p>So they’re basically going from a model to like a digital twin, an exact replicate down to the tiniest detail.</p>
+
+<p>Exactly. And having all that detail, it means those simulations are even more accurate. They can predict how the robot’s going to behave in even crazier situations and make those movements even more precise, which at the end of the day, means even better safety protocols.</p>
+
+<p>Because the more they know about how it’s gonna act virtually, the better prepared it is for an actual operating room, like giving the surgical team that extra bit of confidence.</p>
+
+<p>Exactly, but here’s the really exciting part. Ganymed’s not just stopping at improving those virtual models, they’re finding even more ways to tie those models to real-world testing.</p>
+
+<p>You’re talking about those test benches again, right? What are they doing? Plugging the robot into the matrix or something?</p>
+
+<p>Not quite. Although that would be pretty cool. But get this. They’re working on a way to directly integrate those test benches into the Simulink environment.</p>
+
+<p>Hold on. So they’ll be able to control the actual physical robot, run tests on it, all from inside that virtual Simulink space.</p>
+
+<p>Yep. It’s a total game changer. They’ll be able to jump back and forth between virtual testing and the real deal all in one place. And the best part, it allows for something called correlation. Basically, they can run a test virtually, then run that same exact test on the physical</p>
+
+<p>robot and compare the two results.</p>
+
+<p><strong><a href="https://www.ganymedrobotics.com/">[See the website of Ganymedrobotics]</a></strong></p>
+
+<p><a href="https://www.ganymedrobotics.com/"><img src="/assets/img/blog_image-gany-robo-1.png" alt="png" /></a></p>
+
+      </div>
+
+      
+        <div class="blog-tags">
+          <span>Tags:</span>
+          
+            <a href="/tags#robotics">robotics</a>
+          
+            <a href="/tags#orthopedic-surgery">orthopedic-surgery</a>
+          
+            <a href="/tags#medical-devices">medical-devices</a>
+          
+            <a href="/tags#innovation">innovation</a>
+          
+            <a href="/tags#MATLAB">MATLAB</a>
+          
+            <a href="/tags#Simulink">Simulink</a>
+          
+            <a href="/tags#quality-control">quality-control</a>
+          
+        </div>
+      
+
+      
+
+      
+        <!-- Check if any share-links are active -->
+
+
+
+
+<section id = "social-share-section">
+  <span class="sr-only">Share: </span>
+
+  
+    <a href="https://twitter.com/intent/tweet?text=Robotic+Control+Strategies+at+Ganymed+Robotics+-+MATLAB+EXPO+Paris+2024&url=http%3A%2F%2Flocalhost%3A4000%2F2024-10-11-Robotic-Control-Strategies-at-Ganymed-Robotics%2F"
+      class="btn btn-social-icon btn-twitter" title="Share on X (Twitter)">
+      <span class="fab fa-fw fa-x-twitter" aria-hidden="true"></span>
+      <span class="sr-only">X (Twitter)</span>
+    </a>
+  
+
+  
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2F2024-10-11-Robotic-Control-Strategies-at-Ganymed-Robotics%2F"
+      class="btn btn-social-icon btn-facebook" title="Share on Facebook">
+      <span class="fab fa-fw fa-facebook" aria-hidden="true"></span>
+      <span class="sr-only">Facebook</span>
+    </a>
+  
+
+  
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2F2024-10-11-Robotic-Control-Strategies-at-Ganymed-Robotics%2F"
+      class="btn btn-social-icon btn-linkedin" title="Share on LinkedIn">
+      <span class="fab fa-fw fa-linkedin" aria-hidden="true"></span>
+      <span class="sr-only">LinkedIn</span>
+    </a>
+  
+
+  
+
+  
+
+</section>
+
+
+
+      
+
+      <ul class="pagination blog-pager">
+        
+        <li class="page-item previous">
+          <a class="page-link" href="/2024-10-09-Podcast-Starshot-By-Kaptan-data-solutions-Pylinac/" data-toggle="tooltip" data-placement="top" title="Podcast - Automated Starshot Analysis for Quality Control in Radiotherapy">
+            <i class="fas fa-arrow-left" alt="Previous Post"></i>
+            <span class="d-none d-sm-inline-block">Previous Post</span>
+          </a>
+        </li>
+        
+        
+        <li class="page-item next">
+          <a class="page-link" href="/2024-10-21-KAP-TEN-LAST-TECH-NEWS/" data-toggle="tooltip" data-placement="top" title="KAP10 Weekly Update - SpaceX’s Starship Milestone, Adobe AI Innovations, and Google’s Nuclear Power Plans">
+            <span class="d-none d-sm-inline-block">Next Post</span>
+            <i class="fas fa-arrow-right" alt="Next Post"></i>
+          </a>
+        </li>
+        
+      </ul>
+
+      
+        <div class="comments-section">
+          <h2>Comments</h2>
+          <!-- Commentbox.io integration with delayed loading -->
+<div class="commentbox"></div>
+
+<script>
+  // Attendre que la page soit complètement chargée, y compris tous les autres scripts
+  window.addEventListener('load', function() {
+    // Attendre un peu plus pour s'assurer que Auth0 et autres scripts sont bien initialisés
+    setTimeout(function() {
+      // Charger dynamiquement le script Commentbox
+      var script = document.createElement('script');
+      script.src = 'https://unpkg.com/commentbox.io/dist/commentBox.min.js';
+      script.onload = function() {
+        console.log("Commentbox script loaded, initializing...");
+        try {
+          commentBox('5721091683123200-proj', {
+            className: 'commentbox',
+            defaultBoxId: window.location.pathname
+          });
+          console.log("Commentbox initialized successfully");
+        } catch(e) {
+          console.error("Failed to initialize Commentbox:", e);
+        }
+      };
+      document.body.appendChild(script);
+    }, 1500); // Délai de 1.5 seconde après chargement complet
+  });
+</script>
+        </div>
+      
+    </div>
+  </div>
+</main>
+
+  <footer>
+  <div class="container-md beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      
+<ul class="list-inline text-center footer-links"><li class="list-inline-item">
+    <a href="https://kaptandatasolutions.github.io/contact/" title="Contact Us">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Contact Us</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="/feed.xml" title="RSS">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">RSS</span>
+    </a>
+  </li><li class="list-inline-item">
+    <a href="https://www.facebook.com/KaptanDataSolutions" title="Facebook">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Facebook</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://github.com/kaptandatasolutions" title="GitHub">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">GitHub</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://twitter.com/KaptanData" title="X (Twitter)">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-x-twitter fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">X (Twitter)</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://patreon.com/KaptanData" title="Patreon">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-patreon fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Patreon</span>
+    </a>
+  </li><li class="list-inline-item">
+    <a href="https://www.youtube.com/@KaptanDataSolutions" title="YouTube">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-youtube fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">YouTube</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://wa.me/33677264831" title="Whatsapp">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-whatsapp fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Whatsapp</span>
+    </a>
+  </li><li class="list-inline-item">
+    <a href="https://linkedin.com/in/https://www.linkedin.com/company/kaptan-data-solutions/posts?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed_hashtag%3B83seogqHTz%2BysDSPiajmGA%3D%3D" title="LinkedIn">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">LinkedIn</span>
+   </a>
+  </li></ul>
+
+
+      
+      <p class="copyright text-muted">
+      
+        Kaptan Data Solutions
+        &nbsp;&bull;&nbsp;
+      
+      2025
+
+      
+        &nbsp;&bull;&nbsp;
+        <span class="author-site">
+          <a href="http://localhost:4000/">KDS</a>
+        </span>
+      
+
+      
+
+      
+
+      </p>
+      <p class="theme-by text-muted">
+        Powered by
+        <a href="https://kaptan-data.streamlit.app/KaptanDataSolutions">KDS</a>
+      </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  
+  
+    
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+
+  
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/assets/js/beautifuljekyll.js"></script>
+    
+  
+
+
+
+
+
+
+
+
+
+  <!-- Icône animé Contact, fixe en bas‑gauche -->
+<a href="/contact/"
+   class="contact-floating"
+   title="Contact">
+  <svg xmlns="http://www.w3.org/2000/svg"
+       width="40" height="40" viewBox="0 0 24 24"
+       fill="none" stroke="currentColor"
+       stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
+    <circle class="chat-dot" cx="8"  cy="10" r="0.6"/>
+    <circle class="chat-dot" cx="12" cy="10" r="0.6"/>
+    <circle class="chat-dot" cx="16" cy="10" r="0.6"/>
+  </svg>
+</a>
+
+
+
+</body>
+
+
+
+</html>

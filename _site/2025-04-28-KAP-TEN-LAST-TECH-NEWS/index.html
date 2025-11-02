@@ -1,0 +1,987 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Beautiful Jekyll 6.0.1 | Copyright Dean Attali 2023 -->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  
+
+  
+
+  
+
+  <title>KAP10 Weekly Update - Top 10 Tech Developments Shaping Digital Sovereignty and AI Advancements | home</title>
+
+  
+  
+  <meta name="author" content="Kayhan Kaptan - Expert in Medical Physics, Quality Control, AI and Digital Transformation">
+  
+
+  <meta name="description" content="The trends that will shape your data, code and business projects over the next 12 months">
+
+  
+
+  
+
+  
+  <link rel="alternate" type="application/rss+xml" title="home" href="http://localhost:4000/feed.xml">
+  
+
+  
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MX5ZJFPTBX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-MX5ZJFPTBX');
+</script>
+
+
+  
+
+  
+
+  
+
+  
+
+
+  
+    
+      
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+
+    
+      
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/assets/css/bootstrap-social.css">
+    
+      <link rel="stylesheet" href="/assets/css/beautifuljekyll.css">
+    
+  
+
+  
+
+  
+  
+  
+
+  
+
+  
+  <meta property="og:site_name" content="home">
+  <meta property="og:title" content="KAP10 Weekly Update - Top 10 Tech Developments Shaping Digital Sovereignty and AI Advancements | home">
+  <meta property="og:description" content="The trends that will shape your data, code and business projects over the next 12 months">
+
+  
+  <meta property="og:image" content="http://localhost:4000/assets/img/kapt10-3.png">
+  
+
+  
+  <meta property="og:type" content="article">
+  
+  <meta property="og:article:author" content="Kayhan Kaptan - Expert in Medical Physics, Quality Control, AI and Digital Transformation">
+  
+  <meta property="og:article:published_time" content="2025-04-28T00:00:00+02:00">
+  <meta property="og:url" content="http://localhost:4000/2025-04-28-KAP-TEN-LAST-TECH-NEWS/">
+  <link rel="canonical" href="http://localhost:4000/2025-04-28-KAP-TEN-LAST-TECH-NEWS/">
+  
+
+  
+  <meta name="twitter:card" content="summary_large_image">
+  
+  <meta name="twitter:site" content="@KaptanData">
+  <meta name="twitter:creator" content="@KaptanData">
+
+  <meta property="twitter:title" content="KAP10 Weekly Update - Top 10 Tech Developments Shaping Digital Sovereignty and AI Advancements | home">
+  <meta property="twitter:description" content="The trends that will shape your data, code and business projects over the next 12 months">
+
+  
+  <meta name="twitter:image" content="http://localhost:4000/assets/img/kapt10-3.png">
+  
+
+  
+
+
+  
+
+  
+  
+
+  
+
+
+  <!-- Auth0 Lock widget -->
+<script src="https://cdn.auth0.com/js/lock/12.1/lock.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    console.log("Initializing Auth0 Lock");
+    
+    // Initialiser Auth0 Lock
+    var lock = new Auth0Lock(
+      'LMUi6iOzbNDjg2uNFV9dWXYRNrCJkKOk',
+      'dev-3u60nolrb8e0gznx.eu.auth0.com',
+      {
+        auth: {
+          redirectUrl: window.location.origin,
+          responseType: 'token id_token',
+          params: {
+            scope: 'openid profile email'
+          }
+        },
+        autoclose: true,
+        languageDictionary: {
+          title: "Se connecter"
+        }
+      }
+    );
+    
+    // Écouter les événements d'authentification
+    lock.on('authenticated', function(authResult) {
+      console.log('Authenticated!', authResult);
+      localStorage.setItem('access_token', authResult.accessToken);
+      localStorage.setItem('id_token', authResult.idToken);
+      
+      // Récupérer le profil utilisateur
+      lock.getUserInfo(authResult.accessToken, function(error, profile) {
+        if (!error) {
+          console.log('Profile:', profile);
+          localStorage.setItem('user_profile', JSON.stringify(profile));
+          
+          // Mettre à jour l'interface avec le nom d'utilisateur
+          updateAuthUI(true, profile.name || profile.nickname || profile.email || 'Utilisateur');
+        } else {
+          updateAuthUI(true, 'Utilisateur');
+        }
+      });
+    });
+    
+    // Vérifier si l'utilisateur est déjà connecté
+    var idToken = localStorage.getItem('id_token');
+    var userProfile = localStorage.getItem('user_profile');
+    
+    if (idToken) {
+      if (userProfile) {
+        try {
+          var profile = JSON.parse(userProfile);
+          updateAuthUI(true, profile.name || profile.nickname || profile.email || 'Utilisateur');
+        } catch (e) {
+          updateAuthUI(true, 'Utilisateur');
+        }
+      } else {
+        updateAuthUI(true, 'Utilisateur');
+      }
+    } else {
+      updateAuthUI(false);
+    }
+    
+    // Fonction pour mettre à jour l'interface
+    function updateAuthUI(isLoggedIn, userName) {
+      if (isLoggedIn) {
+        document.getElementById("auth0-login-btn").style.display = "none";
+        
+        // Mettre à jour le texte du bouton de déconnexion avec le nom d'utilisateur
+        var logoutBtn = document.getElementById("auth0-logout-btn");
+        logoutBtn.style.display = "inline-block";
+        
+        if (userName) {
+          logoutBtn.innerHTML = `<span class="user-name">${userName}</span> <span class="logout-text">Logout</span>`;
+        }
+      } else {
+        document.getElementById("auth0-login-btn").style.display = "inline-block";
+        document.getElementById("auth0-logout-btn").style.display = "none";
+      }
+    }
+    
+    // Attacher les événements aux boutons
+    document.getElementById("auth0-login-btn").addEventListener("click", function() {
+      console.log("Login button clicked");
+      lock.show();
+    });
+    
+    document.getElementById("auth0-logout-btn").addEventListener("click", function() {
+      console.log("Logout button clicked");
+      // Supprimer les tokens
+      localStorage.removeItem('access_token');
+      localStorage.removeItem('id_token');
+      localStorage.removeItem('user_profile');
+      
+      // Mettre à jour l'interface
+      updateAuthUI(false);
+      
+      // Rediriger vers la page d'accueil
+      window.location.href = window.location.origin;
+    });
+  });
+</script>
+</head>
+<style>
+  .comment-form {
+    max-width: 600px; /* Largeur max du formulaire */
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+    background: #fafafa;
+    font-family: sans-serif;
+  }
+  
+  .comment-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .comment-form label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 5px;
+  }
+  
+  .comment-form label span {
+    color: red; /* Pour signaler les champs obligatoires */
+  }
+  
+  .comment-form input[type="text"],
+  .comment-form input[type="email"],
+  .comment-form input[type="url"],
+  .comment-form textarea {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .comment-form input[type="text"]:focus,
+  .comment-form input[type="email"]:focus,
+  .comment-form input[type="url"]:focus,
+  .comment-form textarea:focus {
+    border-color: #999;
+    outline: none;
+  }
+  
+  .comment-form .comment-submit {
+    display: inline-block;
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+    background: #0073e6;
+    color: #fff;
+    font-weight: 600;
+    transition: background 0.3s;
+  }
+  
+  .comment-form .comment-submit:hover {
+    background: #005bb5;
+  }
+
+</style>
+
+
+
+<head>
+  <link rel="stylesheet" href="/assets/css/custom.css">
+
+</head>
+
+<body>
+  
+
+
+  <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular"><a class="navbar-brand" href="http://localhost:4000/" title="home">
+      <div class="animated-icon" aria-hidden="true">
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="28" height="28"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    >
+      <rect width="18" height="14" x="3" y="3" rx="2" />
+      <path d="M4 21h1" class="fade-line"/>
+      <path d="M9 21h1" class="fade-line"/>
+      <path d="M14 21h1" class="fade-line"/>
+      <path d="M19 21h1" class="fade-line"/>
+    </svg>
+  </div>
+  
+    </a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="main-navbar">
+    <ul class="navbar-nav ml-auto">
+      <!-- Liens de navigation standards -->
+          <li class="nav-item">
+            <a class="nav-link" href="/aboutme">About Us</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/pricing">Pricing</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/contact">Contact</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Kap10 - Last Tech News</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-05-03-KAP-TEN-LAST-TECH-NEWS/">2025-05-03</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-04-28-KAP-TEN-LAST-TECH-NEWS/">2025-04-28</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-04-22-KAP-TEN-LAST-TECH-NEWS/">2025-04-22</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-03-10-KAP-TEN-LAST-TECH-NEWS/">2025-03-10</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-03-03-KAP-TEN-LAST-TECH-NEWS/">2025-03-03</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-02-03-KAP-TEN-LAST-TECH-NEWS/">2025-02-03</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-01-27-KAP-TEN-LAST-TECH-NEWS/">2025-01-27</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-01-21-KAP-TEN-LAST-TECH-NEWS/">2025-01-21</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-01-06-KAP-TEN-LAST-TECH-NEWS/">2025-01-06</a>
+            </div>
+          </li>
+        
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">our items</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-04-14-A2A-protocol/">Podcast - Agent2Agent (A2A) Protocol for Enhanced AI Agent Collaboration</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-24-ARL0-ARL1/">Understanding ARL</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-02-Revolutionizing/">Revoltionizing</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-11-Robotic-Control-Strategies-at-Ganymed-Robotics/">Surgical Robots</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-26-Podcast-ARL/">Podcast Optimizing Control Charts</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-09-Podcast-Starshot-By-Kaptan-data-solutions-Pylinac/">Podcast Automated Starshot Analysis</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-09-Podcast-SPC-By-Kaptan-data-solution/">Podcast Automated SPC</a>
+            </div>
+          </li>
+        
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Solutions</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-03-31-Local-IA/">CorpoRAG - Internal Generative Retrieval</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-03-Automated-SPC-Web-Solution-for-Quality-Control-in-Radiotherapy/">SPC Physique Médicale</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-04-Chatbot-ansm-2023/">Chatbot</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-05-Picket-Fence-Pylinac-Module/">Picket Fence</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-06-Starshot-Pylinac-Module/">Starshot</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-06-Winston-lutz-2D-and-3D">Winston-Lutz 2D & 3D</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-06-Image-generator-Pylinac-Module">Image Test Generator</a>
+            </div>
+          </li>
+        
+          <li class="nav-item">
+            <a class="nav-link" href="https://kaptan-data.streamlit.app/">Portfolio of App's 🚀</a>
+          </li><!-- Boutons Auth0 avec des événements onclick explicites -->
+      <li class="nav-item">
+        <button id="auth0-login-btn" class="btn btn-sm btn-primary nav-link" style="margin: 0.5rem;" onclick="console.log('Login clicked'); document.dispatchEvent(new Event('auth0login'));">Login</button>
+        <button id="auth0-logout-btn" class="btn btn-sm btn-outline-primary nav-link" style="display: none; margin: 0.5rem;" onclick="console.log('Logout clicked'); document.dispatchEvent(new Event('auth0logout'));">Logout</button>
+      </li>
+      
+        <li class="nav-item">
+          <a class="nav-link" id="nav-search-link" href="#" title="Search">
+            <span id="nav-search-icon" class="fa fa-search"></span>
+            <span id="nav-search-text">Search</span>
+          </a>
+        </li></ul>
+  </div>
+
+  
+
+  
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        <a href="http://localhost:4000/">
+          <img alt="Navigation bar avatar" class="avatar-img" src="/assets/img/avatar-icon.png" />
+        </a>
+      </div>
+    </div>
+  
+
+</nav>
+
+
+
+<div id="beautifuljekyll-search-overlay">
+
+  <div id="nav-search-exit" title="Exit search">✕</div>
+  <input type="text" id="nav-search-input" placeholder="Search">
+  <ul id="search-results-container"></ul>
+  
+  <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+  <script>
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('nav-search-input'),
+      resultsContainer: document.getElementById('search-results-container'),
+      json: '/assets/data/searchcorpus.json' 
+    });
+  </script>
+</div>
+
+
+
+
+  
+
+
+  <div id="header-big-imgs" data-num-img=1
+    
+    
+    
+    
+      data-img-src-1="http://localhost:4000/assets/img/kapt10-2.png"
+    
+    
+    
+  ></div>
+
+
+<header class="header-section has-img">
+<div class="intro-header  big-img ">
+  
+  <div class="container-md">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+        <div class="post-heading">
+          <h1>KAP10 Weekly Update - Top 10 Tech Developments Shaping Digital Sovereignty and AI Advancements</h1>
+          
+            
+              <h2 class="post-subheading">The trends that will shape your data, code and business projects over the next 12 months</h2>
+            
+          
+          
+           
+            
+              By <strong>Kayhan Kaptan - Expert in Medical Physics, Quality Control, AI and Digital Transformation</strong><br>
+            
+            <span class="post-meta">Posted on April 28, 2025</span>
+            
+            
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <span class='img-desc'></span>
+</div>
+
+
+
+</header>
+
+
+<main class=" container-md ">
+  <div class="row">
+    <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
+
+      
+
+      
+
+      <div class="blog-post">
+        <h1 id="-top-10-tech-news---april-28-2025">🔝 Top 10 Tech News - April 28, 2025</h1>
+
+<h2 id="1-generative-ai-powered-language-tutoring">1. Generative AI-Powered Language Tutoring</h2>
+
+<p><strong>Context.</strong> The language edtech market already weighs $29B and is growing at 18%/year. Platforms are looking to move from a static subscription model to a log in-loop based on the real value provided in each session.</p>
+
+<p><strong>Innovation 2025.</strong> Duolingo Max offers augmented reality video exchanges: the generated avatar reproduces native micro-reactions (gaze aversion, eyebrow raising) to trigger measurable cognitive empathy (+21% retention after 4 weeks). The Explain My Answer v2 API now provides a JSON containing: error, grammar rule, positive example, and a link to a relevant mini-drill.</p>
+
+<p><a href="https://www.investors.com/news/technology/duolingo-stock-surges-morgan-stanley-buy-rating/">Link1</a>  / <a href="https://www.axios.com/2025/04/04/axios-event-pittsburgh-local-ai-duolingo-education">Link2</a></p>
+
+<p><strong>Tech Stack.</strong></p>
+
+<ul>
+  <li>Whisper-large-v3 for pronunciation transcription.</li>
+  <li>GPT-4o fine-tuned (LoRA + RLHF) with a reward based on phonetic Levenshtein distance.</li>
+  <li>Monitoring by Langfuse + Prometheus.</li>
+</ul>
+
+<p><strong>Use Cases.</strong> Niche micro-tutors are emerging: English for airline pilots, business Mandarin, French gastronomy. Each vertical capitalizes on proprietary datasets.</p>
+
+<p><strong>Roadmap.</strong> Audit your corpora, organize them by CEFR, then implement a lightweight RLHF pipeline (≈ 1k conversations) for an MVP in 8 weeks.</p>
+
+<h2 id="2-digital-twins-vancouver-airport-as-a-global-showcase">2. Digital Twins: Vancouver Airport as a Global Showcase</h2>
+
+<p><strong>Context.</strong> Critical infrastructures (airports, ports, water networks) account for 60% of the digital twin market. Regulatory pressure on resilience is driving virtualization.</p>
+
+<p><strong>Innovation 2025.</strong> The YVR Digital Twin now integrates a hyper-local (100m) weather prediction layer coupled with aircraft rotation schedules to optimize ground vehicle routes (-7% APU kerosene burned).</p>
+
+<p><strong>Tech Stack.</strong></p>
+
+<ul>
+  <li>Unity HDRP + Cesium for Unity for the 3D layer.</li>
+  <li>Geo-temporal Neo4j database.</li>
+  <li>Streaming Apache Flink + Kafka → Iceberg / Delta Lake.</li>
+</ul>
+
+<p><strong>Use Cases.</strong> Technicians virtually test the installation of a new conveyor belt before physical work; calculated ROI: $450k in avoided errors.</p>
+
+<p><strong>Roadmap.</strong> Start with a simplified BIM inventory → connect 3 priority IoT streams → implement a PowerBI/Unity command center in 120 days.</p>
+
+<h2 id="3-neuromorphic-edge-ai-brain-chips-under-1-mw">3. Neuromorphic Edge AI: “Brain” Chips Under 1 mW</h2>
+
+<p><strong>Context.</strong> With 5G not yet ubiquitous, ultra-low-power edge remains the only viable solution for continuous capture of biomedical signals.</p>
+
+<p><strong>Innovation 2025.</strong> Akida G2 doubles performance and enables on-device training. A prototype hearing implant demonstrates a 42% reduction in false positives compared to classic DSPs.</p>
+
+<p><strong>Tech Stack.</strong></p>
+
+<ul>
+  <li>snnTorch 0.9 with CUDA-SNN support.</li>
+  <li>CNN → SNN conversion using Spike-Timing Dependent Plasticity (STDP).</li>
+</ul>
+
+<p><strong>Use Cases.</strong> Apnea detection watches, wildlife cameras, predictive maintenance of micro-pumps.</p>
+
+<p><strong>Roadmap.</strong> Identify a model &lt;2M params → port it to Akida PCIe → measure spikes/s, latency, power.</p>
+
+<p><a href="https://www.embedur.ai/how-neuromorphic-chips-could-redefine-edge-ai-devices/">How Neuromorphic Chips Could Redefine Edge AI Devices</a></p>
+
+<h2 id="4-post-quantum-cryptography-hqc-enters-the-standards-circle">4. Post-Quantum Cryptography: HQC Enters the Standards Circle</h2>
+
+<p><strong>Context.</strong> Time maximization of “store-now-decrypt-later” attacks is accelerating: 35% of surveyed CISOs already store encrypted TLS traffic.</p>
+
+<p><strong>Innovation 2025.</strong> HQC-256 stands out with a smaller public key than Kyber-512 (1.8 KB vs 800 bytes) but resilience to certain ROM vectors.</p>
+
+<p><strong>Tech Stack.</strong></p>
+
+<ul>
+  <li>oqs-python 0.9 + OpenSSL 3.2 FIPS pqc.</li>
+  <li>HSM Thales Luna v8 firmware &gt; 8.3.2 for hybrid support.</li>
+</ul>
+
+<p><strong>Use Cases.</strong> Encryption of AI models at-rest + internal gRPC channels.</p>
+
+<p><strong>Roadmap.</strong> Map your TLS dependencies, pilot a hybrid tunnel by Q3-2025, full transition before 2027.</p>
+
+<h2 id="5-spatial-computing-visionos-24-brings-apple-intelligence">5. Spatial Computing: visionOS 2.4 Brings “Apple Intelligence”</h2>
+
+<p><strong>Context.</strong> 53% of Fortune 500 CIOs are testing mixed reality for technical training. Main objections: cost and usage friction.</p>
+
+<p><strong>Innovation 2025.</strong> visionOS 2.4 enables shared multi-viewer without an external server, thanks to a P2P UWB protocol. On-device AI generates simplified 3D assets to maintain a constant 90 FPS.</p>
+
+<p><strong>Tech Stack.</strong></p>
+
+<ul>
+  <li>coremltools → mlmodel optimizer (chunked weights).</li>
+  <li>Swift + PythonKit to link PyTorch models.</li>
+  <li>Reality Composer Pro to create scene anchors.</li>
+</ul>
+
+<p><strong>Use Cases.</strong> Factory supervision cockpit: real-time KPIs floating near each machine.</p>
+
+<p><strong>Roadmap.</strong> PoC 2 scenes, 10 KPIs, &lt;8 weeks; v2 integrating full digital twin &lt;6 months.</p>
+
+<p><a href="https://www.apple.com/newsroom/2025/02/apple-intelligence-comes-to-apple-vision-pro-in-april/">Apple Intelligence comes to Apple Vision Pro in April</a></p>
+
+<h2 id="6-green-it-geothermal-and-mini-reactors-for-ai">6. Green IT: Geothermal and Mini-Reactors for AI</h2>
+
+<p><strong>Context.</strong> LLMs &gt; 70B parameters consume &gt; 3 GWh for a single training run. CSR pressure mandates decoupling growth from fossil fuels.</p>
+
+<p><strong>Innovation 2025.</strong> Google signs a 10 MW geothermal PPA (load factor: 92%) and is experimenting with a supercritical water injection system at a depth of 4 km. Microsoft, through its “Nuclear Tech-Team,” is collaborating with NuScale on a fleet of modular SMRs (77 MW per module).</p>
+
+<p><strong>Tech Stack.</strong></p>
+
+<ul>
+  <li>Cost explorer custom “CO2e” via Sustainability API (AWS).</li>
+  <li>Kubernetes Karpenter scheduler patched for carbon intensity forecast.</li>
+</ul>
+
+<p><strong>Use Cases.</strong> Asynchronous AI batch jobs moved to low-carbon energy slots; SLA adjusted +2% latency, but -38% CO2.</p>
+
+<p><strong>Roadmap.</strong> Measure your gCO2/req, integrate predictive PUE, define alert threshold 300 g/kWh.</p>
+
+<h2 id="7-llama-4-and-the-open-source-offensive">7. Llama 4 and the Open-Source Offensive</h2>
+
+<p><strong>Context.</strong> The average cost of a GPT-4o API call remains 5-10× more expensive than a self-produced model inferred in 4-bit.</p>
+
+<p><strong>Innovation 2025.</strong> Llama 4 Maverick 140B reaches 88.5 MMLU and takes the lead in the open-source ranking. New: an official licensing guide prepares SOC-2 compliance.</p>
+
+<p><strong>Tech Stack.</strong></p>
+
+<ul>
+  <li>llama.cpp + GGUF 4-bit (quantizer AWQ).</li>
+  <li>Qdrant 1.9 → sub-vector HNSW.</li>
+</ul>
+
+<p><strong>Use Cases.</strong> Internal compliance chatbot, ESG report automation, technical document generation.</p>
+
+<p><strong>Roadmap.</strong> PoC RAG 10k docs in 2 weeks; security hardening, prompt injection audit in Q3.</p>
+
+<h2 id="8-healthtech-ai-microfluidic-patch-for-continuous-detection">8. HealthTech: AI Microfluidic Patch for Continuous Detection</h2>
+
+<p><strong>Context.</strong> Chronic metabolic diseases affect 1 in 3 people; early diagnosis remains the challenge.</p>
+
+<p><strong>Innovation 2025.</strong> “Lab-on-Tears” patch detects 4 biomarkers with 89% accuracy correlated to blood plasma. CNN-Mobile Net V3 algorithm inferred on a Hexagon DSP SoC.</p>
+
+<p><strong>Tech Stack.</strong></p>
+
+<ul>
+  <li>TensorFlow Lite Micro + mobile Edge TPU.</li>
+  <li>InfluxDB TSM warehouse for Hz series.</li>
+</ul>
+
+<p><strong>Use Cases.</strong> Home dialysis monitoring, urea peak alerts.</p>
+
+<p><strong>Roadmap.</strong> Prototype paper sensor, clinical validation n=15, POC cloud FHIR.</p>
+
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/40168798/">A wearable SERS-microfluidic patch for continuous monitoring of kidney health-related biomarkers in sweat</a></p>
+
+<h2 id="9-bvlos-drones-us-regulation-accelerates">9. BVLOS Drones: US Regulation Accelerates</h2>
+
+<p><strong>Context.</strong> 80% of “last mile” deliveries in peri-urban areas cost more than the delivered product.</p>
+
+<p><strong>Innovation 2025.</strong> NPRM BVLOS promises type-class licenses, authorizing flights &gt; 400 ft without visual line of sight. Zipline V4 shows a 2 kg/10 L drone with a 50 km range, &lt; 2 m accuracy.</p>
+
+<p><strong>Tech Stack.</strong></p>
+
+<ul>
+  <li>MAVSDK-Python 2.0 + ROS 2 Humble.</li>
+  <li>AV1 hardware video encoder (Nvidia NVENC 4K 30 fps &lt; 3.8 Mbps).</li>
+</ul>
+
+<p><strong>Use Cases.</strong> Blood delivery, photovoltaic inspection, nighttime logistics inventory.</p>
+
+<p><strong>Roadmap.</strong> SORA risk matrix, COA pilot application in 2025, industrialization in 2026.</p>
+
+<h2 id="10-6g-europe-and-korea-widen-the-gap">10. 6G: Europe and Korea Widen the Gap</h2>
+
+<p><strong>Context.</strong> XR “holographic telepresence” use cases require 1 Tb/s and &lt;1 ms latency.</p>
+
+<p><strong>Innovation 2025.</strong> Seoul tests a 6G pilot network at 330 GHz (D-band) with RIS (Reconfigurable Intelligent Surfaces) antennas improving urban coverage by 30%.</p>
+
+<p><strong>Tech Stack.</strong></p>
+
+<ul>
+  <li>Protocol: IAB-T (Integrated Access-Backhaul Terahertz).</li>
+  <li>P4Runtime programming for slicing.</li>
+</ul>
+
+<p><strong>Use Cases.</strong> 8K stereoscopic remote surgery, real-time city digital twin.</p>
+
+<p><strong>Roadmap.</strong> ETSI GR 6G standard monitoring, mmWave pilots 2026, P4 engineer recruitment.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>These trends show a convergence: generative intelligence → physical virtualization → energy sustainability. Organizations that succeed will be those that combine model expertise, data governance, and carbon optimization.</p>
+
+<p><strong>Next move:</strong> develop a quarterly “tech → product radar” to prioritize your POCs and align R&amp;D with business strategy.</p>
+
+<hr />
+
+<p>Continue following KAP10 for in-depth analyses on the societal impacts and regulation of emerging technologies.</p>
+
+
+      </div>
+
+      
+        <div class="blog-tags">
+          <span>Tags:</span>
+          
+            <a href="/tags#Generative AI">Generative AI</a>
+          
+            <a href="/tags#Digital Twin">Digital Twin</a>
+          
+            <a href="/tags#Edge AI">Edge AI</a>
+          
+            <a href="/tags#Post-Quantum Cryptography">Post-Quantum Cryptography</a>
+          
+            <a href="/tags#Spatial Computing">Spatial Computing</a>
+          
+            <a href="/tags#Green IT">Green IT</a>
+          
+            <a href="/tags#Open-source LLM">Open-source LLM</a>
+          
+            <a href="/tags#Drones">Drones</a>
+          
+            <a href="/tags#HealthTech">HealthTech</a>
+          
+            <a href="/tags#6G">6G</a>
+          
+        </div>
+      
+
+      
+
+      
+        <!-- Check if any share-links are active -->
+
+
+
+
+<section id = "social-share-section">
+  <span class="sr-only">Share: </span>
+
+  
+    <a href="https://twitter.com/intent/tweet?text=KAP10+Weekly+Update+-+Top+10+Tech+Developments+Shaping+Digital+Sovereignty+and+AI+Advancements&url=http%3A%2F%2Flocalhost%3A4000%2F2025-04-28-KAP-TEN-LAST-TECH-NEWS%2F"
+      class="btn btn-social-icon btn-twitter" title="Share on X (Twitter)">
+      <span class="fab fa-fw fa-x-twitter" aria-hidden="true"></span>
+      <span class="sr-only">X (Twitter)</span>
+    </a>
+  
+
+  
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2F2025-04-28-KAP-TEN-LAST-TECH-NEWS%2F"
+      class="btn btn-social-icon btn-facebook" title="Share on Facebook">
+      <span class="fab fa-fw fa-facebook" aria-hidden="true"></span>
+      <span class="sr-only">Facebook</span>
+    </a>
+  
+
+  
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2F2025-04-28-KAP-TEN-LAST-TECH-NEWS%2F"
+      class="btn btn-social-icon btn-linkedin" title="Share on LinkedIn">
+      <span class="fab fa-fw fa-linkedin" aria-hidden="true"></span>
+      <span class="sr-only">LinkedIn</span>
+    </a>
+  
+
+  
+
+  
+
+</section>
+
+
+
+      
+
+      <ul class="pagination blog-pager">
+        
+        <li class="page-item previous">
+          <a class="page-link" href="/2025-04-22-KAP-TEN-LAST-TECH-NEWS/" data-toggle="tooltip" data-placement="top" title="KAP10 Weekly Update - Top 10 Tech Developments Shaping Digital Sovereignty and AI Advancements">
+            <i class="fas fa-arrow-left" alt="Previous Post"></i>
+            <span class="d-none d-sm-inline-block">Previous Post</span>
+          </a>
+        </li>
+        
+        
+        <li class="page-item next">
+          <a class="page-link" href="/2025-05-03-KAP-TEN-LAST-TECH-NEWS/" data-toggle="tooltip" data-placement="top" title="KAP10 Weekly Update - Top 10 Tech News of the Week">
+            <span class="d-none d-sm-inline-block">Next Post</span>
+            <i class="fas fa-arrow-right" alt="Next Post"></i>
+          </a>
+        </li>
+        
+      </ul>
+
+      
+        <div class="comments-section">
+          <h2>Comments</h2>
+          <!-- Commentbox.io integration with delayed loading -->
+<div class="commentbox"></div>
+
+<script>
+  // Attendre que la page soit complètement chargée, y compris tous les autres scripts
+  window.addEventListener('load', function() {
+    // Attendre un peu plus pour s'assurer que Auth0 et autres scripts sont bien initialisés
+    setTimeout(function() {
+      // Charger dynamiquement le script Commentbox
+      var script = document.createElement('script');
+      script.src = 'https://unpkg.com/commentbox.io/dist/commentBox.min.js';
+      script.onload = function() {
+        console.log("Commentbox script loaded, initializing...");
+        try {
+          commentBox('5721091683123200-proj', {
+            className: 'commentbox',
+            defaultBoxId: window.location.pathname
+          });
+          console.log("Commentbox initialized successfully");
+        } catch(e) {
+          console.error("Failed to initialize Commentbox:", e);
+        }
+      };
+      document.body.appendChild(script);
+    }, 1500); // Délai de 1.5 seconde après chargement complet
+  });
+</script>
+        </div>
+      
+    </div>
+  </div>
+</main>
+
+  <footer>
+  <div class="container-md beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      
+<ul class="list-inline text-center footer-links"><li class="list-inline-item">
+    <a href="https://kaptandatasolutions.github.io/contact/" title="Contact Us">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Contact Us</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="/feed.xml" title="RSS">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">RSS</span>
+    </a>
+  </li><li class="list-inline-item">
+    <a href="https://www.facebook.com/KaptanDataSolutions" title="Facebook">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Facebook</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://github.com/kaptandatasolutions" title="GitHub">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">GitHub</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://twitter.com/KaptanData" title="X (Twitter)">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-x-twitter fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">X (Twitter)</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://patreon.com/KaptanData" title="Patreon">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-patreon fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Patreon</span>
+    </a>
+  </li><li class="list-inline-item">
+    <a href="https://www.youtube.com/@KaptanDataSolutions" title="YouTube">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-youtube fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">YouTube</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://wa.me/33677264831" title="Whatsapp">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-whatsapp fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Whatsapp</span>
+    </a>
+  </li><li class="list-inline-item">
+    <a href="https://linkedin.com/in/https://www.linkedin.com/company/kaptan-data-solutions/posts?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed_hashtag%3B83seogqHTz%2BysDSPiajmGA%3D%3D" title="LinkedIn">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">LinkedIn</span>
+   </a>
+  </li></ul>
+
+
+      
+      <p class="copyright text-muted">
+      
+        Kaptan Data Solutions
+        &nbsp;&bull;&nbsp;
+      
+      2025
+
+      
+        &nbsp;&bull;&nbsp;
+        <span class="author-site">
+          <a href="http://localhost:4000/">KDS</a>
+        </span>
+      
+
+      
+
+      
+
+      </p>
+      <p class="theme-by text-muted">
+        Powered by
+        <a href="https://kaptan-data.streamlit.app/KaptanDataSolutions">KDS</a>
+      </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  
+  
+    
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+
+  
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/assets/js/beautifuljekyll.js"></script>
+    
+  
+
+
+
+
+
+
+
+
+
+  <!-- Icône animé Contact, fixe en bas‑gauche -->
+<a href="/contact/"
+   class="contact-floating"
+   title="Contact">
+  <svg xmlns="http://www.w3.org/2000/svg"
+       width="40" height="40" viewBox="0 0 24 24"
+       fill="none" stroke="currentColor"
+       stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
+    <circle class="chat-dot" cx="8"  cy="10" r="0.6"/>
+    <circle class="chat-dot" cx="12" cy="10" r="0.6"/>
+    <circle class="chat-dot" cx="16" cy="10" r="0.6"/>
+  </svg>
+</a>
+
+
+
+</body>
+
+
+
+</html>

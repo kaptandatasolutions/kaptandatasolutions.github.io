@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Beautiful Jekyll 6.0.1 | Copyright Dean Attali 2023 -->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  
+
+  
+
+  
+
+  <title>Harness the Power of AI Without Internet Access | home</title>
+
+  
+  
+  <meta name="author" content="Kayhan Kaptan - Expert in Medical Physics, Quality Control, AI and Digital Transformation)">
+  
+
+  <meta name="description" content="Secure, Customizable, and Efficient Solutions for Your Enterprise">
+
+  
+
+  
+
+  
+  <link rel="alternate" type="application/rss+xml" title="home" href="http://localhost:4000/feed.xml">
+  
+
+  
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MX5ZJFPTBX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-MX5ZJFPTBX');
+</script>
+
+
+  
+
+  
+
+  
+
+  
+
+
+  
+    
+      
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+
+    
+      
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/assets/css/bootstrap-social.css">
+    
+      <link rel="stylesheet" href="/assets/css/beautifuljekyll.css">
+    
+  
+
+  
+
+  
+  
+  
+
+  
+
+  
+  <meta property="og:site_name" content="home">
+  <meta property="og:title" content="Harness the Power of AI Without Internet Access | home">
+  <meta property="og:description" content="Secure, Customizable, and Efficient Solutions for Your Enterprise">
+
+  
+  <meta property="og:image" content="http://localhost:4000/assets/img/pricing_image.png">
+  
+
+  
+  <meta property="og:type" content="article">
+  
+  <meta property="og:article:author" content="Kayhan Kaptan - Expert in Medical Physics, Quality Control, AI and Digital Transformation)">
+  
+  <meta property="og:article:published_time" content="2025-04-20T00:00:00+02:00">
+  <meta property="og:url" content="http://localhost:4000/2025-04-20-harness_the_power_of_ai/">
+  <link rel="canonical" href="http://localhost:4000/2025-04-20-harness_the_power_of_ai/">
+  
+
+  
+  <meta name="twitter:card" content="summary_large_image">
+  
+  <meta name="twitter:site" content="@KaptanData">
+  <meta name="twitter:creator" content="@KaptanData">
+
+  <meta property="twitter:title" content="Harness the Power of AI Without Internet Access | home">
+  <meta property="twitter:description" content="Secure, Customizable, and Efficient Solutions for Your Enterprise">
+
+  
+  <meta name="twitter:image" content="http://localhost:4000/assets/img/pricing_image.png">
+  
+
+  
+
+
+  
+
+  
+  
+
+  
+
+
+  <!-- Auth0 Lock widget -->
+<script src="https://cdn.auth0.com/js/lock/12.1/lock.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    console.log("Initializing Auth0 Lock");
+    
+    // Initialiser Auth0 Lock
+    var lock = new Auth0Lock(
+      'LMUi6iOzbNDjg2uNFV9dWXYRNrCJkKOk',
+      'dev-3u60nolrb8e0gznx.eu.auth0.com',
+      {
+        auth: {
+          redirectUrl: window.location.origin,
+          responseType: 'token id_token',
+          params: {
+            scope: 'openid profile email'
+          }
+        },
+        autoclose: true,
+        languageDictionary: {
+          title: "Se connecter"
+        }
+      }
+    );
+    
+    // Écouter les événements d'authentification
+    lock.on('authenticated', function(authResult) {
+      console.log('Authenticated!', authResult);
+      localStorage.setItem('access_token', authResult.accessToken);
+      localStorage.setItem('id_token', authResult.idToken);
+      
+      // Récupérer le profil utilisateur
+      lock.getUserInfo(authResult.accessToken, function(error, profile) {
+        if (!error) {
+          console.log('Profile:', profile);
+          localStorage.setItem('user_profile', JSON.stringify(profile));
+          
+          // Mettre à jour l'interface avec le nom d'utilisateur
+          updateAuthUI(true, profile.name || profile.nickname || profile.email || 'Utilisateur');
+        } else {
+          updateAuthUI(true, 'Utilisateur');
+        }
+      });
+    });
+    
+    // Vérifier si l'utilisateur est déjà connecté
+    var idToken = localStorage.getItem('id_token');
+    var userProfile = localStorage.getItem('user_profile');
+    
+    if (idToken) {
+      if (userProfile) {
+        try {
+          var profile = JSON.parse(userProfile);
+          updateAuthUI(true, profile.name || profile.nickname || profile.email || 'Utilisateur');
+        } catch (e) {
+          updateAuthUI(true, 'Utilisateur');
+        }
+      } else {
+        updateAuthUI(true, 'Utilisateur');
+      }
+    } else {
+      updateAuthUI(false);
+    }
+    
+    // Fonction pour mettre à jour l'interface
+    function updateAuthUI(isLoggedIn, userName) {
+      if (isLoggedIn) {
+        document.getElementById("auth0-login-btn").style.display = "none";
+        
+        // Mettre à jour le texte du bouton de déconnexion avec le nom d'utilisateur
+        var logoutBtn = document.getElementById("auth0-logout-btn");
+        logoutBtn.style.display = "inline-block";
+        
+        if (userName) {
+          logoutBtn.innerHTML = `<span class="user-name">${userName}</span> <span class="logout-text">Logout</span>`;
+        }
+      } else {
+        document.getElementById("auth0-login-btn").style.display = "inline-block";
+        document.getElementById("auth0-logout-btn").style.display = "none";
+      }
+    }
+    
+    // Attacher les événements aux boutons
+    document.getElementById("auth0-login-btn").addEventListener("click", function() {
+      console.log("Login button clicked");
+      lock.show();
+    });
+    
+    document.getElementById("auth0-logout-btn").addEventListener("click", function() {
+      console.log("Logout button clicked");
+      // Supprimer les tokens
+      localStorage.removeItem('access_token');
+      localStorage.removeItem('id_token');
+      localStorage.removeItem('user_profile');
+      
+      // Mettre à jour l'interface
+      updateAuthUI(false);
+      
+      // Rediriger vers la page d'accueil
+      window.location.href = window.location.origin;
+    });
+  });
+</script>
+</head>
+<style>
+  .comment-form {
+    max-width: 600px; /* Largeur max du formulaire */
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+    background: #fafafa;
+    font-family: sans-serif;
+  }
+  
+  .comment-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .comment-form label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 5px;
+  }
+  
+  .comment-form label span {
+    color: red; /* Pour signaler les champs obligatoires */
+  }
+  
+  .comment-form input[type="text"],
+  .comment-form input[type="email"],
+  .comment-form input[type="url"],
+  .comment-form textarea {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .comment-form input[type="text"]:focus,
+  .comment-form input[type="email"]:focus,
+  .comment-form input[type="url"]:focus,
+  .comment-form textarea:focus {
+    border-color: #999;
+    outline: none;
+  }
+  
+  .comment-form .comment-submit {
+    display: inline-block;
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+    background: #0073e6;
+    color: #fff;
+    font-weight: 600;
+    transition: background 0.3s;
+  }
+  
+  .comment-form .comment-submit:hover {
+    background: #005bb5;
+  }
+
+</style>
+
+
+
+<head>
+  <link rel="stylesheet" href="/assets/css/custom.css">
+
+</head>
+
+<body>
+  
+
+
+  <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular"><a class="navbar-brand" href="http://localhost:4000/" title="home">
+      <div class="animated-icon" aria-hidden="true">
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="28" height="28"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    >
+      <rect width="18" height="14" x="3" y="3" rx="2" />
+      <path d="M4 21h1" class="fade-line"/>
+      <path d="M9 21h1" class="fade-line"/>
+      <path d="M14 21h1" class="fade-line"/>
+      <path d="M19 21h1" class="fade-line"/>
+    </svg>
+  </div>
+  
+    </a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="main-navbar">
+    <ul class="navbar-nav ml-auto">
+      <!-- Liens de navigation standards -->
+          <li class="nav-item">
+            <a class="nav-link" href="/aboutme">About Us</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/pricing">Pricing</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/contact">Contact</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Kap10 - Last Tech News</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-05-03-KAP-TEN-LAST-TECH-NEWS/">2025-05-03</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-04-28-KAP-TEN-LAST-TECH-NEWS/">2025-04-28</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-04-22-KAP-TEN-LAST-TECH-NEWS/">2025-04-22</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-03-10-KAP-TEN-LAST-TECH-NEWS/">2025-03-10</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-03-03-KAP-TEN-LAST-TECH-NEWS/">2025-03-03</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-02-03-KAP-TEN-LAST-TECH-NEWS/">2025-02-03</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-01-27-KAP-TEN-LAST-TECH-NEWS/">2025-01-27</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-01-21-KAP-TEN-LAST-TECH-NEWS/">2025-01-21</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-01-06-KAP-TEN-LAST-TECH-NEWS/">2025-01-06</a>
+            </div>
+          </li>
+        
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">our items</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-04-14-A2A-protocol/">Podcast - Agent2Agent (A2A) Protocol for Enhanced AI Agent Collaboration</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-24-ARL0-ARL1/">Understanding ARL</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-02-Revolutionizing/">Revoltionizing</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-11-Robotic-Control-Strategies-at-Ganymed-Robotics/">Surgical Robots</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-26-Podcast-ARL/">Podcast Optimizing Control Charts</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-09-Podcast-Starshot-By-Kaptan-data-solutions-Pylinac/">Podcast Automated Starshot Analysis</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-09-Podcast-SPC-By-Kaptan-data-solution/">Podcast Automated SPC</a>
+            </div>
+          </li>
+        
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Solutions</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2025-03-31-Local-IA/">CorpoRAG - Internal Generative Retrieval</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-03-Automated-SPC-Web-Solution-for-Quality-Control-in-Radiotherapy/">SPC Physique Médicale</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-04-Chatbot-ansm-2023/">Chatbot</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-05-Picket-Fence-Pylinac-Module/">Picket Fence</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-06-Starshot-Pylinac-Module/">Starshot</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-06-Winston-lutz-2D-and-3D">Winston-Lutz 2D & 3D</a>
+                  <a class="dropdown-item" href="https://kaptandatasolutions.github.io/2024-10-06-Image-generator-Pylinac-Module">Image Test Generator</a>
+            </div>
+          </li>
+        
+          <li class="nav-item">
+            <a class="nav-link" href="https://kaptan-data.streamlit.app/">Portfolio of App's 🚀</a>
+          </li><!-- Boutons Auth0 avec des événements onclick explicites -->
+      <li class="nav-item">
+        <button id="auth0-login-btn" class="btn btn-sm btn-primary nav-link" style="margin: 0.5rem;" onclick="console.log('Login clicked'); document.dispatchEvent(new Event('auth0login'));">Login</button>
+        <button id="auth0-logout-btn" class="btn btn-sm btn-outline-primary nav-link" style="display: none; margin: 0.5rem;" onclick="console.log('Logout clicked'); document.dispatchEvent(new Event('auth0logout'));">Logout</button>
+      </li>
+      
+        <li class="nav-item">
+          <a class="nav-link" id="nav-search-link" href="#" title="Search">
+            <span id="nav-search-icon" class="fa fa-search"></span>
+            <span id="nav-search-text">Search</span>
+          </a>
+        </li></ul>
+  </div>
+
+  
+
+  
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        <a href="http://localhost:4000/">
+          <img alt="Navigation bar avatar" class="avatar-img" src="/assets/img/avatar-icon.png" />
+        </a>
+      </div>
+    </div>
+  
+
+</nav>
+
+
+
+<div id="beautifuljekyll-search-overlay">
+
+  <div id="nav-search-exit" title="Exit search">✕</div>
+  <input type="text" id="nav-search-input" placeholder="Search">
+  <ul id="search-results-container"></ul>
+  
+  <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+  <script>
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('nav-search-input'),
+      resultsContainer: document.getElementById('search-results-container'),
+      json: '/assets/data/searchcorpus.json' 
+    });
+  </script>
+</div>
+
+
+
+
+  
+
+
+  <div id="header-big-imgs" data-num-img=1
+    
+    
+    
+    
+      data-img-src-1="http://localhost:4000/assets/img/pricing_image_cover.png"
+    
+    
+    
+  ></div>
+
+
+<header class="header-section has-img">
+<div class="intro-header  big-img ">
+  
+  <div class="container-md">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+        <div class="post-heading">
+          <h1>Harness the Power of AI Without Internet Access</h1>
+          
+            
+              <h2 class="post-subheading">Secure, Customizable, and Efficient Solutions for Your Enterprise</h2>
+            
+          
+          
+           
+            
+              By <strong>Kayhan Kaptan - Expert in Medical Physics, Quality Control, AI and Digital Transformation)</strong><br>
+            
+            <span class="post-meta">Posted on April 20, 2025</span>
+            
+            
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <span class='img-desc'></span>
+</div>
+
+
+
+</header>
+
+
+<main class=" container-md ">
+  <div class="row">
+    <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
+
+      
+
+      
+
+      <div class="blog-post">
+        <p><img src="/assets/img/new logo kaptan-data-solution.png" alt="png" /></p>
+
+<p>In today’s competitive environment, ensuring data security, efficiency, and compliance is paramount. At [Your Company Name], we specialize in delivering advanced Artificial Intelligence (AI) solutions specifically designed to operate entirely offline, fully integrated within your existing IT infrastructure. Discover our tailored, secure, and efficient AI solutions—crafted to boost your productivity without ever compromising on confidentiality. <a href="https://kaptandatasolutions.github.io/pricing/">More details here</a></p>
+
+<p>Note: The site that hosts the portfolio <a href="https://kaptan-data.streamlit.app/">portfolio</a> is sometimes in ‘ibernation’ mode because there are few visitors when you arrive. Click on the button to wake up the site. Don’t worry, the site works fine!</p>
+
+<h2 id="customizable-virtual-assistant-instant-responses-unlimited-potential">Customizable Virtual Assistant: Instant Responses, Unlimited Potential</h2>
+
+<p>Our <strong>Virtual Assistant</strong> solution leverages sophisticated artificial intelligence to rapidly query internal or external databases, providing precise, educational, and context-specific responses. Fully customizable to your industry—be it regulatory compliance, technical protocols, equipment management, or statistical analysis—this assistant evolves continually to meet your team’s changing needs. <a href="https://kaptan-data.streamlit.app/chatbot">More details here</a></p>
+
+<p><strong>Key Features:</strong></p>
+
+<ul>
+  <li>Rapid, accurate, and context-specific answers</li>
+  <li>Scalable and adaptable for ongoing refinement</li>
+  <li>Custom profiles: beginner, expert, student, researcher</li>
+</ul>
+
+<p><strong>Deliverables:</strong></p>
+
+<ul>
+  <li>Secure remote installation and integration</li>
+  <li>Application executable with complete dependencies</li>
+  <li>Comprehensive documentation and ongoing support</li>
+</ul>
+
+<p><strong>Annual Contribution:</strong> $3,500 (excl. VAT)</p>
+
+<h2 id="corporag-your-document-based-knowledge-assistant">CorpoRag: Your Document-Based Knowledge Assistant</h2>
+
+<p><strong>CorpoRag</strong> offers an intelligent solution for directly querying your own document repository. Simply upload your files—PDFs, Word documents, Excel sheets, CSV, or TXT—and let the assistant index and generate answers directly sourced from your documentation. <a href="https://kaptan-data.streamlit.app/private_gpt">More details here</a></p>
+
+<p><strong>Key Benefits:</strong></p>
+
+<ul>
+  <li>Instant answers referencing original document sources</li>
+  <li>Simplified information retrieval</li>
+  <li>Optimized confidentiality and data management</li>
+</ul>
+
+<p><strong>Deliverables:</strong></p>
+
+<ul>
+  <li>Installation via secure remote connection</li>
+  <li>Customizable user profiles and detailed documentation</li>
+  <li>Continuous support and annual updates</li>
+</ul>
+
+<p><strong>Annual Contribution:</strong> $3,500 (excl. VAT)</p>
+
+<h2 id="statistical-process-control-spc-precision-in-quality-control">Statistical Process Control (SPC): Precision in Quality Control</h2>
+
+<p>Our <strong>Web SPC Application</strong> empowers professionals across healthcare, manufacturing, and research to effortlessly perform detailed statistical process control. Upload your data, choose your preferred SPC charts (X-bar, R-bar, EWMA), and generate professional reports in minutes. <a href="https://kaptan-data.streamlit.app/Web_SPC">More details here</a></p>
+
+<p><strong>Advantages:</strong></p>
+
+<ul>
+  <li>Intuitive, user-friendly interface</li>
+  <li>Automated data integration from your systems</li>
+  <li>Customizable professional PDF reports</li>
+</ul>
+
+<p><strong>Deliverables:</strong></p>
+
+<ul>
+  <li>Complete application installation and system integration</li>
+  <li>Customizable templates and detailed user manuals</li>
+  <li>Annual license with personalized onboarding</li>
+</ul>
+
+<p><strong>Annual Contribution:</strong> $2,500 (excl. VAT)</p>
+
+<h2 id="advanced-solutions-for-medical-physics">Advanced Solutions for Medical Physics</h2>
+
+<h3 id="picket-fence-analyzer">Picket Fence Analyzer</h3>
+
+<p>Efficient, automated MLC quality checks. <a href="https://kaptan-data.streamlit.app/Picketfence_analyse">More details here</a></p>
+
+<p><strong>Annual Contribution:</strong> $1,500 (excl. VAT)</p>
+
+<h3 id="starshot-analyzer">StarShot Analyzer</h3>
+
+<p>Automated alignment validation and comprehensive reporting. <a href="https://kaptan-data.streamlit.app/Starshot">More details here</a></p>
+
+<p><strong>Annual Contribution:</strong> $1,500 (excl. VAT)</p>
+
+<h3 id="winston-lutz-2d-and-3d-analyzers">Winston-Lutz (2D and 3D) Analyzers</h3>
+
+<p>Precision verification tools for radiotherapy isocenter alignment. <a href="https://kaptan-data.streamlit.app/winston-lutz_2d">More details here</a></p>
+
+<p><strong>Annual Contribution (per application):</strong> $1,500 (excl. VAT)</p>
+
+<h3 id="image-test-generator-dicom">Image Test Generator (DICOM)</h3>
+
+<p>Create synthetic, customizable medical imaging scenarios. <a href="https://kaptan-data.streamlit.app/image_generator">More details here</a></p>
+
+<p><strong>Annual Contribution:</strong> $1,500 (excl. VAT)</p>
+
+<h2 id="kds-exclusive-pack-comprehensive-ai-access">KDS Exclusive Pack: Comprehensive AI Access</h2>
+
+<p>Gain complete, privileged access to our entire suite of AI-driven applications, customized training sessions, expert consulting, and exclusive future offers. <a href="https://kaptan-data.streamlit.app/pricing">More details here</a></p>
+
+<p><strong>Benefits:</strong></p>
+
+<ul>
+  <li>Personalized installation and tailored training</li>
+  <li>Priority access to future applications at reduced rates</li>
+  <li>Ongoing comprehensive support and updates</li>
+</ul>
+
+<p><strong>Contact us</strong> for exclusive pricing.</p>
+
+<h2 id="expert-python-web-training--consulting">Expert Python Web Training &amp; Consulting</h2>
+
+<p>Enhance your team’s capabilities with customized training in Python-based web application development and quality management (SPC and ML). <a href="https://kaptan-data.streamlit.app/about_me">More details here</a></p>
+
+<p><strong>Offer Includes:</strong></p>
+
+<ul>
+  <li>Tailored training and practical guidance</li>
+  <li>Flexible professional consulting adapted to your project</li>
+</ul>
+
+<p><strong>Contact us</strong> for personalized pricing.</p>
+
+<hr />
+
+<p>Unlock the full potential of AI securely within your enterprise. Contact us today to start your journey toward smarter, safer, and more efficient operations!</p>
+
+<p><em>[Kaptan Data Solutions – Your Trusted Partner in AI Innovation Without Compromise]</em></p>
+
+<p><a href="https://kaptandatasolutions.github.io/pricing/">More details here</a></p>
+
+
+      </div>
+
+      
+        <div class="blog-tags">
+          <span>Tags:</span>
+          
+            <a href="/tags#KDS">KDS</a>
+          
+            <a href="/tags#Kaptan Data Solutions">Kaptan Data Solutions</a>
+          
+            <a href="/tags#Pricing">Pricing</a>
+          
+        </div>
+      
+
+      
+
+      
+        <!-- Check if any share-links are active -->
+
+
+
+
+<section id = "social-share-section">
+  <span class="sr-only">Share: </span>
+
+  
+    <a href="https://twitter.com/intent/tweet?text=Harness+the+Power+of+AI+Without+Internet+Access&url=http%3A%2F%2Flocalhost%3A4000%2F2025-04-20-harness_the_power_of_ai%2F"
+      class="btn btn-social-icon btn-twitter" title="Share on X (Twitter)">
+      <span class="fab fa-fw fa-x-twitter" aria-hidden="true"></span>
+      <span class="sr-only">X (Twitter)</span>
+    </a>
+  
+
+  
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2F2025-04-20-harness_the_power_of_ai%2F"
+      class="btn btn-social-icon btn-facebook" title="Share on Facebook">
+      <span class="fab fa-fw fa-facebook" aria-hidden="true"></span>
+      <span class="sr-only">Facebook</span>
+    </a>
+  
+
+  
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2F2025-04-20-harness_the_power_of_ai%2F"
+      class="btn btn-social-icon btn-linkedin" title="Share on LinkedIn">
+      <span class="fab fa-fw fa-linkedin" aria-hidden="true"></span>
+      <span class="sr-only">LinkedIn</span>
+    </a>
+  
+
+  
+
+  
+
+</section>
+
+
+
+      
+
+      <ul class="pagination blog-pager">
+        
+        <li class="page-item previous">
+          <a class="page-link" href="/2025-04-14-A2A-protocol/" data-toggle="tooltip" data-placement="top" title="Podcast - Agent2Agent (A2A) Protocol for Enhanced AI Agent Collaboration">
+            <i class="fas fa-arrow-left" alt="Previous Post"></i>
+            <span class="d-none d-sm-inline-block">Previous Post</span>
+          </a>
+        </li>
+        
+        
+        <li class="page-item next">
+          <a class="page-link" href="/2025-04-22-KAP-TEN-LAST-TECH-NEWS/" data-toggle="tooltip" data-placement="top" title="KAP10 Weekly Update - Top 10 Tech Developments Shaping Digital Sovereignty and AI Advancements">
+            <span class="d-none d-sm-inline-block">Next Post</span>
+            <i class="fas fa-arrow-right" alt="Next Post"></i>
+          </a>
+        </li>
+        
+      </ul>
+
+      
+        <div class="comments-section">
+          <h2>Comments</h2>
+          <!-- Commentbox.io integration with delayed loading -->
+<div class="commentbox"></div>
+
+<script>
+  // Attendre que la page soit complètement chargée, y compris tous les autres scripts
+  window.addEventListener('load', function() {
+    // Attendre un peu plus pour s'assurer que Auth0 et autres scripts sont bien initialisés
+    setTimeout(function() {
+      // Charger dynamiquement le script Commentbox
+      var script = document.createElement('script');
+      script.src = 'https://unpkg.com/commentbox.io/dist/commentBox.min.js';
+      script.onload = function() {
+        console.log("Commentbox script loaded, initializing...");
+        try {
+          commentBox('5721091683123200-proj', {
+            className: 'commentbox',
+            defaultBoxId: window.location.pathname
+          });
+          console.log("Commentbox initialized successfully");
+        } catch(e) {
+          console.error("Failed to initialize Commentbox:", e);
+        }
+      };
+      document.body.appendChild(script);
+    }, 1500); // Délai de 1.5 seconde après chargement complet
+  });
+</script>
+        </div>
+      
+    </div>
+  </div>
+</main>
+
+  <footer>
+  <div class="container-md beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      
+<ul class="list-inline text-center footer-links"><li class="list-inline-item">
+    <a href="https://kaptandatasolutions.github.io/contact/" title="Contact Us">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Contact Us</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="/feed.xml" title="RSS">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">RSS</span>
+    </a>
+  </li><li class="list-inline-item">
+    <a href="https://www.facebook.com/KaptanDataSolutions" title="Facebook">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Facebook</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://github.com/kaptandatasolutions" title="GitHub">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">GitHub</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://twitter.com/KaptanData" title="X (Twitter)">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-x-twitter fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">X (Twitter)</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://patreon.com/KaptanData" title="Patreon">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-patreon fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Patreon</span>
+    </a>
+  </li><li class="list-inline-item">
+    <a href="https://www.youtube.com/@KaptanDataSolutions" title="YouTube">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-youtube fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">YouTube</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://wa.me/33677264831" title="Whatsapp">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-whatsapp fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Whatsapp</span>
+    </a>
+  </li><li class="list-inline-item">
+    <a href="https://linkedin.com/in/https://www.linkedin.com/company/kaptan-data-solutions/posts?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed_hashtag%3B83seogqHTz%2BysDSPiajmGA%3D%3D" title="LinkedIn">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">LinkedIn</span>
+   </a>
+  </li></ul>
+
+
+      
+      <p class="copyright text-muted">
+      
+        Kaptan Data Solutions
+        &nbsp;&bull;&nbsp;
+      
+      2025
+
+      
+        &nbsp;&bull;&nbsp;
+        <span class="author-site">
+          <a href="http://localhost:4000/">KDS</a>
+        </span>
+      
+
+      
+
+      
+
+      </p>
+      <p class="theme-by text-muted">
+        Powered by
+        <a href="https://kaptan-data.streamlit.app/KaptanDataSolutions">KDS</a>
+      </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  
+  
+    
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+
+  
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/assets/js/beautifuljekyll.js"></script>
+    
+  
+
+
+
+
+
+
+
+
+
+  <!-- Icône animé Contact, fixe en bas‑gauche -->
+<a href="/contact/"
+   class="contact-floating"
+   title="Contact">
+  <svg xmlns="http://www.w3.org/2000/svg"
+       width="40" height="40" viewBox="0 0 24 24"
+       fill="none" stroke="currentColor"
+       stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
+    <circle class="chat-dot" cx="8"  cy="10" r="0.6"/>
+    <circle class="chat-dot" cx="12" cy="10" r="0.6"/>
+    <circle class="chat-dot" cx="16" cy="10" r="0.6"/>
+  </svg>
+</a>
+
+
+
+</body>
+
+
+
+</html>
