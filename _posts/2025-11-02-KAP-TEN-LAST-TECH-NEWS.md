@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
@@ -20,6 +19,8 @@ The age-old debate about regulating social media platforms has resurfaced with r
 
 ## 2. Elon Musk's Grokipedia Takes on Wikipedia with AI-Generated Content
 
+[![](/assets/img/Grokipedia.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
+
 In a move that's sure to stir controversy, a well-known tech entrepreneur has launched Grokipedia, an online encyclopedia designed as an antithesis to Wikipedia. The entrepreneur, known for his outspoken views, believes Wikipedia has become "too woke." Grokipedia’s unique selling proposition is that its articles are entirely written by artificial intelligence, specifically the AI from the entrepreneur's own company. While starting with a comparatively smaller 900,000 articles, the goal is to rapidly expand. The content, as expected, reflects a conservative viewpoint, often presenting a highly favorable narrative of its creator while omitting less flattering episodes. This launch underscores a growing understanding that online platforms, whether social media, AI, or encyclopedias, are not neutral and serve as powerful tools of influence and narrative control. It also raises questions about the future of factual information and the potential for AI to shape public perception based on predetermined ideological frameworks.
 
 ## 3. Doctolib Integrates AI for Patient Assistance in France
@@ -35,6 +36,8 @@ A major tech giant has been ordered to pay a colossal sum of 48 million euros in
 A significant data breach has come to light, exposing over 180 million email accounts. A cybersecurity website, which allows users to check if their personal data has been compromised, revealed the discovery of a massive file containing these stolen addresses. The data was exfiltrated by "info stealers"—malware secretly installed on users' computers that can siphon off information like email addresses and passwords, and even the type of email service used (Gmail, Outlook, etc.). This makes it potentially easy for attackers to gain access to user emails. Individuals are urged to visit the aforementioned cybersecurity website to check if their accounts are affected by entering their email address or password (separately, of course). The incident underscores the critical importance of strong, unique passwords for every online service, as attackers often exploit password reuse to gain access to multiple accounts, turning one compromised service into a gateway to a user's entire digital life.
 
 ## 6. Google's Quantum Eco Signals New Era in Quantum Computing
+
+[![](/assets/img/Quantum_google.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
 
 Google has once again pushed the boundaries of quantum computing with the announcement of "Quantum Eco," a verifiable and reproducible algorithm running on their new Willow quantum chip. This algorithm is reported to be astonishingly fast, outperforming traditional supercomputers by 13,000 times on specific tasks. The key breakthrough lies in its verifiability, moving quantum experiments from theoretical laboratory settings to practical, reliable scientific tools. One immediate practical application is in Nuclear Magnetic Resonance (NMR), where Quantum Eco has demonstrated superior precision in analyzing molecular structures compared to classical methods. This has profound implications for drug discovery and materials science, offering a "quantum magnifying glass" for atomic-level insights. This marks a significant step towards real-world quantum applications, potentially even boosting classical AI by providing highly precise molecular data. The next goal for Google is to create a stable, error-correcting logical qubit, essential for expanding quantum computing's capabilities.
 
@@ -125,4 +128,3 @@ A surprising and somewhat concerning phenomenon has emerged with AI chatbots lik
     </div>
 </body>
 </html>
-```
