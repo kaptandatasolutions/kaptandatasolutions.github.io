@@ -15,6 +15,12 @@ title: home
 # Your name to show in the footer
 author: Kaptan Data Solutions
 
+# URL of your website
+url: "https://kaptan-data-solutions.app"
+
+# Base URL of your website (leave empty for root domain)
+baseurl: ""
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
