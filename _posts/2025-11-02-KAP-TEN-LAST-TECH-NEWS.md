@@ -9,7 +9,7 @@ tags: [Tech News, AI, Social Media, Google, Microsoft, Meta, Elon Musk, Doctolib
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
-# Top 10 !
+# Top 10 !!
 
 This week has certainly kept us on our toes in the tech world. From unprecedented AI investments to controversial social media launches and glimpses into our robotic future, there's a lot to dissect. Let's dive into the top 10 headlines that shaped our digital landscape this week.
 
