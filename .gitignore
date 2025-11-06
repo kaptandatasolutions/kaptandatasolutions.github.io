@@ -2,6 +2,7 @@
 
 .sass-cache
 .vagrant
+.claude
 
 # general
 _site
