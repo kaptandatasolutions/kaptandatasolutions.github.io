@@ -2,7 +2,7 @@
 layout: post
 title:  Precision in Radiotherapy - Sculpting Invisible Beams for Life
 subtitle: How AI and the Picket Fence Test Ensure Millimeter-Perfect Cancer Treatment
-cover-img: /assets/img/radiotherapy_precision_sculpting_invisible_beams_cover.png
+cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/radiotherapy_precision_sculpting_invisible_beams.png
 share-img: /assets/img/radiotherapy_precision_sculpting_invisible_beams.png
 tags: [Radiotherapy, Medical Physics, Quality Assurance, Picket Fence Test, AI in Healthcare, Cancer Treatment, Multileaf Collimator, MLC, Precision Medicine]
