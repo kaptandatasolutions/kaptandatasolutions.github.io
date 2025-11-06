@@ -61,6 +61,34 @@ All this analysis culminates in a crucial document: the machine's final report c
 
 This PDF report serves a dual purpose: it's the official document for regulatory authorities, proving compliance, and perhaps more importantly, it instills confidence in the entire medical team, assuring them that they can treat patients with complete safety.
 
+### 🚀 Experience This Technology in Action
+
+**Want to see how this AI-powered quality assurance system works in real-time?**
+
+We've made our **Picket Fence Analyzer** available as an interactive demo that you can test right now, no installation required:
+
+**[👉 Try the Picket Fence Analyzer Demo](https://kaptan-data.streamlit.app/Picketfence_analyse)**
+
+Upload your own picket fence test images and see how the AI:
+- Instantly analyzes your MLC blade positions
+- Generates compliance reports in seconds
+- Provides actionable recommendations
+- Detects patterns and potential issues
+
+### Automated Routine Integration for Your Radiotherapy Center
+
+Beyond this demo, this technology is designed for **seamless integration into your daily QA workflow**. Imagine:
+
+- **Fully automated daily checks**: Images are automatically acquired, analyzed, and reported without manual intervention
+- **Integration with your existing systems**: Compatible with most EPID systems and treatment planning software
+- **Real-time alerts**: Immediate notification when tolerance levels are exceeded
+- **Historical trending**: Track your machine's performance over weeks, months, and years
+- **Regulatory-ready documentation**: Automatic generation of audit trails and compliance reports
+
+Many radiotherapy centers have already implemented this solution as part of their **routine automated QA protocol**, freeing medical physicists from tedious manual checks and allowing them to focus on what truly matters: patient care and treatment planning.
+
+**Ready to automate your QA workflow?** The technology is proven, the integration is straightforward, and the benefits are immediate.
+
 ### The Future of Medical Machine Surveillance
 
 The increasing complexity of medical machines raises a fascinating question for the future: will AI become a mandatory co-pilot for all critical medical equipment? Can we envision a future where every essential medical device is legally required to have its own AI surveillance system to guarantee safety? This question remains open, but the ongoing advancements in AI suggest a powerful role in ensuring patient safety and treatment efficacy in medical physics.
