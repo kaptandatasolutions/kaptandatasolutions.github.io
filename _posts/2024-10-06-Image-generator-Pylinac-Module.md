@@ -63,9 +63,9 @@ In addition to generating the image, the tool also allows you to embed specific 
 ### 6. Export and Download Your Results
 Once satisfied with the configuration, you can export the generated images in various formats, including **DICOM**. These files can be downloaded for later use, making it easy to revisit or share results with colleagues for further analysis.
 
-**[[See the demo on our website]](https://kaptan-data.streamlit.app/image_generator)** 
+**[[See the demo on our website]](https://kaptan-data-solutions.app/image_generator)** 
 
-[![png](/assets/img/image_gen.png)](https://kaptan-data.streamlit.app/image_generator)
+[![png](/assets/img/image_gen.png)](https://kaptan-data-solutions.app/image_generator)
 
 ---
 
@@ -116,7 +116,7 @@ Once satisfied with the configuration, you can export the generated images in va
 
     <p>
       <a href="https://kaptandatasolutions.github.io/">🌐 Explore all our medical-physics services and tech updates</a><br>
-      <a href="https://kaptan-data.streamlit.app/">💻 Test our ready-to-use QA dashboards online</a>
+      <a href="https://kaptan-data-solutions.app/">💻 Test our ready-to-use QA dashboards online</a>
     </p>
 
     <p><strong>Our expertise covers:</strong></p>

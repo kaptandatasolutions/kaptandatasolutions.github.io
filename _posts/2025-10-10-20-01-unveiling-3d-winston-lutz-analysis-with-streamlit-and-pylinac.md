@@ -19,7 +19,7 @@ This demonstration stems from a client's request to compare our analytical tools
 
 To begin, navigate to our showcase website. Here, you'll find a wealth of information, including blog articles, tech news, and details about our services. Look for the "Streamlit Demo" button, typically located in the top right corner. Clicking this will redirect you to our dedicated Streamlit web application platform, hosting various interactive demos.
 
-**Access the Application:** Go to [kaptan-data.streamlit.app/winston-lutz_3d](https://kaptan-data.streamlit.app/winston-lutz_3d)
+**Access the Application:** Go to [kaptan-data-solutions.app/winston-lutz_3d](https://kaptan-data-solutions.app/winston-lutz_3d)
 
 These demos, while presented manually for demonstration purposes, highlight the potential for full automation. Imagine a workflow where your DICOM images are automatically retrieved from a designated folder, analyzed, and a detailed report is generated and emailed or stored securely. This level of automation is achievable with Python and orchestration tools.
 
@@ -109,7 +109,7 @@ This walk-through demonstrates the power and simplicity of using Streamlit appli
 
     <p>
       <a href="https://kaptandatasolutions.github.io/">🌐 Explore all our medical-physics services and tech updates</a><br>
-      <a href="https://kaptan-data.streamlit.app/">💻 Test our ready-to-use QA dashboards online</a>
+      <a href="https://kaptan-data-solutions.app/">💻 Test our ready-to-use QA dashboards online</a>
     </p>
 
     <p><strong>Our expertise covers:</strong></p>

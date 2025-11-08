@@ -13,11 +13,11 @@ author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Autom
 
 In today's competitive environment, ensuring data security, efficiency, and compliance is paramount. At [Your Company Name], we specialize in delivering advanced Artificial Intelligence (AI) solutions specifically designed to operate entirely offline, fully integrated within your existing IT infrastructure. Discover our tailored, secure, and efficient AI solutions—crafted to boost your productivity without ever compromising on confidentiality. [More details here](https://kaptandatasolutions.github.io/pricing/)
 
-Note: The site that hosts the portfolio [portfolio](https://kaptan-data.streamlit.app/) is sometimes in ‘ibernation’ mode because there are few visitors when you arrive. Click on the button to wake up the site. Don't worry, the site works fine! 
+Note: The site that hosts the portfolio [portfolio](https://kaptan-data-solutions.app/) is sometimes in ‘ibernation’ mode because there are few visitors when you arrive. Click on the button to wake up the site. Don't worry, the site works fine! 
 
 ## Customizable Virtual Assistant: Instant Responses, Unlimited Potential
 
-Our **Virtual Assistant** solution leverages sophisticated artificial intelligence to rapidly query internal or external databases, providing precise, educational, and context-specific responses. Fully customizable to your industry—be it regulatory compliance, technical protocols, equipment management, or statistical analysis—this assistant evolves continually to meet your team's changing needs. [More details here](https://kaptan-data.streamlit.app/chatbot)
+Our **Virtual Assistant** solution leverages sophisticated artificial intelligence to rapidly query internal or external databases, providing precise, educational, and context-specific responses. Fully customizable to your industry—be it regulatory compliance, technical protocols, equipment management, or statistical analysis—this assistant evolves continually to meet your team's changing needs. [More details here](https://kaptan-data-solutions.app/chatbot)
 
 **Key Features:**
 
@@ -35,7 +35,7 @@ Our **Virtual Assistant** solution leverages sophisticated artificial intelligen
 
 ## CorpoRag: Your Document-Based Knowledge Assistant
 
-**CorpoRag** offers an intelligent solution for directly querying your own document repository. Simply upload your files—PDFs, Word documents, Excel sheets, CSV, or TXT—and let the assistant index and generate answers directly sourced from your documentation. [More details here](https://kaptan-data.streamlit.app/private_gpt)
+**CorpoRag** offers an intelligent solution for directly querying your own document repository. Simply upload your files—PDFs, Word documents, Excel sheets, CSV, or TXT—and let the assistant index and generate answers directly sourced from your documentation. [More details here](https://kaptan-data-solutions.app/private_gpt)
 
 **Key Benefits:**
 
@@ -53,7 +53,7 @@ Our **Virtual Assistant** solution leverages sophisticated artificial intelligen
 
 ## Statistical Process Control (SPC): Precision in Quality Control
 
-Our **Web SPC Application** empowers professionals across healthcare, manufacturing, and research to effortlessly perform detailed statistical process control. Upload your data, choose your preferred SPC charts (X-bar, R-bar, EWMA), and generate professional reports in minutes. [More details here](https://kaptan-data.streamlit.app/Web_SPC)
+Our **Web SPC Application** empowers professionals across healthcare, manufacturing, and research to effortlessly perform detailed statistical process control. Upload your data, choose your preferred SPC charts (X-bar, R-bar, EWMA), and generate professional reports in minutes. [More details here](https://kaptan-data-solutions.app/Web_SPC)
 
 **Advantages:**
 
@@ -73,31 +73,31 @@ Our **Web SPC Application** empowers professionals across healthcare, manufactur
 
 ### Picket Fence Analyzer
 
-Efficient, automated MLC quality checks. [More details here](https://kaptan-data.streamlit.app/Picketfence_analyse)
+Efficient, automated MLC quality checks. [More details here](https://kaptan-data-solutions.app/Picketfence_analyse)
 
 **Annual Contribution:** $1,500 (excl. VAT)
 
 ### StarShot Analyzer
 
-Automated alignment validation and comprehensive reporting. [More details here](https://kaptan-data.streamlit.app/Starshot)
+Automated alignment validation and comprehensive reporting. [More details here](https://kaptan-data-solutions.app/Starshot)
 
 **Annual Contribution:** $1,500 (excl. VAT)
 
 ### Winston-Lutz (2D and 3D) Analyzers
 
-Precision verification tools for radiotherapy isocenter alignment. [More details here](https://kaptan-data.streamlit.app/winston-lutz_2d)
+Precision verification tools for radiotherapy isocenter alignment. [More details here](https://kaptan-data-solutions.app/winston-lutz_2d)
 
 **Annual Contribution (per application):** $1,500 (excl. VAT)
 
 ### Image Test Generator (DICOM)
 
-Create synthetic, customizable medical imaging scenarios. [More details here](https://kaptan-data.streamlit.app/image_generator)
+Create synthetic, customizable medical imaging scenarios. [More details here](https://kaptan-data-solutions.app/image_generator)
 
 **Annual Contribution:** $1,500 (excl. VAT)
 
 ## KDS Exclusive Pack: Comprehensive AI Access
 
-Gain complete, privileged access to our entire suite of AI-driven applications, customized training sessions, expert consulting, and exclusive future offers. [More details here](https://kaptan-data.streamlit.app/pricing)
+Gain complete, privileged access to our entire suite of AI-driven applications, customized training sessions, expert consulting, and exclusive future offers. [More details here](https://kaptan-data-solutions.app/pricing)
 
 **Benefits:**
 
@@ -109,7 +109,7 @@ Gain complete, privileged access to our entire suite of AI-driven applications, 
 
 ## Expert Python Web Training & Consulting
 
-Enhance your team's capabilities with customized training in Python-based web application development and quality management (SPC and ML). [More details here](https://kaptan-data.streamlit.app/about_me)
+Enhance your team's capabilities with customized training in Python-based web application development and quality management (SPC and ML). [More details here](https://kaptan-data-solutions.app/about_me)
 
 **Offer Includes:**
 
@@ -165,7 +165,7 @@ Enhance your team's capabilities with customized training in Python-based web ap
 
     <p>
       <a href="https://kaptandatasolutions.github.io/">🌐 Explore all our medical-physics services and tech updates</a><br>
-      <a href="https://kaptan-data.streamlit.app/">💻 Test our ready-to-use QA dashboards online</a>
+      <a href="https://kaptan-data-solutions.app/">💻 Test our ready-to-use QA dashboards online</a>
     </p>
 
     <p><strong>Our expertise covers:</strong></p>

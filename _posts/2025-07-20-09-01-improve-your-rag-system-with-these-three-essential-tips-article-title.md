@@ -128,7 +128,7 @@ Building an effective RAG system goes beyond basic setup. By implementing these 
 
     <p>
       <a href="https://kaptandatasolutions.github.io/">🌐 Explore all our medical-physics services and tech updates</a><br>
-      <a href="https://kaptan-data.streamlit.app/">💻 Test our ready-to-use QA dashboards online</a>
+      <a href="https://kaptan-data-solutions.app/">💻 Test our ready-to-use QA dashboards online</a>
     </p>
 
     <p><strong>Our expertise covers:</strong></p>

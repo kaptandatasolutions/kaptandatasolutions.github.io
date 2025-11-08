@@ -9,7 +9,7 @@ tags: [Medical Physics, CBCT, Quality Assurance, AI, Data Analysis, Phantom, Reg
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
-[![](/assets/img/cbct_analyzer_demo_presentation.png)](https://kaptan-data.streamlit.app/CBCT_analysis)
+[![](/assets/img/cbct_analyzer_demo_presentation.png)](https://kaptan-data-solutions.app/CBCT_analysis)
 
 In the dynamic field of medical physics, ensuring the precision and reliability of imaging equipment is crucial. Computed Tomography (CBCT) systems, particularly, require rigorous quality assurance (QA) to guarantee optimal patient care and diagnostic accuracy. We are excited to introduce our latest innovation, the CBCT Analyzer, a powerful web-based tool designed to streamline CBCT QA processes, now enhanced with an intelligent AI component.
 
@@ -17,7 +17,7 @@ This article provides a detailed walkthrough of the CBCT Analyzer, demonstrating
 
 ## Understanding the CBCT Analyzer
 
-The CBCT Analyzer is accessible through our dedicated demo platform, [kaptan-data.streamlit.app/CBCT_analysis](https://kaptan-data.streamlit.app/CBCT_analysis). Upon navigating to the CBCT Analyzer application, users are greeted with an intuitive interface designed for ease of use.
+The CBCT Analyzer is accessible through our dedicated demo platform, [kaptan-data-solutions.app/CBCT_analysis](https://kaptan-data-solutions.app/CBCT_analysis). Upon navigating to the CBCT Analyzer application, users are greeted with an intuitive interface designed for ease of use.
 
 ### Step-by-Step Guide to Using the CBCT Analyzer
 
@@ -25,7 +25,7 @@ The CBCT Analyzer is accessible through our dedicated demo platform, [kaptan-dat
 
 Our applications are designed with user convenience in mind, and the CBCT Analyzer follows a similar three-tab structure for core functionality.
 
-1.  **Access the Application:** Go to [kaptan-data.streamlit.app/CBCT_analysis](https://kaptan-data.streamlit.app/CBCT_analysis) and select the "CBCT Analyzer" application. You can hide the sidebar for a clearer view.
+1.  **Access the Application:** Go to [kaptan-data-solutions.app/CBCT_analysis](https://kaptan-data-solutions.app/CBCT_analysis) and select the "CBCT Analyzer" application. You can hide the sidebar for a clearer view.
 2.  **Download Sample Data:** For demonstration purposes, we provide a dataset for a 4-phantom 504 CBCT model. Simply click to download this dataset.
 3.  **Upload Your Data:** Once downloaded, locate the file on your computer, and the application will automatically load it. The first tab is dedicated to data import, where you can upload your CBCT images.
 4.  **Explore DICOM Info:** Within the import tab, an "Info DICOM" section allows you to explore all metadata associated with your images, providing valuable insights into the acquisition parameters.
@@ -110,7 +110,7 @@ The CBCT Analyzer is more than just a tool; it's a comprehensive solution for me
 
     <p>
       <a href="https://kaptandatasolutions.github.io/">🌐 Explore all our medical-physics services and tech updates</a><br>
-      <a href="https://kaptan-data.streamlit.app/">💻 Test our ready-to-use QA dashboards online</a>
+      <a href="https://kaptan-data-solutions.app/">💻 Test our ready-to-use QA dashboards online</a>
     </p>
 
     <p><strong>Our expertise covers:</strong></p>

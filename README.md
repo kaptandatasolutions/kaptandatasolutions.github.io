@@ -34,7 +34,7 @@ So, if you're ready to embark on a data-driven adventure, join us. Together, we 
 
 **[[Contact us]](kaptandatasolutions@gmail.com)** 
 
-**[[visit our website solutions portfolio]](https://kaptan-data.streamlit.app/)**
+**[[visit our website solutions portfolio]](https://kaptan-data-solutions.app/)**
 
 ## Internationalization
 

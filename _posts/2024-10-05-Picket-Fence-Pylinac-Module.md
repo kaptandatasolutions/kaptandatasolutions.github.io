@@ -16,7 +16,7 @@ At **Kaptan Data Solutions**, we are revolutionizing how medical physicists anal
 
 What's more, we integrate the power of **PYLINAC**, a renowned Python library specifically designed for quality assurance in medical physics. By leveraging the **PicketFence** module of PYLINAC, we've extracted the very **nectar** of its capabilities to provide you with seamless automation. The **pf.analyze()** function, the backbone of our tool, ensures precise and reliable test results with minimal input. You can explore the full potential of this function in the official [PicketFence documentation](https://pylinac.readthedocs.io/en/latest/picketfence.html#).
 
-Curious to see it in action? [**Try the online demo here**](https://kaptan-data.streamlit.app/Picketfence_analyse).
+Curious to see it in action? [**Try the online demo here**](https://kaptan-data-solutions.app/Picketfence_analyse).
 
 ![png](/assets/img/blog_image_pf_pylinac_kds-1.png)
 
@@ -43,14 +43,14 @@ Beyond the analysis, we know how essential it is to document and share results. 
 
 ### Why Try Our Tool?
 
-With **Kaptan Data Solutions**, you benefit from deep expertise in integrating Python modules into medical physics solutions. Our technology is designed for quick deployment within your internal systems, making each analysis as simple as it is effective. And if you're not convinced yet, [**come try our online demo**](https://kaptan-data.streamlit.app/Picketfence_analyse)! It’s free, intuitive, and gives you a direct look at how this tool can improve your workflow.
+With **Kaptan Data Solutions**, you benefit from deep expertise in integrating Python modules into medical physics solutions. Our technology is designed for quick deployment within your internal systems, making each analysis as simple as it is effective. And if you're not convinced yet, [**come try our online demo**](https://kaptan-data-solutions.app/Picketfence_analyse)! It’s free, intuitive, and gives you a direct look at how this tool can improve your workflow.
 
-Explore the future of DICOM analysis today with our [**automated analysis tool**](https://kaptan-data.streamlit.app/Picketfence_analyse)!
+Explore the future of DICOM analysis today with our [**automated analysis tool**](https://kaptan-data-solutions.app/Picketfence_analyse)!
 
 
-**[[See the demo on our website]](https://kaptan-data.streamlit.app/Picketfence_analyse)** 
+**[[See the demo on our website]](https://kaptan-data-solutions.app/Picketfence_analyse)** 
 
-[![png](/assets/img/p-f-page.png)](https://kaptan-data.streamlit.app/Picketfence_analyse)
+[![png](/assets/img/p-f-page.png)](https://kaptan-data-solutions.app/Picketfence_analyse)
 
 ### Unlimited Possibilities
 
@@ -105,7 +105,7 @@ The potential for this tool is limitless. Beyond just analyzing DICOM images, we
 
     <p>
       <a href="https://kaptandatasolutions.github.io/">🌐 Explore all our medical-physics services and tech updates</a><br>
-      <a href="https://kaptan-data.streamlit.app/">💻 Test our ready-to-use QA dashboards online</a>
+      <a href="https://kaptan-data-solutions.app/">💻 Test our ready-to-use QA dashboards online</a>
     </p>
 
     <p><strong>Our expertise covers:</strong></p>

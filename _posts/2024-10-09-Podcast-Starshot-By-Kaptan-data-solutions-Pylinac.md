@@ -196,9 +196,9 @@ And on that note, we'll wrap up this deep dive. Until next time, keep exploring,
 
 ---
 
-**[[See the demo on our website]](https://kaptan-data.streamlit.app/Starshot)** 
+**[[See the demo on our website]](https://kaptan-data-solutions.app/Starshot)** 
 
-[![png](/assets/img/gantry-star-share.png)](https://kaptan-data.streamlit.app/Starshot)
+[![png](/assets/img/gantry-star-share.png)](https://kaptan-data-solutions.app/Starshot)
 
 
 <html lang="fr">
@@ -247,7 +247,7 @@ And on that note, we'll wrap up this deep dive. Until next time, keep exploring,
 
     <p>
       <a href="https://kaptandatasolutions.github.io/">🌐 Explore all our medical-physics services and tech updates</a><br>
-      <a href="https://kaptan-data.streamlit.app/">💻 Test our ready-to-use QA dashboards online</a>
+      <a href="https://kaptan-data-solutions.app/">💻 Test our ready-to-use QA dashboards online</a>
     </p>
 
     <p><strong>Our expertise covers:</strong></p>

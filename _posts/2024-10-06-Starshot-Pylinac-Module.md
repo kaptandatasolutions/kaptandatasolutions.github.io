@@ -16,7 +16,7 @@ At **Kaptan Data Solutions**, we're pushing the boundaries of efficiency and pre
 
 Using the powerful `starshot.analyze()` function from PYLINAC [(documentation)](https://pylinac.readthedocs.io/en/latest/starshot_docs.html), our tool automatically detects radiation beam lines from images and evaluates isocenter accuracy with unparalleled precision.
 
-Curious to try it yourself? [**Experience the online demo**](https://kaptan-data.streamlit.app/Starshot).
+Curious to try it yourself? [**Experience the online demo**](https://kaptan-data-solutions.app/Starshot).
 
 ![Starshot analysis Overview](/assets/img/statshot_image.png)
 
@@ -64,7 +64,7 @@ Our vision extends far beyond Starshot analysis. We’re working towards develop
 
 With Kaptan Data Solutions, you’re not just getting a tool—you’re unlocking new possibilities in radiotherapy quality assurance. **Explore the future today** with our automated Starshot analysis tool!
 
-**[[Try the online demo]](https://kaptan-data.streamlit.app/Starshot)**
+**[[Try the online demo]](https://kaptan-data-solutions.app/Starshot)**
 
 
 ---
@@ -129,7 +129,7 @@ With Kaptan Data Solutions, you’re not just getting a tool—you’re unlockin
 
     <p>
       <a href="https://kaptandatasolutions.github.io/">🌐 Explore all our medical-physics services and tech updates</a><br>
-      <a href="https://kaptan-data.streamlit.app/">💻 Test our ready-to-use QA dashboards online</a>
+      <a href="https://kaptan-data-solutions.app/">💻 Test our ready-to-use QA dashboards online</a>
     </p>
 
     <p><strong>Our expertise covers:</strong></p>

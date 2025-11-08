@@ -75,9 +75,9 @@ the practical benefits, safety improvements, and innovative research potential, 
 
 To help you get started, we offer a demo version of our SPC solution on our portfolio website. Here, users can download sample datasets and explore the tool's features before full integration into your radiotherapy center. 
 
-**[[See the demo on our website]](https://kaptan-data.streamlit.app/spc_physique_medicale)** 
+**[[See the demo on our website]](https://kaptan-data-solutions.app/spc_physique_medicale)** 
 
-[![png](/assets/img/spc-logo.png)](https://kaptan-data.streamlit.app/spc_physique_medicale)
+[![png](/assets/img/spc-logo.png)](https://kaptan-data-solutions.app/spc_physique_medicale)
 
 ---
 ## 🎧 Tune Into Our Latest Podcast: Revolutionizing Quality Control in Radiotherapy 🎧
@@ -151,7 +151,7 @@ In radiotherapy, precision is everything. With **Kaptan Data Solutions**, we’v
 
     <p>
       <a href="https://kaptandatasolutions.github.io/">🌐 Explore all our medical-physics services and tech updates</a><br>
-      <a href="https://kaptan-data.streamlit.app/">💻 Test our ready-to-use QA dashboards online</a>
+      <a href="https://kaptan-data-solutions.app/">💻 Test our ready-to-use QA dashboards online</a>
     </p>
 
     <p><strong>Our expertise covers:</strong></p>

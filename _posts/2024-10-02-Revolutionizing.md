@@ -54,7 +54,7 @@ Our development process is iterative and collaborative. We work closely with our
 
 kaptandatasolutions@gmail.com
 
-**[[visit our website solutions portfolio]](https://kaptan-data.streamlit.app/)** 
+**[[visit our website solutions portfolio]](https://kaptan-data-solutions.app/)** 
 
 ---
 
@@ -105,7 +105,7 @@ kaptandatasolutions@gmail.com
 
     <p>
       <a href="https://kaptandatasolutions.github.io/">🌐 Explore all our medical-physics services and tech updates</a><br>
-      <a href="https://kaptan-data.streamlit.app/">💻 Test our ready-to-use QA dashboards online</a>
+      <a href="https://kaptan-data-solutions.app/">💻 Test our ready-to-use QA dashboards online</a>
     </p>
 
     <p><strong>Our expertise covers:</strong></p>

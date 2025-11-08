@@ -16,7 +16,7 @@ At **Kaptan Data Solutions**, we're dedicated to enhancing precision and efficie
 
 Whether you're analyzing a single EPID image in **2D** or handling multiple EPID images stored in a ZIP file for **3D Winston-Lutz analysis**, our tools take care of the heavy lifting. Built on the robust `WinstonLutz.analyze()` function from **PYLINAC**, they ensure precision while minimizing manual input.
 
-Curious to try them out? [**Experience the online demo for 2D analysis**](https://kaptan-data.streamlit.app/winston-lutz_2d) or [**Explore the 3D analysis demo**](https://kaptan-data.streamlit.app/winston-lutz_3d).
+Curious to try them out? [**Experience the online demo for 2D analysis**](https://kaptan-data-solutions.app/winston-lutz_2d) or [**Explore the 3D analysis demo**](https://kaptan-data-solutions.app/winston-lutz_3d).
 
 ![Winston-Lutz 3D Analysis Overview](/assets/img/isocenter_visualization 3D.png)
 
@@ -79,9 +79,9 @@ Our vision goes beyond automating single analyses. We aim to develop a **compreh
 
 Step into the next generation of medical image analysis with our **Winston-Lutz 2D & 3D tools**. Whether you’re running a quick check or a full 3D analysis, Kaptan Data Solutions delivers precision, automation, and flexibility—all in one place.
 
-**[[See the demo on our website]](https://kaptan-data.streamlit.app/winston-lutz_3d)** 
+**[[See the demo on our website]](https://kaptan-data-solutions.app/winston-lutz_3d)** 
 
-[![png](/assets/img/wl-image_3d.png)](https://kaptan-data.streamlit.app/winston-lutz_3d)
+[![png](/assets/img/wl-image_3d.png)](https://kaptan-data-solutions.app/winston-lutz_3d)
 
 
 <html lang="fr">
@@ -130,7 +130,7 @@ Step into the next generation of medical image analysis with our **Winston-Lutz 
 
     <p>
       <a href="https://kaptandatasolutions.github.io/">🌐 Explore all our medical-physics services and tech updates</a><br>
-      <a href="https://kaptan-data.streamlit.app/">💻 Test our ready-to-use QA dashboards online</a>
+      <a href="https://kaptan-data-solutions.app/">💻 Test our ready-to-use QA dashboards online</a>
     </p>
 
     <p><strong>Our expertise covers:</strong></p>

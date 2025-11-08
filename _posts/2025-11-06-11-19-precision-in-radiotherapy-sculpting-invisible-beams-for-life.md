@@ -67,7 +67,7 @@ This PDF report serves a dual purpose: it's the official document for regulatory
 
 We've made our **Picket Fence Analyzer** available as an interactive demo that you can test right now, no installation required:
 
-**[👉 Try the Picket Fence Analyzer Demo](https://kaptan-data.streamlit.app/Picketfence_analyse)**
+**[👉 Try the Picket Fence Analyzer Demo](https://kaptan-data-solutions.app/Picketfence_analyse)**
 
 Upload your own picket fence test images and see how the AI:
 - Instantly analyzes your MLC blade positions
@@ -140,7 +140,7 @@ The increasing complexity of medical machines raises a fascinating question for 
 
     <p>
       <a href="https://kaptandatasolutions.github.io/">🌐 Explore all our medical-physics services and tech updates</a><br>
-      <a href="https://kaptan-data.streamlit.app/">💻 Test our ready-to-use QA dashboards online</a>
+      <a href="https://kaptan-data-solutions.app/">💻 Test our ready-to-use QA dashboards online</a>
     </p>
 
     <p><strong>Our expertise covers:</strong></p>

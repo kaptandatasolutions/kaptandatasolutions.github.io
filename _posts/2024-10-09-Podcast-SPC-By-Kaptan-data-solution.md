@@ -134,9 +134,9 @@ Patient care. They can spend more time
 
 ---
 
-**[[See the demo on our website]](https://kaptan-data.streamlit.app/spc_physique_medicale)** 
+**[[See the demo on our website]](https://kaptan-data-solutions.app/spc_physique_medicale)** 
 
-[![png](/assets/img/spc-logo.png)](https://kaptan-data.streamlit.app/spc_physique_medicale)
+[![png](/assets/img/spc-logo.png)](https://kaptan-data-solutions.app/spc_physique_medicale)
 
 
 <html lang="fr">
@@ -185,7 +185,7 @@ Patient care. They can spend more time
 
     <p>
       <a href="https://kaptandatasolutions.github.io/">🌐 Explore all our medical-physics services and tech updates</a><br>
-      <a href="https://kaptan-data.streamlit.app/">💻 Test our ready-to-use QA dashboards online</a>
+      <a href="https://kaptan-data-solutions.app/">💻 Test our ready-to-use QA dashboards online</a>
     </p>
 
     <p><strong>Our expertise covers:</strong></p>
