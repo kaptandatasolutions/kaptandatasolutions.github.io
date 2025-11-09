@@ -175,7 +175,7 @@ Customized training and support for Python web application development and imple
 
 **Kaptan Data Solutions** 
 📍 10 rue de la Grand-Maison, 45200 Paucourt, FRANCE  
-📧 [kaptandatasolutions@gmail.com](https://kaptandatasolutions.github.io/contact/)  
+📧 [kcontact@kaptan-data-solutions.app](https://kaptandatasolutions.github.io/contact/)  
 🔗 [LinkedIn](https://www.linkedin.com/company/kaptan-data-solutions/) | [Portfolio](https://kaptan-data-solutions.app/)
 
 ---

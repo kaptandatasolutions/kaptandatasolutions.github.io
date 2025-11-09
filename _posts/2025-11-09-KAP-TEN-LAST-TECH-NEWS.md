@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
@@ -103,7 +102,7 @@ In other tech news, a crucial security update for Chrome users was highlighted. 
 
     <p>
       <a href="https://kaptandatasolutions.github.io/">🌐 Explore all our medical-physics services and tech updates</a><br>
-      <a href="https://kaptan-data.streamlit.app/">💻 Test our ready-to-use QA dashboards online</a>
+      <a href="https://kaptan-data-solutions.app/">💻 Test our ready-to-use QA dashboards online</a>
     </p>
 
     <p><strong>Our expertise covers:</strong></p>
@@ -127,4 +126,3 @@ In other tech news, a crucial security update for Chrome users was highlighted. 
     </div>
 </body>
 </html>
-```

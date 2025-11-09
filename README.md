@@ -32,7 +32,7 @@ So, if you're ready to embark on a data-driven adventure, join us. Together, we 
 
 
 
-**[[Contact us]](kaptandatasolutions@gmail.com)** 
+**[[Contact us]](https://kaptandatasolutions.github.io/contact/)** 
 
 **[[visit our website solutions portfolio]](https://kaptan-data-solutions.app/)**
 

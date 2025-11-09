@@ -52,7 +52,7 @@ Our development process is iterative and collaborative. We work closely with our
 
 **Ready to learn more?** Contact us today to schedule a demo.
 
-kaptandatasolutions@gmail.com
+contact@kaptan-data-solutions.app
 
 **[[visit our website solutions portfolio]](https://kaptan-data-solutions.app/)** 
 
