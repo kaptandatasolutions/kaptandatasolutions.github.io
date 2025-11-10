@@ -2,7 +2,7 @@
 layout: post
 title: The Comprehensive AI Technology Stack for 2026
 subtitle: A Deep Dive into Essential Tools for AI-Centric Software Development
-cover-img: /assets/img/comprehensive_ai_technology_stack_2026_cover.png
+cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/comprehensive_ai_technology_stack_2026.png
 share-img: /assets/img/comprehensive_ai_technology_stack_2026.png
 tags: [AI, Technology Stack, Software Development, LLM, Python, PostgreSQL, n8n, React, Docker]
