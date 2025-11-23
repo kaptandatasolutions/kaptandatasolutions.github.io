@@ -1,4 +1,3 @@
-```
 ---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
@@ -116,4 +115,3 @@ Looking back at the Consumer Electronics Show (CES) 2025 in Las Vegas, the event
     </div>
 </body>
 </html>
-```

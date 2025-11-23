@@ -2,7 +2,7 @@
 layout: post
 title: The Future of AI Coding Orchestration with GitHub
 subtitle: Integrating and managing multiple AI coding assistants for enhanced development workflows
-cover-img: /assets/img/github_ai_coding_workflow_future_cover.png
+cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/github_ai_coding_workflow_future.png
 share-img: /assets/img/github_ai_coding_workflow_future.png
 tags: [AI, GitHub, Coding, Automation, Developer Tools, CI/CD, LLM, Software Development]
