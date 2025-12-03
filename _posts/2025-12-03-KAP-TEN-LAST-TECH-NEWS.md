@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
@@ -9,7 +8,7 @@ share-img: /assets/img/kapt10-3.png
 tags: [AI, Robotics, Automotive, Health Tech, Cybersecurity, E-commerce, Europe Tech, China Tech, Automation, Digital Trends]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
-```
+
 # Top 10 Tech News of the Week
 
 This week in tech, we've seen a flurry of activity, from advanced robotics pushing boundaries in endurance, to AI celebrating milestones and expanding its capabilities into online shopping. Regulatory bodies are grappling with the rapid pace of innovation, while major tech players face new challenges. Here's a rundown of the top 10 developments that captured our attention.
