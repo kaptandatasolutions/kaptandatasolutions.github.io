@@ -2,7 +2,7 @@
 layout: post
 title: N8N vs Python for AI Agents  Navigating the No-Code vs Code Dilemma
 subtitle: A comprehensive guide to choosing the right tool for your AI agent development
-cover-img: /assets/img/n8n_vs_python_ai_agents_comparison_cover.png
+cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/n8n_vs/python_ai_agents_comparison.png
 share-img: /assets/img/n8n_vs_python_ai_agents_comparison.png
 tags: [AI Agents, N8N, Python, No-Code, Low-Code, Development, Automation, Data Science, Machine Learning, Workflow Automation, Integration, Scalability, Version Control, Performance]
