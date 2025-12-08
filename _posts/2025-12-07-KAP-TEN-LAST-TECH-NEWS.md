@@ -1,4 +1,3 @@
-```
 ---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
@@ -126,4 +125,3 @@ Another innovative startup, Mom and Slab, showcased its advanced platform for in
     </div>
 </body>
 </html>
-```
