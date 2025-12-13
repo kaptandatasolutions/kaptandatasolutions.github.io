@@ -2,7 +2,7 @@
 layout: post
 title: Build a Professional RAG System with 98.1% Accuracy The Ultimate Guide
 subtitle: Transform your knowledge base into an intelligent AI assistant using n8n with advanced RAG techniques contextual embeddings and reranking
-cover-img: /assets/img/rag_advanced_ai_agent_workflow_cover.png
+cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/rag_advanced_ai_agent_workflow.png
 share-img: /assets/img/rag_advanced_ai_agent_workflow.png
 tags: [AI, Automation, RAG, n8n, LLM, Supabase, Vector Database, Data Science, Prompt Engineering]

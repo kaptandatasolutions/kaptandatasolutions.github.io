@@ -2,7 +2,7 @@
 layout: post
 title: Building a Full-Stack Bookkeeping Application Zero to Production with AI and Claw Code
 subtitle: Learn to develop an automated bookkeeping application with OCR, transaction matching, and cloud deployment, leveraging AI agents and powerful MPC servers
-cover-img: /assets/img/full_stack_bookkeeping_app_with_claw_code_cover.png
+cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/full_stack_bookkeeping_app_with_claw_code.png
 share-img: /assets/img/full_stack_bookkeeping_app_with_claw_code.png
 tags: [AI, FullStack, WebDevelopment, Bookkeeping, OCR, ClawCode, Supabase, Vercel, NestJS, TypeScript, Automation]
