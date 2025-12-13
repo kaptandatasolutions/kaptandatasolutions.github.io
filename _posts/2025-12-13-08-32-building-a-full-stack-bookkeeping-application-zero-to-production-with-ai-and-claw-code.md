@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building a Full-Stack Bookkeeping Application Zero to Production with AI and Claw Code
+title: Building a Full-Stack Bookkeeping Application Zero to Production with AI and Claude Code
 subtitle: Learn to develop an automated bookkeeping application with OCR, transaction matching, and cloud deployment, leveraging AI agents and powerful MPC servers
 cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/full_stack_bookkeeping_app_with_claw_code.png
@@ -13,7 +13,7 @@ author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Autom
 
 [![](/assets/img/full_stack_bookkeeping_app_with_claw_code.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
 
-This guide details the process of building a full-stack bookkeeping application from the ground up, utilizing AI agents, specifically Claw Code, and several powerful MPC (Multi-agent Programming) servers. The application aims to automate expense tracking by processing bank statements and receipts with OCR, matching transactions, and providing a production-ready solution.
+This guide details the process of building a full-stack bookkeeping application from the ground up, utilizing AI agents, specifically Claude Code, and several powerful MPC (Multi-agent Programming) servers. The application aims to automate expense tracking by processing bank statements and receipts with OCR, matching transactions, and providing a production-ready solution.
 
 ## Project Overview: The Automated Bookkeeping Application
 
@@ -47,35 +47,35 @@ Once the prompt is ready, the next step involves setting up several MPC servers.
 Supabase serves as the application's database and storage backend.
 
 1.  **Create Supabase Project:** Sign up for Supabase and create a new project (e.g., "bookkeeper-AI").
-2.  **Connect to Claw Code:** In the Supabase project, navigate to the "Connect" section, select "MPC server," and choose "Claw Code" as the client. Follow the provided `npm install` command to add the Supabase MPC server to your Claw Code project.
-3.  **Restart Claw Code & Authenticate:** Restart your Claw Code MPC server. Run the `/mcp` command in the terminal, select Supabase, and follow the authentication prompts to connect your Claw Code instance to your Supabase project.
+2.  **Connect to Claude Code:** In the Supabase project, navigate to the "Connect" section, select "MPC server," and choose "Claude Code" as the client. Follow the provided `npm install` command to add the Supabase MPC server to your Claude Code project.
+3.  **Restart Claude Code & Authenticate:** Restart your Claude Code MPC server. Run the `/mcp` command in the terminal, select Supabase, and follow the authentication prompts to connect your Claude Code instance to your Supabase project.
 
 #### b. Chassian MPC Server (UI Development)
 
 Chassian is a UI library, and its MPC server helps in building beautiful and functional UI components.
 
 1.  **Install Chassian:** Install the latest version of Chassian in your project.
-2.  **Initialize Chassian MPC Server:** Configure the Chassian MPC server in your Claw Code setup (`npm install` and configuration).
-3.  **Verify Integration:** Restart Claw Code and run `/mcp` to confirm that Chassian is now listed among the connected MPC servers.
+2.  **Initialize Chassian MPC Server:** Configure the Chassian MPC server in your Claude Code setup (`npm install` and configuration).
+3.  **Verify Integration:** Restart Claude Code and run `/mcp` to confirm that Chassian is now listed among the connected MPC servers.
 
 #### c. SpecKit MPC Server (Planning and Development)
 
 SpecKit (from GitHub) is a specification-driven development kit that helps plan the entire application before implementation.
 
 1.  **Install SpecKit:** Install the SpecKit MPC server using the provided `npm install` command.
-2.  **Initialize Project:** Run `specify init` in your project directory. Select Claw Code as the AI agent.
+2.  **Initialize Project:** Run `specify init` in your project directory. Select Claude Code as the AI agent.
 3.  **Define Constitution:** Create a `constitution` file to establish project principles (code quality, testing standards, user experience).
-4.  **Generate Specification:** Use the `specify` command in Claw Code (e.g., `/specify <your_initial_AI_prompt>`). Answer any clarifying questions posed by the AI to refine the project's "what" and "why."
+4.  **Generate Specification:** Use the `specify` command in Claude Code (e.g., `/specify <your_initial_AI_prompt>`). Answer any clarifying questions posed by the AI to refine the project's "what" and "why."
 5.  **Create Implementation Plan:** Instruct the AI to create a comprehensive implementation plan, including a tech stack (e.g., NestJS 14 monorepo). This plan will break down the project into phases (e.g., database setup, authentication, receipts, bank statements, matching, dashboard, deployment) with estimated timelines.
 6.  **Generate Tasks:** Use `spec kit tasks` to break the implementation plan into actionable, executable tasks. Each phase will have a list of tasks.
 
-### 3. Implementation with Claw Code
+### 3. Implementation with Claude Code
 
-With the tasks generated by SpecKit, Claw Code can now proceed with implementation.
+With the tasks generated by SpecKit, Claude Code can now proceed with implementation.
 
 1.  **Branching:** Create a new feature branch for each phase or set of tasks.
-2.  **Execute Tasks:** Use the `/implementation` command in Claw Code, specifying the range of tasks to complete (e.g., `/implementation task 1 to 9`). Claw Code will follow the task list, writing code, configuring dependencies, and setting up directories.
-3.  **Supabase Integration:** Claw Code, integrated with the Supabase MPC server, automatically creates database tables (e.g., `receipts`, `bank_transactions`) and configures schemas, relieving manual setup.
+2.  **Execute Tasks:** Use the `/implementation` command in Claude Code, specifying the range of tasks to complete (e.g., `/implementation task 1 to 9`). Claude Code will follow the task list, writing code, configuring dependencies, and setting up directories.
+3.  **Supabase Integration:** Claude Code, integrated with the Supabase MPC server, automatically creates database tables (e.g., `receipts`, `bank_transactions`) and configures schemas, relieving manual setup.
 4.  **Credential Setup:** Ensure all necessary API keys and credentials (e.g., Supabase service role key, Google API key) are configured in environment variables (e.g., `.env.local` file).
 5.  **Commit Changes:** After each phase or significant task completion, commit changes to the GitHub repository.
 6.  **Iterate:** Repeat the implementation process for all subsequent phases until all 137 tasks are marked as complete.
@@ -91,8 +91,8 @@ Once implementation is complete, the Playwright MPC server is used for automated
 
 The final step is to deploy the application to a production environment.
 
-1.  **Vercel MPC Server:** Integrate the Vercel MPC server with Claw Code.
-2.  **Deploy Application:** Instruct Claw Code (using the Vercel MPC server) to deploy the application. Claw Code understands the application's structure and dependencies, automating the CI/CD pipeline and deployment to Vercel.
+1.  **Vercel MPC Server:** Integrate the Vercel MPC server with Claude Code.
+2.  **Deploy Application:** Instruct Claude Code (using the Vercel MPC server) to deploy the application. Claude Code understands the application's structure and dependencies, automating the CI/CD pipeline and deployment to Vercel.
 3.  **Verify Deployment:** Access the deployed application through the provided Vercel URL to confirm it's live and functional.
 
 ## Key Features of the Completed Application
