@@ -3,8 +3,8 @@ layout: post
 title: How to Build Any AI Automation from Start to Finish
 subtitle: A comprehensive guide to creating AI automations, even without coding experience
 cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
-thumbnail-img: /assets/img/article_inside_site.png
-share-img: /assets/img/article_inside_site.png
+thumbnail-img: /assets/img/automatisation_ia_factures_scanners.png
+share-img: /assets/img/automatisation_ia_factures_scanners.png
 tags: [AI, Automation, LLM, No-code, Workflow, Data Extraction, Google Drive, Google Sheets, Mistral OCR, n8n]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
