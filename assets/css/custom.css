@@ -198,3 +198,231 @@ form {
     padding-bottom: 120%;
   }
 }
+
+/* ========================================
+   VIEW TOGGLE STYLES
+   ======================================== */
+
+/* Toggle buttons container */
+.view-toggle-container {
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Default list view - keep original styling */
+.posts-list.view-list,
+.posts-list:not([class*="view-"]) {
+  /* Keep default Beautiful Jekyll styles */
+}
+
+.view-toggle-buttons {
+  display: inline-flex;
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.view-toggle-btn {
+  background: transparent;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 2px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  color: #6c757d;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.view-toggle-btn:hover {
+  background: #e9ecef;
+  color: #495057;
+}
+
+.view-toggle-btn.active {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  box-shadow: 0 2px 6px rgba(102, 126, 234, 0.4);
+}
+
+.view-toggle-btn i {
+  font-size: 16px;
+}
+
+/* ========================================
+   GRID VIEW STYLES
+   ======================================== */
+
+ul.posts-list.view-grid {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)) !important;
+  gap: 2rem !important;
+  list-style: none !important;
+  padding: 0 !important;
+}
+
+ul.posts-list.view-grid li.post-preview {
+  background: white !important;
+  border-radius: 12px !important;
+  overflow: hidden !important;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1) !important;
+  transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+  height: 100% !important;
+  display: flex !important;
+  flex-direction: column !important;
+  margin-bottom: 0 !important;
+}
+
+ul.posts-list.view-grid li.post-preview:hover {
+  transform: translateY(-5px) !important;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15) !important;
+}
+
+ul.posts-list.view-grid li.post-preview article {
+  display: flex !important;
+  flex-direction: column !important;
+  height: 100% !important;
+}
+
+ul.posts-list.view-grid .post-image {
+  width: 100% !important;
+  height: 200px !important;
+  overflow: hidden !important;
+  margin: 0 !important;
+}
+
+ul.posts-list.view-grid .post-image img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+}
+
+ul.posts-list.view-grid .post-image-small,
+ul.posts-list.view-grid .post-image-short {
+  display: none !important;
+}
+
+ul.posts-list.view-grid .post-image-normal {
+  display: block !important;
+}
+
+ul.posts-list.view-grid .post-title {
+  font-size: 1.3rem !important;
+  margin: 1rem 1rem 0.5rem !important;
+  line-height: 1.4 !important;
+}
+
+ul.posts-list.view-grid .post-subtitle {
+  font-size: 1rem !important;
+  margin: 0 1rem 0.5rem !important;
+  color: #6c757d !important;
+}
+
+ul.posts-list.view-grid .post-meta {
+  font-size: 0.85rem !important;
+  margin: 0 1rem !important;
+  color: #868e96 !important;
+}
+
+ul.posts-list.view-grid .post-entry {
+  margin: 1rem !important;
+  font-size: 0.95rem !important;
+  color: #495057 !important;
+  flex-grow: 1 !important;
+}
+
+ul.posts-list.view-grid .blog-tags {
+  margin: 0.5rem 1rem 1rem !important;
+  padding-top: 0.5rem !important;
+  border-top: 1px solid #e9ecef !important;
+}
+
+/* ========================================
+   COMPACT VIEW STYLES
+   ======================================== */
+
+ul.posts-list.view-compact {
+  display: block !important;
+}
+
+ul.posts-list.view-compact li.post-preview {
+  border-bottom: 1px solid #e9ecef !important;
+  padding: 1rem 0 !important;
+  margin: 0 !important;
+}
+
+ul.posts-list.view-compact li.post-preview:last-child {
+  border-bottom: none !important;
+}
+
+ul.posts-list.view-compact .post-image,
+ul.posts-list.view-compact .post-image-normal,
+ul.posts-list.view-compact .post-image-small,
+ul.posts-list.view-compact .post-image-short {
+  display: none !important;
+}
+
+ul.posts-list.view-compact .post-entry {
+  display: none !important;
+}
+
+ul.posts-list.view-compact .post-title {
+  font-size: 1.2rem !important;
+  margin: 0 0 0.3rem 0 !important;
+  display: inline !important;
+}
+
+ul.posts-list.view-compact .post-subtitle {
+  font-size: 0.95rem !important;
+  margin: 0 0 0.3rem 0 !important;
+  color: #6c757d !important;
+}
+
+ul.posts-list.view-compact .post-meta {
+  font-size: 0.85rem !important;
+  display: inline-block !important;
+  margin: 0 0.5rem 0 0 !important;
+  color: #868e96 !important;
+}
+
+ul.posts-list.view-compact article {
+  display: flex !important;
+  align-items: baseline !important;
+  flex-wrap: wrap !important;
+  gap: 0.5rem !important;
+}
+
+ul.posts-list.view-compact .blog-tags {
+  font-size: 0.85rem !important;
+  margin-top: 0.3rem !important;
+}
+
+ul.posts-list.view-compact .blog-tags span {
+  display: none !important;
+}
+
+/* ========================================
+   RESPONSIVE ADJUSTMENTS
+   ======================================== */
+
+@media (max-width: 768px) {
+  .view-toggle-btn span {
+    display: none;
+  }
+
+  .view-toggle-btn {
+    padding: 10px 15px;
+  }
+
+  .posts-list.view-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+}

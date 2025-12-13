@@ -2,9 +2,261 @@
 layout: page
 ---
 
+<style>
+/* ========================================
+   VIEW TOGGLE STYLES
+   ======================================== */
+
+/* Toggle buttons container */
+.view-toggle-container {
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.view-toggle-buttons {
+  display: inline-flex;
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.view-toggle-btn {
+  background: transparent;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 2px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  color: #6c757d;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.view-toggle-btn:hover {
+  background: #e9ecef;
+  color: #495057;
+}
+
+.view-toggle-btn.active {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  box-shadow: 0 2px 6px rgba(102, 126, 234, 0.4);
+}
+
+.view-toggle-btn i {
+  font-size: 16px;
+}
+
+/* ========================================
+   GRID VIEW STYLES
+   ======================================== */
+
+ul.posts-list.view-grid {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)) !important;
+  gap: 2rem !important;
+  list-style: none !important;
+  padding: 0 !important;
+}
+
+ul.posts-list.view-grid li.post-preview {
+  background: white !important;
+  border-radius: 12px !important;
+  overflow: hidden !important;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1) !important;
+  transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+  display: flex !important;
+  flex-direction: column !important;
+  margin-bottom: 0 !important;
+  cursor: pointer !important;
+}
+
+ul.posts-list.view-grid li.post-preview:hover {
+  transform: translateY(-5px) !important;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15) !important;
+}
+
+ul.posts-list.view-grid li.post-preview article {
+  display: flex !important;
+  flex-direction: column !important;
+  height: 100% !important;
+}
+
+/* Show only ONE thumbnail image in grid view - prefer post-image-short which appears last */
+ul.posts-list.view-grid .post-image-normal {
+  display: none !important;
+}
+
+ul.posts-list.view-grid .post-image-small {
+  display: none !important;
+}
+
+ul.posts-list.view-grid .post-image-short {
+  width: 100% !important;
+  height: 220px !important;
+  overflow: hidden !important;
+  margin: 0 !important;
+  display: block !important;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+  order: -1 !important;
+}
+
+ul.posts-list.view-grid .post-image-short a {
+  display: block !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+ul.posts-list.view-grid .post-image-short img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  display: block !important;
+}
+
+/* Title styling in grid view */
+ul.posts-list.view-grid .post-title {
+  font-size: 1.25rem !important;
+  margin: 1.25rem 1.25rem 0.5rem !important;
+  line-height: 1.3 !important;
+  font-weight: 600 !important;
+}
+
+/* Subtitle styling in grid view */
+ul.posts-list.view-grid .post-subtitle {
+  font-size: 0.95rem !important;
+  margin: 0 1.25rem 1.25rem !important;
+  color: #6c757d !important;
+  line-height: 1.4 !important;
+}
+
+/* Hide everything else in grid view */
+ul.posts-list.view-grid .post-meta,
+ul.posts-list.view-grid .post-entry,
+ul.posts-list.view-grid .blog-tags,
+ul.posts-list.view-grid span {
+  display: none !important;
+}
+
+/* Hide author in list view */
+ul.posts-list.view-list article > span {
+  display: none !important;
+}
+
+/* ========================================
+   COMPACT VIEW STYLES
+   ======================================== */
+
+ul.posts-list.view-compact {
+  display: block !important;
+}
+
+ul.posts-list.view-compact li.post-preview {
+  border-bottom: 1px solid #e9ecef !important;
+  padding: 1rem 0 !important;
+  margin: 0 !important;
+}
+
+ul.posts-list.view-compact li.post-preview:last-child {
+  border-bottom: none !important;
+}
+
+ul.posts-list.view-compact .post-image,
+ul.posts-list.view-compact .post-image-normal,
+ul.posts-list.view-compact .post-image-small,
+ul.posts-list.view-compact .post-image-short {
+  display: none !important;
+}
+
+ul.posts-list.view-compact .post-entry {
+  display: none !important;
+}
+
+ul.posts-list.view-compact .post-title {
+  font-size: 1.2rem !important;
+  margin: 0 0 0.3rem 0 !important;
+  display: inline !important;
+}
+
+ul.posts-list.view-compact .post-subtitle {
+  font-size: 0.95rem !important;
+  margin: 0 0 0.3rem 0 !important;
+  color: #6c757d !important;
+}
+
+ul.posts-list.view-compact .post-meta {
+  font-size: 0.85rem !important;
+  display: inline-block !important;
+  margin: 0 0.5rem 0 0 !important;
+  color: #868e96 !important;
+}
+
+ul.posts-list.view-compact article {
+  display: flex !important;
+  align-items: baseline !important;
+  flex-wrap: wrap !important;
+  gap: 0.5rem !important;
+}
+
+ul.posts-list.view-compact .blog-tags {
+  font-size: 0.85rem !important;
+  margin-top: 0.3rem !important;
+}
+
+ul.posts-list.view-compact .blog-tags span {
+  display: none !important;
+}
+
+/* Hide author in compact view */
+ul.posts-list.view-compact article > span {
+  display: none !important;
+}
+
+/* ========================================
+   RESPONSIVE ADJUSTMENTS
+   ======================================== */
+
+@media (max-width: 768px) {
+  .view-toggle-btn span:not(.d-none) {
+    display: none;
+  }
+
+  .view-toggle-btn {
+    padding: 10px 15px;
+  }
+
+  ul.posts-list.view-grid {
+    grid-template-columns: 1fr !important;
+    gap: 1.5rem !important;
+  }
+}
+</style>
+
 {{ content }}
 
 {% assign posts = paginator.posts | default: site.posts %}
+
+<!-- View Toggle Buttons -->
+<div class="view-toggle-container">
+  <div class="view-toggle-buttons">
+    <button class="view-toggle-btn active" data-view="list" title="List View">
+      <i class="fas fa-list"></i> <span>List</span>
+    </button>
+    <button class="view-toggle-btn" data-view="grid" title="Grid View">
+      <i class="fas fa-th"></i> <span>Grid</span>
+    </button>
+    <button class="view-toggle-btn" data-view="compact" title="Compact View">
+      <i class="fas fa-bars"></i> <span>Compact</span>
+    </button>
+  </div>
+</div>
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
@@ -120,3 +372,80 @@ layout: page
   {% endif %}
 </ul>
 {% endif %}
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  'use strict';
+
+  const STORAGE_KEY = 'blog-view-preference';
+  const postsList = document.querySelector('.posts-list');
+  const toggleButtons = document.querySelectorAll('.view-toggle-btn');
+
+  console.log('View toggle initialized');
+  console.log('Posts list:', postsList);
+  console.log('Toggle buttons:', toggleButtons);
+
+  if (!postsList) {
+    console.error('Posts list not found!');
+    return;
+  }
+
+  if (toggleButtons.length === 0) {
+    console.error('Toggle buttons not found!');
+    return;
+  }
+
+  // Function to set the active view
+  function setView(viewType) {
+    console.log('Setting view to:', viewType);
+
+    // Remove all view classes
+    postsList.classList.remove('view-list', 'view-grid', 'view-compact');
+
+    // Add the selected view class
+    postsList.classList.add('view-' + viewType);
+
+    console.log('Current classes:', postsList.className);
+
+    // Update button states
+    toggleButtons.forEach(btn => {
+      if (btn.dataset.view === viewType) {
+        btn.classList.add('active');
+      } else {
+        btn.classList.remove('active');
+      }
+    });
+
+    // Save preference to localStorage
+    try {
+      localStorage.setItem(STORAGE_KEY, viewType);
+    } catch (e) {
+      console.log('Could not save view preference:', e);
+    }
+  }
+
+  // Load saved preference or default to 'list'
+  function loadSavedView() {
+    let savedView = 'list';
+    try {
+      savedView = localStorage.getItem(STORAGE_KEY) || 'list';
+    } catch (e) {
+      console.log('Could not load view preference:', e);
+    }
+    setView(savedView);
+  }
+
+  // Add click handlers to toggle buttons
+  toggleButtons.forEach(button => {
+    button.addEventListener('click', function(e) {
+      e.preventDefault();
+      const viewType = this.dataset.view;
+      console.log('Button clicked:', viewType);
+      setView(viewType);
+    });
+  });
+
+  // Initialize on page load
+  loadSavedView();
+});
+</script>
