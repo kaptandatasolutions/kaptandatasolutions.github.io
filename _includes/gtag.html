@@ -1,10 +1,23 @@
 {% if site.gtag %}
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.gtag }}"></script>
+<!-- Global site tag (gtag.js) - Google Analytics avec gestion du consentement RGPD -->
 <script>
+  // Initialiser gtag avec consentement refusé par défaut
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
+  window.gtag = gtag;
+
+  // Configurer le mode consentement par défaut (RGPD) - REFUSÉ par défaut
+  gtag('consent', 'default', {
+    'analytics_storage': 'denied',
+    'ad_storage': 'denied',
+    'wait_for_update': 500
+  });
+
   gtag('js', new Date());
-  gtag('config', '{{ site.gtag }}');
+  gtag('config', '{{ site.gtag }}', {
+    'anonymize_ip': true,
+    'cookie_flags': 'SameSite=None;Secure'
+  });
 </script>
+<!-- Le script gtag.js sera chargé par cookie-consent.html après acceptation -->
 {% endif %}
