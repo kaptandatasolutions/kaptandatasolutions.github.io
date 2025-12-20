@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
@@ -127,4 +126,3 @@ The pervasive threat of AI-generated deepfakes and disinformation reached new le
     </div>
 </body>
 </html>
-```

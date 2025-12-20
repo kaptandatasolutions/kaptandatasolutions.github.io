@@ -3,8 +3,8 @@ layout: post
 title: Automate Your Code with Cloud Code – A Beginner's Guide to AI-Powered Development
 subtitle: Learn how to leverage Cloud Code for rapid project creation, debugging, and iteration, even without prior coding experience. This guide covers installation, essential commands, and practical applications for building web pages and 3D games.
 cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
-thumbnail-img: /assets/img/article_inside_site.png
-share-img: /assets/img/article_inside_site.png
+thumbnail-img: /assets/img/cloud_code_terminal_demo_and_landing_page_creation.png
+share-img: /assets/img/cloud_code_terminal_demo_and_landing_page_creation.png
 tags: [Cloud Code, AI Development, No-Code, Low-Code, Terminal, Beginners, Project Management, Web Development, Automation, AI Assistant]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
