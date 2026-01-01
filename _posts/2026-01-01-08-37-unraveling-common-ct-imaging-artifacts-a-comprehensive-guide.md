@@ -3,8 +3,8 @@ layout: post
 title: Unraveling Common CT Imaging Artifacts A Comprehensive Guide
 subtitle: Master the identification and mitigation of motion artifacts, beam hardening, photon starvation, partial volume effects, and ring artifacts in CT scans
 cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
-thumbnail-img: /assets/img/article_inside_site.png
-share-img: /assets/img/article_inside_site.png
+thumbnail-img: /assets/img/ct_imaging_common_artifacts_overview.png
+share-img: /assets/img/ct_imaging_common_artifacts_overview.png
 tags: [CT imaging, artifacts, medical physics, radiology, motion artifact, beam hardening, photon starvation, partial volume, ring artifact, image quality, diagnostic imaging, patient care]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---

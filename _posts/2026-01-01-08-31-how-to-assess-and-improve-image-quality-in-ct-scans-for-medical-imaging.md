@@ -3,8 +3,8 @@ layout: post
 title: How to Assess and Improve Image Quality in CT Scans for Medical Imaging
 subtitle: A Comprehensive Guide to Spatial Resolution, Noise, and Contrast Resolution
 cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
-thumbnail-img: /assets/img/article_inside_site.png
-share-img: /assets/img/article_inside_site.png
+thumbnail-img: /assets/img/ct_image_quality_assessment.png
+share-img: /assets/img/ct_image_quality_assessment.png
 tags: [CT imaging, image quality, spatial resolution, noise, contrast resolution, medical physics, CT scan parameters]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
