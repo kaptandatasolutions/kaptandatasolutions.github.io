@@ -3,8 +3,8 @@ layout: post
 title: Unpacking REM – How AI Agents Learn from Mistakes Like Humans
 subtitle: A Deep Dive into Dynamic Procedural Memory for Advanced AI
 cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
-thumbnail-img: /assets/img/article_inside_site.png
-share-img: /assets/img/article_inside_site.png
+thumbnail-img: /assets/img/dynamic_procedural_memory_framework_rem.png
+share-img: /assets/img/dynamic_procedural_memory_framework_rem.png
 tags: [AI, Machine Learning, AI Agents, Deep Learning, Memory, Procedural Memory, Dynamic Memory, LLM, Python, Research]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
