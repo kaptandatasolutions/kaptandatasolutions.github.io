@@ -320,30 +320,16 @@
       }
     }
 
-    // Fonction pour charger Google Analytics
+    // Fonction pour activer Google Analytics (gtag.js déjà chargé via gtag.html)
     function loadGoogleAnalytics() {
       if (typeof window.gtag === 'function') {
-        // gtag est déjà chargé
+        // Mettre à jour le consentement pour activer Analytics
         window.gtag('consent', 'update', {
-          'analytics_storage': 'granted'
+          'analytics_storage': 'granted',
+          'ad_storage': 'granted',
+          'ad_user_data': 'granted',
+          'ad_personalization': 'granted'
         });
-      } else {
-        // Charger le script gtag
-        var script = document.createElement('script');
-        script.async = true;
-        script.src = 'https://www.googletagmanager.com/gtag/js?id={{ site.gtag }}';
-        document.head.appendChild(script);
-
-        script.onload = function() {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          window.gtag = gtag;
-          gtag('js', new Date());
-          gtag('config', '{{ site.gtag }}', {
-            'anonymize_ip': true,
-            'cookie_flags': 'SameSite=None;Secure'
-          });
-        };
       }
     }
 

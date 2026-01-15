@@ -1,23 +1,26 @@
 {% if site.gtag %}
-<!-- Global site tag (gtag.js) - Google Analytics avec gestion du consentement RGPD -->
+<!-- Global site tag (gtag.js) - Google Analytics avec Consent Mode v2 (RGPD) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.gtag }}"></script>
 <script>
-  // Initialiser gtag avec consentement refusé par défaut
+  // Initialiser dataLayer et gtag
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   window.gtag = gtag;
 
-  // Configurer le mode consentement par défaut (RGPD) - REFUSÉ par défaut
+  // Configurer le Consent Mode v2 (RGPD) - REFUSÉ par défaut
   gtag('consent', 'default', {
     'analytics_storage': 'denied',
     'ad_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
     'wait_for_update': 500
   });
 
+  // Initialiser Google Analytics
   gtag('js', new Date());
   gtag('config', '{{ site.gtag }}', {
     'anonymize_ip': true,
     'cookie_flags': 'SameSite=None;Secure'
   });
 </script>
-<!-- Le script gtag.js sera chargé par cookie-consent.html après acceptation -->
 {% endif %}
