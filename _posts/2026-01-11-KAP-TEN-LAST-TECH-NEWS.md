@@ -13,7 +13,7 @@ author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Autom
 
 The latest edition of the Consumer Electronics Show (CES) in Las Vegas for 2026 has concluded, leaving a somewhat mixed impression. While the usual buzz was definitely present, there's a feeling that technological innovation might be hitting a plateau. Despite this, there were still plenty of exciting new developments and trends worth discussing. Let’s dive into the top 10 takeaways from CES 2026.
 
-## 1. The Titan Television Trend
+## 1. The Titan Television Trend 
 
 Televisions at CES 2026 were all about scale. Manufacturers showcased screens starting minimally at 100 inches, with some pushing boundaries to an astonishing 130 and even 163 inches (over 4 meters diagonally). While these ultra-large displays offer incredible immersion, the practical challenge for most consumers remains finding sufficient space to accommodate them. These are clearly not mass-market products, targeting high-net-worth individuals with expansive homes. Beyond size, a recurring theme was the integration of TVs into home decor, with models doubling as art frames, a trend that Amazon is now also entering. There’s an ongoing push to make TVs the central hub of smart homes, incorporating AI for everything from content suggestions to kitchen recipes. However, basic functionalities like easy webcam integration for video calls or standard headphone jacks remain surprisingly absent or poorly implemented, highlighting a disconnect between advanced high-tech features and user-friendly essentials.
 
