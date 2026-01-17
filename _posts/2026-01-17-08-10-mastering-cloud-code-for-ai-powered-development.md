@@ -3,8 +3,8 @@ layout: post
 title:  Mastering Claude Code for AI-Powered Development
 subtitle: A Comprehensive Guide to Building Applications and AI Agents with Claude Code
 cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
-thumbnail-img: /assets/img/article_inside_site.png
-share-img: /assets/img/article_inside_site.png
+thumbnail-img: /assets/img/cloud_code_masterclass_workflow_overview.png
+share-img: /assets/img/cloud_code_masterclass_workflow_overview.png
 tags: [Claude Code, AI Agents, Development, No-Code, AI, Prompt Engineering, GitHub, VS Code, Open Spec, CI/CD]  
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
