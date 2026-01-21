@@ -11,7 +11,7 @@ author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Autom
 
 [![](/assets/img/agentic_engineering_ai_coding_workflow.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
 
-Are you leveraging your AI coding assistant to its fullest potential? Many developers are leaving significant capabilities untapped. This guide dives into practical techniques used by top agentic engineers, enabling you to build a robust system for working with your coding agent, whether you're using tools like CloudCode, Kiro, or Cursor. These methods don't require new software; they represent a smarter way of developing.
+Are you leveraging your AI coding assistant to its fullest potential? Many developers are leaving significant capabilities untapped. This guide dives into practical techniques used by top agentic engineers, enabling you to build a robust system for working with your coding agent, whether you're using tools like Claude Code, Kiro, or Cursor. These methods don't require new software; they represent a smarter way of developing.
 
 ### 1. PRD-First Development
 
