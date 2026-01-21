@@ -1,13 +1,13 @@
-```yaml
+---
 layout: post
 title: Unlocking the Full Potential of Your AI Coding Assistant
 subtitle: Master Agentic Engineering Techniques for Efficient and Reliable Code Development
 cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
-thumbnail-img: /assets/img/article_inside_site.png
-share-img: /assets/img/article_inside_site.png
+thumbnail-img: /assets/img/agentic_engineering_ai_coding_workflow.png
+share-img: /assets/img/agentic_engineering_ai_coding_workflow.png
 tags: [AI, Coding, Agentic Engineering, Development, Productivity, GitHub, LLM]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
-```
+---
 
 [![](/assets/img/agentic_engineering_ai_coding_workflow.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
 
