@@ -3,8 +3,8 @@ layout: post
 title:  "Learning Latent Action World Models in the Wild: A Leap Towards General AI"
 subtitle: "Meta's latest Paper reveals how AI can understand physics and consequences of actions without human supervision"  
 cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
-thumbnail-img: /assets/img/article_inside_site.png
-share-img: /assets/img/article_inside_site.png
+thumbnail-img: /assets/img/learning_latent_action_world_models_in_wild.png
+share-img: /assets/img/learning_latent_action_world_models_in_wild.png
 tags: ["AI", "Machine Learning", "Yann LeCun", "World Models", "Robotics", "AGI", "Computer Vision", "Deep Learning", "Meta AI", "Technical Analysis"]  
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
