@@ -3,8 +3,8 @@ layout: post
 title: Crafting the AI Engineer — Building Advanced Agent Harnesses for AI Coding
 subtitle: From code generation to full project management, discover how agent harnesses can transform AI into a complete engineer with integrated tools and workflows.
 cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
-thumbnail-img: /assets/img/article_inside_site.png
-share-img: /assets/img/article_inside_site.png
+thumbnail-img: /assets/img/ai_coding_agent_harness_system.png
+share-img: /assets/img/ai_coding_agent_harness_system.png
 tags: [AI, Coding, Agent Harness, Automation, Software Development, LLM, Claude, GitHub, Linear, Slack, Arcade, Orchestration]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---

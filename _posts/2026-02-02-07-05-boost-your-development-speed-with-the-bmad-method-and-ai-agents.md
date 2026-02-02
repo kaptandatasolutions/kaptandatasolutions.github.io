@@ -3,8 +3,8 @@ layout: post
 title: Boost Your Development Speed with the BMAD Method and AI Agents
 subtitle: A Comprehensive Guide to Building Applications Faster with Antigravity
 cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
-thumbnail-img: /assets/img/article_inside_site.png
-share-img: /assets/img/article_inside_site.png
+thumbnail-img: /assets/img/bmad_framework_development_process.png
+share-img: /assets/img/bmad_framework_development_process.png
 tags: [AI, Development, BMAD Method, Antigravity, AI Agents, Software Engineering, Productivity, Tech Tutorial]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
