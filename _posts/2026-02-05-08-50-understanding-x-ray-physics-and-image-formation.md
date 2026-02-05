@@ -3,8 +3,8 @@ layout: post
 title:   Understanding X-ray Physics and Image Formation
 subtitle:   A Comprehensive Guide to X-ray Generation, Manipulation, and Detection
 cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
-thumbnail-img: /assets/img/article_inside_site.png
-share-img: /assets/img/article_inside_site.png
+thumbnail-img: /assets/img/overview_of_x_ray_physics_module.png
+share-img: /assets/img/overview_of_x_ray_physics_module.png
 tags: [X-ray physics, medical imaging, radiology, thermionic emission, X-ray circuit, image quality, medical physics]  
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
