@@ -3,8 +3,8 @@ layout: post
 title: Generative UI — Create Dynamic and Personalized Dashboards with AI Agents
 subtitle: Explore the Future of Software Development with Adaptive User Interfaces
 cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
-thumbnail-img: /assets/img/article_inside_site.png
-share-img: /assets/img/article_inside_site.png
+thumbnail-img: /assets/img/generative_ui_personalized_dashboard.png
+share-img: /assets/img/generative_ui_personalized_dashboard.png
 tags: [AI, Generative UI, Personalization, AI Agents, Web Development, LLM, Front-end, Back-end]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
