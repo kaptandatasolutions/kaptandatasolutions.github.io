@@ -3,8 +3,8 @@ layout: post
 title: Collimation in X-ray Imaging – Enhancing Image Quality and Patient Safety
 subtitle: Understanding how collimation improves X-ray diagnostics by reducing scatter and patient dose
 cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
-thumbnail-img: /assets/img/article_inside_site.png
-share-img: /assets/img/article_inside_site.png
+thumbnail-img: /assets/img/xray_collimation_process_and_effects.png
+share-img: /assets/img/xray_collimation_process_and_effects.png
 tags: [X-ray, Collimation, Medical Imaging, Radiology, Patient Safety, Image Quality, Radiation Physics, Diagnostic Imaging]  
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
