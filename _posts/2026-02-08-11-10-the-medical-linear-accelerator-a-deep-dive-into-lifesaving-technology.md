@@ -3,13 +3,13 @@ layout: post
 title: The Medical Linear Accelerator A Deep Dive into Lifesaving Technology
 subtitle: From historical breakthroughs to modern radiation therapy techniques, understand how LINACs revolutionize cancer treatment
 cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
-thumbnail-img: /assets/img/Medical_Linear_Accelerator_A_Deep_Dive.png
-share-img: /assets/img/Medical_Linear_Accelerator_A_Deep_Dive.png
+thumbnail-img: /assets/img/Medical_Linear_Accelerator_A_Deep_Dive_1.png
+share-img: /assets/img/Medical_Linear_Accelerator_A_Deep_Dive_1.png
 tags: [Medical Physics, Radiation Therapy, Linear Accelerator, Cancer Treatment, IMRT, VMAT, IGRT, SRS, SBRT]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
-[![](/assets/img/Medical_Linear_Accelerator_A_Deep_Dive.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
+[![](/assets/img/Medical_Linear_Accelerator_A_Deep_Dive_1.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
 
 Medical Linear Accelerators (LINACs) stand as a cornerstone in modern oncology, delivering targeted radiation to combat cancer with remarkable precision. This comprehensive guide explores the evolution, core principles, and diverse applications of these life-saving machines.
 

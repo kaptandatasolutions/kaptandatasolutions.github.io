@@ -3,8 +3,8 @@ layout: post
 title: Unraveling the Technology Behind CT Scanners
 subtitle: A Comprehensive Guide to Computed Tomography Principles and Components
 cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
-thumbnail-img: /assets/img/article_inside_site.png
-share-img: /assets/img/article_inside_site.png
+thumbnail-img: /assets/img/computer_tomography_ct_scanner_components.png
+share-img: /assets/img/computer_tomography_ct_scanner_components.png
 tags: [CT Scanner, Medical Imaging, Biomedical Engineering, Computed Tomography, X-ray, Diagnostic Imaging, Healthcare Technology]  
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
