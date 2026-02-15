@@ -3,8 +3,8 @@ layout: post
 title: Building Your Secure and Personalized AI Assistant - A Deeper Dive
 subtitle: Replicating the Magic of Leading AI Assistants While Addressing Security Concerns
 cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
-thumbnail-img: /assets/img/building_personal_openclaw_ai_assistant.png.png
-share-img: /assets/img/building_personal_openclaw_ai_assistant.png.png
+thumbnail-img: /assets/img/building_personal_openclaw_ai_assistant.png
+share-img: /assets/img/building_personal_openclaw_ai_assistant.png
 tags: [AI, Personal Assistant, Open Source, Security, Python, Project, Development, LLM, Agentic AI, Automation]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---

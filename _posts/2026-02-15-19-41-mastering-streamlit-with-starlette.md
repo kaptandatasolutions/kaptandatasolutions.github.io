@@ -3,8 +3,8 @@ layout: post
 title: Mastering Streamlit with Starlette
 subtitle: Unleash the Full Potential of Your Data Apps with Advanced Backend Integration
 cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
-thumbnail-img: /assets/img/streamlit_starlette_backend_integration.png.png
-share-img: /assets/img/streamlit_starlette_backend_integration.png.png
+thumbnail-img: /assets/img/streamlit_starlette_backend_integration.png
+share-img: /assets/img/streamlit_starlette_backend_integration.png
 tags: [Streamlit, Starlette, Backend, Web Development, Data Science, API, Real-time, WebSockets, Security, DevOps, Python]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
