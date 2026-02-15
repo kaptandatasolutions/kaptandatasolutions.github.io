@@ -3,13 +3,13 @@ layout: post
 title: Mastering Streamlit with Starlette
 subtitle: Unleash the Full Potential of Your Data Apps with Advanced Backend Integration
 cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
-thumbnail-img: /assets/img/streamyt_starlit_backend_integration.png.png
-share-img: /assets/img/streamyt_starlit_backend_integration.png.png
+thumbnail-img: /assets/img/streamlit_starlette_backend_integration.png.png
+share-img: /assets/img/streamlit_starlette_backend_integration.png.png
 tags: [Streamlit, Starlette, Backend, Web Development, Data Science, API, Real-time, WebSockets, Security, DevOps, Python]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
-[![](/assets/img/streamyt_starlit_backend_integration.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
+[![](/assets/img/streamlit_starlette_backend_integration.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
 
 Streamlit, a popular framework for building interactive data applications, has recently received a significant update to version 1.53, unlocking unprecedented backend customization capabilities. This update is a game-changer, integrating the powerful Starlette ASGI (Asynchronous Server Gateway Interface) toolkit directly into Streamlit's server frontend. Previously, Streamlit users were locked into its default Tornado server, limiting advanced backend functionalities. Now, with Starlette's integration, developers can build high-performance web services, customize API endpoints, and enhance the security and user experience of their Streamlit applications.
 
