@@ -1,4 +1,3 @@
-```yaml
 layout: post
 title: Building Your Secure and Personalized AI Assistant - A Deeper Dive
 subtitle: Replicating the Magic of Leading AI Assistants While Addressing Security Concerns
@@ -7,7 +6,7 @@ thumbnail-img: /assets/img/building_personal_openclaw_ai_assistant.png.png
 share-img: /assets/img/building_personal_openclaw_ai_assistant.png.png
 tags: [AI, Personal Assistant, Open Source, Security, Python, Project, Development, LLM, Agentic AI, Automation]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
-```
+
 
 [![](/assets/img/building_personal_openclaw_ai_assistant.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
 
