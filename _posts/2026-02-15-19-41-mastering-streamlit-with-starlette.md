@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title: Mastering Streamlit with Starlette
@@ -9,7 +8,6 @@ share-img: /assets/img/streamyt_starlit_backend_integration.png.png
 tags: [Streamlit, Starlette, Backend, Web Development, Data Science, API, Real-time, WebSockets, Security, DevOps, Python]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
-```
 
 [![](/assets/img/streamyt_starlit_backend_integration.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
 
