@@ -27,7 +27,6 @@ baseurl: ""
 
 navbar-links:
   "About Us": "about_us"
-  "Contact": "contact"
   "Submit Project": "submit-project"
     
   #Kap10 - Last Tech News :
@@ -98,7 +97,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "https://kaptandatasolutions.github.io/contact/"
+  email: "https://www.kaptan-data-solutions.app/contact/"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: KaptanDataSolutions
   github: kaptandatasolutions

@@ -12,7 +12,7 @@ comments: False
 ### Virtual Assistant
 A fully customizable interactive virtual assistant, tailored to your industry. Instantly query your internal or external databases to receive quick and accurate responses.
 
-**Price:** [Contact us](https://kaptandatasolutions.github.io/contact/)
+**Price:** [Contact us](https://www.kaptan-data-solutions.app/contact/)
 
 **Includes:**
 - Personalized installation
@@ -35,7 +35,7 @@ A fully customizable interactive virtual assistant, tailored to your industry. I
 ### CorpoRag
 An intelligent assistant capable of analyzing and answering directly from your internal documents, automatically creating a dedicated knowledge base for optimal and confidential data management.
 
-**Price:** [Contact us](https://kaptandatasolutions.github.io/contact/)
+**Price:** [Contact us](https://www.kaptan-data-solutions.app/contact/)
 
 **Includes:**
 - Personalized installation
@@ -64,7 +64,7 @@ An intuitive web-based platform for statistical analysis and automatic generatio
 
 [Try out Web SPC DEMO - 100% customisable to your field of activity](https://kaptan-data-solutions.app/Web_SPC)
 
-**Price:** [Contact us](https://kaptandatasolutions.github.io/contact/)
+**Price:** [Contact us](https://www.kaptan-data-solutions.app/contact/)
 
 **Includes:**
 - Personalized installation
@@ -81,7 +81,7 @@ Complete automation and secure routine checks of MLC blades in radiotherapy.
 
 [Try out Picket Fence Analyzer DEMO](https://kaptan-data-solutions.app/Picketfence_analyse)
 
-**Price:** [Contact us](https://kaptandatasolutions.github.io/contact/)
+**Price:** [Contact us](https://www.kaptan-data-solutions.app/contact/)
 
 **Includes:**
 - Personalized installation
@@ -94,7 +94,7 @@ Automatic and detailed analysis of Starshot images for quality assurance in radi
 
 [Try out StarShot Analyzer DEMO](https://kaptan-data-solutions.app/Starshot)
 
-**Price:** [Contact us](https://kaptandatasolutions.github.io/contact/)
+**Price:** [Contact us](https://www.kaptan-data-solutions.app/contact/)
 
 **Includes:**
 - Personalized installation
@@ -107,7 +107,7 @@ Automatic analysis of DICOM-format EPID images to verify isocenter accuracy in r
 
 [Try out Winston-Lutz 2D Analyzer DEMO](https://kaptan-data-solutions.app/winston-lutz_2d)
 
-**Price:** [Contact us](https://kaptandatasolutions.github.io/contact/)
+**Price:** [Contact us](https://www.kaptan-data-solutions.app/contact/)
 
 **Includes:**
 - Personalized installation
@@ -121,7 +121,7 @@ Advanced isocenter verification with comprehensive analysis of EPID image series
 
 [Try out Winston-Lutz 3D Analyzer DEMO](https://kaptan-data-solutions.app/winston-lutz_3d)
 
-**Price:** [Contact us](https://kaptandatasolutions.github.io/contact/)
+**Price:** [Contact us](https://www.kaptan-data-solutions.app/contact/)
 
 **Includes:**
 - Personalized installation
@@ -136,7 +136,7 @@ Versatile generator of synthetic medical images for testing and training in medi
 
 [Try out WImage Test Generator (DICOM) DEMO](https://kaptan-data-solutions.app/image_generator)
 
-**Price:** [Contact us](https://kaptandatasolutions.github.io/contact/)
+**Price:** [Contact us](https://www.kaptan-data-solutions.app/contact/)
 
 **Includes:**
 - Personalized installation
@@ -147,7 +147,7 @@ Versatile generator of synthetic medical images for testing and training in medi
 ---
 
 ## 🚀 KDS Exclusive Pack
-**Price:** [Contact us](https://kaptandatasolutions.github.io/contact/)
+**Price:** [Contact us](https://www.kaptan-data-solutions.app/contact/)
 
 Full access to all our applications with personalized installation, comprehensive training, and expert guidance.
 
@@ -160,7 +160,7 @@ Full access to all our applications with personalized installation, comprehensiv
 ---
 
 ## 🎓 Python Web Training & Consulting
-**Price:** [Contact us](https://kaptandatasolutions.github.io/contact/)
+**Price:** [Contact us](https://www.kaptan-data-solutions.app/contact/)
 
 Customized training and support for Python web application development and implementation of quality management techniques (SPC, machine learning).
 
@@ -175,7 +175,7 @@ Customized training and support for Python web application development and imple
 
 **Kaptan Data Solutions** 
 📍 10 rue de la Grand-Maison, 45200 Paucourt, FRANCE  
-📧 [kcontact@kaptan-data-solutions.app](https://kaptandatasolutions.github.io/contact/)  
+📧 [kcontact@kaptan-data-solutions.app](https://www.kaptan-data-solutions.app/contact/)  
 🔗 [LinkedIn](https://www.linkedin.com/company/kaptan-data-solutions/) | [Portfolio](https://kaptan-data-solutions.app/)
 
 ---
