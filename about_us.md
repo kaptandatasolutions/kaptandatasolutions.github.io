@@ -17,7 +17,6 @@ Launched in 2024, our blog [KaptanDataSolutions](https://kaptan-data-solutions.a
 
 Our interactive demos allow you to explore our **Quality Assurance (QA)** and **statistical analysis** tools before fully integrating them into your secure environment.
 
-![KDS Logo](/assets/img/new-logo-kaptan-data-solution-2.png)
 
 > "KDS is a French technology forge specializing in the development of business-specific web applications. Our mission: to liberate experts—physicists, engineers, and researchers—from repetitive tasks, returning them to their true added value: analysis and innovation."
 
