@@ -1,4 +1,4 @@
-```yaml
+---
 layout: post
 title: The Next Generation Radiotherapy QA Platform Revolutionizing Medical Physics
 subtitle: Unifying Automated Analysis, ANSM Compliance, and Python Intelligence for Medical Physicists
@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/radiotherapy_quality_control_saas_platform.png
 share-img: /assets/img/radiotherapy_quality_control_saas_platform.png
 tags: [Radiotherapy, Medical Physics, Quality Assurance, SaaS, Automation, Python, DICOM, ANSM, Healthcare Tech]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
-```
+---
 
 [![](/assets/img/radiotherapy_quality_control_saas_platform.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
 
