@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
@@ -9,7 +8,7 @@ share-img: /assets/img/kapt10-3.png
 tags: [AI, Technology, Robotics, CES, Innovation, Metaverse, Cybersecurity, Education, YouTube, China]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
-```
+
 # Top 10 Tech News of the Week
 
 ## 1. Mark Zuckerberg's Vision for Personal Super-Intelligences
