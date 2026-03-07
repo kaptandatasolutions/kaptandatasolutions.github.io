@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title: Boosting Your Local AI Agent's Smarts with CRAG and Streamlit
@@ -209,4 +208,3 @@ The combination of CRAG with a local RAG setup and a user-friendly Streamlit int
     </div>
 </body>
 </html>
-```
