@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title: "Transitioning from Software Engineer to AI Engineer A Comprehensive 8-Week Roadmap"
@@ -9,7 +8,6 @@ share-img: /assets/img/ai_engineer_transition_roadmap.png
 tags: ["AI Engineering", "Software Development", "Python", "LLMs", "Machine Learning", "Career Transition", "Tech Roadmap", "Soft Skills", "Cloud Computing"]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
-```
 
 [![](/assets/img/ai_engineer_transition_roadmap.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
 
