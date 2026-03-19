@@ -11,7 +11,7 @@ author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Autom
 
 [![](/assets/img/streamlit_app_packaging_workflow.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
 
-Many data scientists and developers leverage the power of Streamlit to create interactive web applications. However, distributing these applications to end-users, especially those without technical backgrounds, often presents challenges related to Python installations, dependency management, or Docker environments. This article details a robust method to convert Streamlit applications into standalone desktop executables, eliminating the need for Python, Docker, or internet downloads on the client machine. This is achieved through the innovative combination of Pyodide and Electron, facilitated by a library called "Estilite."
+Many data scientists and developers leverage the power of Streamlit to create interactive web applications. However, distributing these applications to end-users, especially those without technical backgrounds, often presents challenges related to Python installations, dependency management, or Docker environments. This article details a robust method to convert Streamlit applications into standalone desktop executables, eliminating the need for Python, Docker, or internet downloads on the client machine. This is achieved through the innovative combination of Pyodide and Electron, facilitated by a library called "Stlite (streamlit lite)."
 
 ### The Challenge of Streamlit Distribution
 
@@ -21,9 +21,9 @@ Imagine a scenario where you've built a fantastic Streamlit application, perhaps
 *   **Docker Requirement:** While Docker simplifies deployment, it introduces another layer of software that end-users might not have or want to install.
 *   **Internet Connection:** Many deployment methods require an active internet connection to download dependencies or run container images.
 
-### Introducing Estilite: The Game Changer
+### Introducing Stlite (streamlit lite): The Game Changer
 
-Estilite is a library that allows Streamlit applications to run in a web browser without a direct Python installation. It achieves this by utilizing Pyodide, a project that brings the Python scientific stack to the browser. Once your Streamlit app is "Pyodide-compiled," it can then be packaged into a desktop executable using Electron, a framework for building desktop applications with web technologies. This combination results in a user-friendly, double-click-to-run experience.
+Stlite (streamlit lite) is a library that allows Streamlit applications to run in a web browser without a direct Python installation. It achieves this by utilizing Pyodide, a project that brings the Python scientific stack to the browser. Once your Streamlit app is "Pyodide-compiled," it can then be packaged into a desktop executable using Electron, a framework for building desktop applications with web technologies. This combination results in a user-friendly, double-click-to-run experience.
 
 ### Step-by-Step Guide to Desktop Deployment
 
@@ -32,7 +32,7 @@ Let's walk through the process of transforming your Streamlit application into a
 #### Prerequisites
 
 Before you begin, ensure you have:
-*   **Node.js and npm:** Estilite relies on npm for package management. If you don't have it, install Node.js which includes npm.
+*   **Node.js and npm:** Stlite (streamlit lite) relies on npm for package management. If you don't have it, install Node.js which includes npm.
 *   **A Streamlit Application:** For this guide, we'll assume a multi-page Streamlit app with assets (like images or Lottie animations) loaded from local folders and a `requirements.txt` file listing external Python packages like `pandas` and `plotly`.
 
 #### Step 1: Project Structure and Dependencies
@@ -56,9 +56,9 @@ The `requirements.txt` file should list all your Python dependencies (e.g., `pan
 
 **Important Note on Python Packages:** Pyodide supports pure Python packages with wheels on PyPI. However, packages with C extensions (like `numpy`, `opencv`, `xgboost`) need to be recompiled for Pyodide. You can check the current list of supported and recompiled packages on the Pyodide website.
 
-#### Step 2: Initialize npm Project and Install Estilite
+#### Step 2: Initialize npm Project and Install Stlite (streamlit lite)
 
-1.  **Create `package.json`:** At the root of your project, create a file named `package.json`. Copy the content from the Estilite desktop README file into this `package.json`. This file will define your project's metadata and dependencies.
+1.  **Create `package.json`:** At the root of your project, create a file named `package.json`. Copy the content from the Stlite (streamlit lite) desktop README file into this `package.json`. This file will define your project's metadata and dependencies.
 
 2.  **Install npm Dependencies:** Open your terminal in the project root and run:
     ```bash
@@ -74,11 +74,11 @@ The `requirements.txt` file should list all your Python dependencies (e.g., `pan
     npm run dump -- streamlit_app_folder --packages plotly pandas streamlit-lottie --requirements requirements.txt
     ```
 
-    *   `streamlit_app_folder`: Replace this with the name of your folder containing the Streamlit application. Estilite currently expects a Streamlit app within a dedicated folder.
+    *   `streamlit_app_folder`: Replace this with the name of your folder containing the Streamlit application. Stlite (streamlit lite) currently expects a Streamlit app within a dedicated folder.
     *   `--packages`: Explicitly list any Python packages your app uses that need to be included in the Pyodide environment.
     *   `--requirements`: (Optional, but recommended) Use the `-R` or `--requirements` flag to point to your `requirements.txt` file. The dump command will then automatically parse and include these dependencies.
 
-    This command will create a new `build` folder. This folder contains your application code, external resources (like `pages` and `images`), the Estilite executable, and the Pyodide-compiled versions of your Python packages. Think of this `build` folder as a browser-compiled version of your Streamlit app. Remember that you'll need to re-run the `dump` command every time you make changes to your Streamlit app's source code.
+    This command will create a new `build` folder. This folder contains your application code, external resources (like `pages` and `images`), the Stlite (streamlit lite) executable, and the Pyodide-compiled versions of your Python packages. Think of this `build` folder as a browser-compiled version of your Streamlit app. Remember that you'll need to re-run the `dump` command every time you make changes to your Streamlit app's source code.
 
 #### Step 4: Test the Pyodide-Compiled Application
 
@@ -92,7 +92,7 @@ Before packaging, it's crucial to verify that the Pyodide-compiled version of yo
 
 2.  **Verify Functionality:** After running the `serve` command, a new window will pop up, loading your Streamlit application. This initial loading might take a few seconds as Pyodide initializes. Monitor the developer tools for any errors during this process.
 
-    *   **Troubleshooting:** If the app fails to load or encounters errors (a common issue can be a "freak out" moment!), ensure you are using the latest version of Estilite. Go back to your `package.json`, update the Estilite dependency version, delete your `node_modules` folder and `package-lock.json` (if present), run `npm install` again, and then re-run the `dump` and `serve` commands.
+    *   **Troubleshooting:** If the app fails to load or encounters errors (a common issue can be a "freak out" moment!), ensure you are using the latest version of Stlite (streamlit lite). Go back to your `package.json`, update the Stlite (streamlit lite) dependency version, delete your `node_modules` folder and `package-lock.json` (if present), run `npm install` again, and then re-run the `dump` and `serve` commands.
 
 #### Step 5: Package into an Electron Desktop App
 
