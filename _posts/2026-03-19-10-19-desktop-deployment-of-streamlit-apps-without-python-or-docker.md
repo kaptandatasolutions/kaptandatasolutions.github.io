@@ -3,13 +3,13 @@ layout: post
 title:  "Desktop Deployment of Streamlit Apps Without Python or Docker"
 subtitle: "Transforming Streamlit into standalone desktop applications for effortless distribution"  
 cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
-thumbnail-img: /assets/img/trimit_app_packaging_workflow.png
-share-img: /assets/img/trimit_app_packaging_workflow.png
+thumbnail-img: /assets/img/streamlit_app_packaging_workflow.png
+share-img: /assets/img/streamlit_app_packaging_workflow.png
 tags: ["Streamlit", "Pyodide", "Electron", "Desktop Apps", "Deployment", "Python", "No-install", "Web Technologies"]  
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
-[![](/assets/img/trimit_app_packaging_workflow.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
+[![](/assets/img/streamlit_app_packaging_workflow.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
 
 Many data scientists and developers leverage the power of Streamlit to create interactive web applications. However, distributing these applications to end-users, especially those without technical backgrounds, often presents challenges related to Python installations, dependency management, or Docker environments. This article details a robust method to convert Streamlit applications into standalone desktop executables, eliminating the need for Python, Docker, or internet downloads on the client machine. This is achieved through the innovative combination of Pyodide and Electron, facilitated by a library called "Estilite."
 
