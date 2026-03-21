@@ -19,7 +19,7 @@ The Image Test Generator is an intuitive web-based tool designed to create custo
 
 ## Step-by-Step Guide to Using the Image Test Generator
 
-To get started, navigate to the web application hosted on the platform's dedicated app site (e.g., `captan-data-solutionapp`). Once there, you'll find a collection of tools for medical physics.
+To get started, navigate to the web application hosted on the platform's dedicated app site (e.g., `kaptan-data-solutions.app`). Once there, you'll find a collection of tools for medical physics.
 
 Here's how to generate and use your custom test images:
 
