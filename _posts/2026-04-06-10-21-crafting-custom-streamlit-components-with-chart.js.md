@@ -9,7 +9,7 @@ tags: [Streamlit, Chart.js, Custom Components, Web Development, Data Visualizati
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
-![Cover Image for Crafting Custom Streamlit Components with Chart.js](/assets/img/crag_chatbot_local_spc_agent_cover1.png)
+![Cover Image for Crafting Custom Streamlit Components with Chart.js](/assets/img/streamlit_chartgs_component_development.png)
 
 Streamlit is a powerful framework for building interactive data applications in Python. While it offers a rich set of built-in components, sometimes you need something more custom to perfectly match your visualization needs. This guide delves into creating a custom Streamlit component that integrates with Chart.js, a popular JavaScript charting library, to render dynamic and aesthetically pleasing charts within your Streamlit apps.
 
