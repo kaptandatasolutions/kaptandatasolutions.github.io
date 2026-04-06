@@ -9,7 +9,7 @@ tags: [Medical Physics, QA, Open Source, Python, Beam Analysis, EPID, Python for
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
-[![](/assets/img/open_source_qa_tool_medical_physics.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
+[![](/assets/img/open_source_qa_tool_medical_physics_2.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
 
 In the demanding field of medical physics, quality assurance (QA) is paramount. Regularly analyzing beam parameters, field sizes, flatness, and symmetry is crucial for patient safety and treatment efficacy. While many commercial solutions exist, open-source tools offer an accessible and customizable alternative, especially for those new to programming with Python or seeking a deeper understanding of the underlying algorithms.
 
