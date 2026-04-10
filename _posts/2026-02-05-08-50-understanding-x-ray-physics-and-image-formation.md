@@ -1,4 +1,4 @@
----
+https://kaptan-data-solutions.app/---
 layout: post
 title:   Understanding X-ray Physics and Image Formation
 subtitle:   A Comprehensive Guide to X-ray Generation, Manipulation, and Detection

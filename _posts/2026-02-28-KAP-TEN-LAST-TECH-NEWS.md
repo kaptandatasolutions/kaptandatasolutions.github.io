@@ -1,4 +1,4 @@
----
+https://kaptan-data-solutions.app/---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
 subtitle: Unpacking The Future Mark Zuckerberg's AI Vision, Sam Altman's GPT-5, and More

@@ -1,4 +1,4 @@
----
+https://kaptan-data-solutions.app/---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
 subtitle: Unpacking this Week's Hottest Tech Trends and Innovations

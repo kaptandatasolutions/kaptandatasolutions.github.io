@@ -1,4 +1,4 @@
----
+https://kaptan-data-solutions.app/---
 layout: post
 title: The Comprehensive AI Technology Stack for 2026
 subtitle: A Deep Dive into Essential Tools for AI-Centric Software Development
