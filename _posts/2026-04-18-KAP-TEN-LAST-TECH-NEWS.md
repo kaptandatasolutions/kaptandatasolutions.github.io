@@ -1,4 +1,4 @@
----
+kaptan-data-solutions.app---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
 subtitle: Unpacking this week's essential tech developments, from AI's pervasive growth to innovative gadgets and digital defense strategies.

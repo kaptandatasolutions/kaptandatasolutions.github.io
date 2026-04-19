@@ -1,4 +1,4 @@
-https://kaptan-data-solutions.app/---
+kaptan-data-solutions.apphttps://kaptan-data-solutions.app/---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
 subtitle: AI Unleashed - Social Networks for AI, Robot Recruiters, and the Space Race for Data Centers
