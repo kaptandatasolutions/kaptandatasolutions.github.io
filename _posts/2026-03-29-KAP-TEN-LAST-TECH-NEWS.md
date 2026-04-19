@@ -1,4 +1,4 @@
-kaptan-data-solutions.apphttps://kaptan-data-solutions.app/---
+https://kaptan-data-solutions.app/kaptan-data-solutions.apphttps://kaptan-data-solutions.app/---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
 subtitle: Unveiling the Future Top 10 Tech Advancements and Insights

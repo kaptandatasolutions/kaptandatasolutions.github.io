@@ -1,4 +1,4 @@
-kaptan-data-solutions.apphttps://kaptan-data-solutions.app/---
+https://kaptan-data-solutions.app/kaptan-data-solutions.apphttps://kaptan-data-solutions.app/---
 layout: post
 title: The WISC Framework for AI Coding with Claude
 subtitle: Master context management and become a power user of AI coding assistants.

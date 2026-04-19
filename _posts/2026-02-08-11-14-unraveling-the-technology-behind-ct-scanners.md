@@ -1,4 +1,4 @@
-kaptan-data-solutions.apphttps://kaptan-data-solutions.app/---
+https://kaptan-data-solutions.app/kaptan-data-solutions.apphttps://kaptan-data-solutions.app/---
 layout: post
 title: Unraveling the Technology Behind CT Scanners
 subtitle: A Comprehensive Guide to Computed Tomography Principles and Components

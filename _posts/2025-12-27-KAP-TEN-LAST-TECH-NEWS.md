@@ -1,4 +1,4 @@
-kaptan-data-solutions.apphttps://kaptan-data-solutions.app/---
+https://kaptan-data-solutions.app/kaptan-data-solutions.apphttps://kaptan-data-solutions.app/---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
 subtitle: Unpacking the Hottest AI Developments, Robotics Innovations, and Future Tech Trends Shaping Our World

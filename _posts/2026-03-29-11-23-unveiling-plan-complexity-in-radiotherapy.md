@@ -1,4 +1,4 @@
-kaptan-data-solutions.apphttps://kaptan-data-solutions.app/---
+https://kaptan-data-solutions.app/kaptan-data-solutions.apphttps://kaptan-data-solutions.app/---
 layout: post
 title: Unveiling Plan Complexity in Radiotherapy
 subtitle: A How-To Guide to Quantifying Treatment Plan Complexity Before QA
