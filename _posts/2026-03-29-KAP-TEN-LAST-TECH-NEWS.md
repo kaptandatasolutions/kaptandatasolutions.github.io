@@ -140,7 +140,7 @@ Sven hosts video content from over 80 media partners, ranging from general news 
       #MedicalPhysics #Radiotherapy #LinacQA #DICOM #DataScience #Automation
     </div>
 
-    <p><a href="https://kaptandatasolutions.github.io/submit-project/">Request a quote</a></p>
+    <p><a href="https://www.kaptan-data-solutions.app/contact/">Request a quote</a></p>
     </div>
 </body>
 </html>

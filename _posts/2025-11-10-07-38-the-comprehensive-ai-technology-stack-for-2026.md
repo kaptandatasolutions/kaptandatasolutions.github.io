@@ -311,7 +311,7 @@ Remember to like and subscribe for more content on AI programming and agent deve
       #MedicalPhysics #Radiotherapy #LinacQA #DICOM #DataScience #Automation
     </div>
 
-    <p><a href="https://kaptandatasolutions.github.io/submit-project/">Request a quote</a></p>
+    <p><a href="https://www.kaptan-data-solutions.app/contact/">Request a quote</a></p>
         
         <p>Get in touch to discuss your specific requirements and discover how our tailor-made solutions can help you unlock the value of your data, make informed decisions, and boost operational performance!</p>
         
@@ -319,7 +319,7 @@ Remember to like and subscribe for more content on AI programming and agent deve
             #DataScience #Automation #Python #n8n #Streamlit #DataAnalysis #AI #Visualization
         </div>
         
-        <p><a href="https://kaptandatasolutions.github.io/submit-project/">Submit your project brief and receive a proposal</a></p>
+        <p><a href="https://www.kaptan-data-solutions.app/contact/">Submit your project brief and receive a proposal</a></p>
     </div>
 </body>
 </html>

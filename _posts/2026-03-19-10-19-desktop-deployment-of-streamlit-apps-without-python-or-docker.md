@@ -1,4 +1,4 @@
----
+https://www.kaptan-data-solutions.app/contact/---
 layout: post
 title:  "Desktop Deployment of Streamlit Apps Without Python or Docker"
 subtitle: "Transforming Streamlit into standalone desktop applications for effortless distribution"  

@@ -1,4 +1,4 @@
----
+https://www.kaptan-data-solutions.app/contact/---
 layout: post
 title: Unlock open claw's Full Potential - A Comprehensive Setup Guide
 subtitle: Master Automation and AI with Enhanced Skills and Secure Deployment

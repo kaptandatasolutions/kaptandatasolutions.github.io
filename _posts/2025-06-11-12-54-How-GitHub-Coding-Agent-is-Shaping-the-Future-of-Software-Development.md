@@ -1,4 +1,4 @@
----
+https://www.kaptan-data-solutions.app/contact/---
 layout: post
 title: Exploring AI-Powered Developer Tools - How GitHub’s Coding Agent is Shaping the Future of Software Development  
 subtitle: Understanding the Role of AI Agents in Coding, Collaboration, and Open Source Contributions  

@@ -120,7 +120,7 @@ Beyond its immediate applications, TED 2023 also delved into AI's role in defens
       #MedicalPhysics #Radiotherapy #LinacQA #DICOM #DataScience #Automation
     </div>
 
-    <p><a href="https://kaptandatasolutions.github.io/submit-project/">Request a quote</a></p>
+    <p><a href="https://www.kaptan-data-solutions.app/contact/">Request a quote</a></p>
     </div>
 </body>
 </html>

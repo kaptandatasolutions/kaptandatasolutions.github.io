@@ -1,4 +1,4 @@
----
+https://www.kaptan-data-solutions.app/contact/---
 layout: post
 title: The Pivotal Role of Medical Physicists in Radiation Dose Calculation
 subtitle: Ensuring Precision and Safety in Cancer Treatment

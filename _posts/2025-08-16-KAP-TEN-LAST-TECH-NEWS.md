@@ -1,4 +1,4 @@
----
+https://www.kaptan-data-solutions.app/contact/---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
 subtitle: Exploring the Latest in AI, Tech, and Digital Innovation

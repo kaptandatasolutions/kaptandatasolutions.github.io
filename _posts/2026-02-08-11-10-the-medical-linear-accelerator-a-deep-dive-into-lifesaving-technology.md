@@ -1,4 +1,4 @@
----
+https://www.kaptan-data-solutions.app/contact/---
 layout: post
 title: The Medical Linear Accelerator A Deep Dive into Lifesaving Technology
 subtitle: From historical breakthroughs to modern radiation therapy techniques, understand how LINACs revolutionize cancer treatment

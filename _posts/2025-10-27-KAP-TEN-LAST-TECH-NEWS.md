@@ -1,4 +1,4 @@
----
+https://www.kaptan-data-solutions.app/contact/---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
 subtitle: Unpacking Europe's tech sovereignty push, AI's rapid advancements, and Apple's latest hardware-software integrations.

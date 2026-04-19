@@ -121,7 +121,7 @@ Another innovative startup, Mom and Slab, showcased its advanced platform for in
       #MedicalPhysics #Radiotherapy #LinacQA #DICOM #DataScience #Automation
     </div>
 
-    <p><a href="https://kaptandatasolutions.github.io/submit-project/">Request a quote</a></p>
+    <p><a href="https://www.kaptan-data-solutions.app/contact/">Request a quote</a></p>
     </div>
 </body>
 </html>
