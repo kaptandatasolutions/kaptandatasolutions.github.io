@@ -1,4 +1,4 @@
-https://kaptan-data-solutions.app/---
+---
 layout: post
 title:  Mastering Claude Code for AI-Powered Development
 subtitle: A Comprehensive Guide to Building Applications and AI Agents with Claude Code

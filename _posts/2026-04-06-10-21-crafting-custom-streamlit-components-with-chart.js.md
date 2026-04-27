@@ -1,4 +1,4 @@
-https://kaptan-data-solutions.app/---
+---
 layout: post
 title: Crafting Custom Streamlit Components with Chart.js
 subtitle: A Step-by-Step Guide to Building Interactive Data Visualizations

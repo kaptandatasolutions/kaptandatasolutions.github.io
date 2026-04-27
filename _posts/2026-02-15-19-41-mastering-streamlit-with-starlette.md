@@ -1,4 +1,4 @@
-https://kaptan-data-solutions.app/kaptan-data-solutions.apphttps://kaptan-data-solutions.app/---
+---
 layout: post
 title: Mastering Streamlit with Starlette
 subtitle: Unleash the Full Potential of Your Data Apps with Advanced Backend Integration

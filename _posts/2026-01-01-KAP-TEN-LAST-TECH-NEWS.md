@@ -1,4 +1,4 @@
-https://kaptan-data-solutions.app/kaptan-data-solutions.apphttps://kaptan-data-solutions.app/---
+---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
 subtitle: Exploring Mark Zuckerberg's AI Vision, ChatGPT's New Study Mode, and Global Tech Trends from China to the CES

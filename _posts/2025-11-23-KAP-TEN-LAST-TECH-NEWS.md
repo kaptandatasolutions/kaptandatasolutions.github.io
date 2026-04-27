@@ -1,4 +1,4 @@
-https://kaptan-data-solutions.app/kaptan-data-solutions.apphttps://kaptan-data-solutions.app/---
+---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week
 subtitle: Unpacking Mark Zuckerberg's AI vision, the new ChatGPT Study mode, YouTube's youth detection, and China's robot boom

@@ -1,4 +1,4 @@
-https://kaptan-data-solutions.app/kaptan-data-solutions.apphttps://kaptan-data-solutions.app/---
+---
 layout: post
 title: The Future of AI Coding Orchestration with GitHub
 subtitle: Integrating and managing multiple AI coding assistants for enhanced development workflows
