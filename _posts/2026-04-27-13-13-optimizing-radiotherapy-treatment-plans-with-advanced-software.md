@@ -1,4 +1,4 @@
-```yaml
+---
 layout: post
 title: Optimizing Radiotherapy Treatment Plans with Advanced Software
 subtitle: Enhancing Cancer Treatment Evaluation through Comprehensive Data Analysis and Visualization
@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/medical_software_plan_evaluation_interface.png
 share-img: /assets/img/medical_software_plan_evaluation_interface.png
 tags: [Radiotherapy, Treatment Planning, Medical Physics, Quality Assurance, Data Analysis, Graphical Representation, Oncology, DVH, NTCP, TCP, UTP]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
-```
+---
 
 [![](/assets/img/medical_software_plan_evaluation_interface.png)](https://www.youtube.com/channel/UCWkX7E-ImVbf0O3ocAW51wg)
 
