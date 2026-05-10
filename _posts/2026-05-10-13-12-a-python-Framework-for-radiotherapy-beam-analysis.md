@@ -104,6 +104,14 @@ While this tool is optimized for the AERB's first-derivative inflection point me
 
 ---
 
+## Technical Validation and Algorithmic Precision
+
+The core of this Python framework is designed to deliver the specific metrics required by international QA protocols, particularly for Flattening Filter Free (FFF) beams. By implementing a first-derivative analysis, the script identifies the steepest slope of the beam profile to locate the exact inflection points. This method is superior to traditional thresholding for FFF beams, as it provides a mathematically rigorous definition of the field edges.
+
+>The tool outputs critical parameters including Field Size, Penumbra (Left/Right) calculated via the RDV-weighted method, and beam width indices at X90%, X75%, and X60%. These results allow for a comprehensive characterization of the beam's peak and energy stability. Furthermore, the inclusion of vendor-specific image processing (handling Elekta and Varian pixel inversions) ensures that the calculated results remain clinically accurate regardless of the acquisition hardware. By transforming raw DICOM or RF data into these standardized metrics, the script provides a direct, validated path to regulatory compliance and machine consistency.
+
+---
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
