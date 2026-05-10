@@ -96,6 +96,14 @@ By leveraging the **open-source Python ecosystem**, medical physics departments 
 
 ---
 
+## Global Standards and Regulatory Compliance
+
+While this tool is optimized for the AERB's first-derivative inflection point method, it is designed with the flexibility to meet various international standards. In the United States, quality assurance protocols are primarily guided by the AAPM (American Association of Physicists in Medicine), specifically the TG-142 report, which emphasizes longitudinal consistency and task-group-specific tolerances. In Europe, clinical practice aligns with the ESTRO and EFOMP guidelines, often following the IAEA TRS-398 protocol for dosimetry.
+
+>Regardless of the specific regulatory body—be it the ASN in France or the NRC in the USA—the core objective remains universal: ensuring the mechanical and dosimetric integrity of the linear accelerator. By automating the extraction of key parameters like penumbra and field size, this Python framework provides a transparent, reproducible bridge between these diverse international standards and daily clinical practice.
+
+---
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
