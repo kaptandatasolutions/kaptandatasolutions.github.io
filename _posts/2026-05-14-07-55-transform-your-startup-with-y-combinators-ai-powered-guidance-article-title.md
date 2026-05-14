@@ -1,4 +1,3 @@
-```yaml
 layout: post
 title: Transform Your Startup with Y Combinator's AI-Powered Guidance
 subtitle: Leverage Gest in Claude to Supercharge Your SaaS Development
@@ -7,7 +6,6 @@ thumbnail-img: /assets/img/yc_y_combinator_sas_office_hour_advice.png
 share-img: /assets/img/yc_y_combinator_sas_office_hour_advice.png
 tags: [AI, Startups, SaaS, Y Combinator, Claude, Development, Productivity, Entrepreneurship]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
-```
 
 ---
 
@@ -145,7 +143,8 @@ If you're a solo SaaS founder or a developer with startup ambitions, Gest is an 
 
     <p>
       <a href="https://kaptandatasolutions.github.io/">🌐 Explore all our medical-physics services and tech updates</a><br>
-      <a href="https://kaptan-data-solutions.app/">💻 Test our ready-to-use QA dashboards online</a>
+      <a href="https://kaptan-data-solutions.app/">💻 Test our ready-to-use QA dashboards online</a><br>
+      <a href="https://www.kaptan-data-solutions.app/upcoming_saas/">Our medical physics SaaS is coming soon — designed for radiation therapy, imaging, and nuclear medicine centers.</a>
     </p>
 
     <p><strong>Our expertise covers:</strong></p>
