@@ -3,13 +3,15 @@ layout: post
 title: An Introduction to Eclipse Scripting API, Coding in Medical Physics, and AI Integration
 subtitle: Exploring the Power of ESAPI for Automation and Enhanced Patient Care
 cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
-thumbnail-img: /assets/img/introduction_to_eclipse_scripting_api_coding_in_medical_physics.png
-share-img: /assets/img/introduction_to_eclipse_scripting_api_coding_in_medical_physics.png
+thumbnail-img: /assets/img/introduction_to_eclipse_scripting_api_coding_in_medical_physics1.png
+share-img: /assets/img/introduction_to_eclipse_scripting_api_coding_in_medical_physics1.png
 tags: [Eclipse, ESAPI, Medical Physics, Scripting, Automation, CSharp, Python, AI, Patient Care, Coding]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
 ---
 
 This article delves into the world of Eclipse Scripting API (ESAPI), a powerful tool designed to automate and enhance various aspects of medical physics. We'll explore what ESAPI is, why medical physicists should embrace coding, how to utilize the API, and even touch upon the revolutionary role of AI in simplifying the process.
+
+![Cover Image](/assets/img/introduction_to_eclipse_scripting_api_coding_in_medical_physics.png)
 
 ## The Essence of Coding: Talking to Computers
 
