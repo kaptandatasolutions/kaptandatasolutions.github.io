@@ -1,4 +1,4 @@
-https://www.kaptan-data-solutions.app/contact/---
+---
 layout: post
 title: Build Your Own AI Software Engineer Like Devin and Loveable
 subtitle: Learn how to create an agentic AI system that generates functional web applications from simple prompts, mirroring advanced AI software engineers

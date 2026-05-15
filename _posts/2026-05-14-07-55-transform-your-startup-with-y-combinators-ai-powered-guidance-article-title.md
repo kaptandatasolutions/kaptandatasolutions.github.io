@@ -1,3 +1,4 @@
+---
 layout: post
 title: Transform Your Startup with Y Combinator's AI-Powered Guidance
 subtitle: Leverage Gest in Claude to Supercharge Your SaaS Development
@@ -6,7 +7,6 @@ thumbnail-img: /assets/img/yc_y_combinator_sas_office_hour_advice.png
 share-img: /assets/img/yc_y_combinator_sas_office_hour_advice.png
 tags: [AI, Startups, SaaS, Y Combinator, Claude, Development, Productivity, Entrepreneurship]
 author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Automation
-
 ---
 
 ![Cover Image](/assets/img/yc_y_combinator_sas_office_hour_advice.png)

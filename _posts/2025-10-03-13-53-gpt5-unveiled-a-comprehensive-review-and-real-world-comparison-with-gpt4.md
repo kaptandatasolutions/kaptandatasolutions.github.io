@@ -1,4 +1,4 @@
-https://www.kaptan-data-solutions.app/contact/---
+---
 layout: post
 title: GPT5 Unveiled A Comprehensive Review and Real-World Comparison with GPT4
 subtitle: Exploring the speed, intelligence, and new capabilities of OpenAI's latest AI model

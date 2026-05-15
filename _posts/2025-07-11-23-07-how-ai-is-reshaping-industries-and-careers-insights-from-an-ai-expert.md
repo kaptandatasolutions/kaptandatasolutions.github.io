@@ -1,4 +1,4 @@
-https://www.kaptan-data-solutions.app/contact/---
+---
 layout: post
 title: How AI is Reshaping Industries and Careers Insights from an AI Expert
 subtitle: Exploring the transformative impact of artificial intelligence on jobs skills and business decisions

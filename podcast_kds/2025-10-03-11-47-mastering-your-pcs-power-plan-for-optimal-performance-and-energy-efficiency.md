@@ -1,4 +1,4 @@
-https://www.kaptan-data-solutions.app/contact/---
+---
 layout: post
 title: Mastering Your PC's Power Plan for Optimal Performance and Energy Efficiency
 subtitle: A comprehensive guide to understanding and configuring Windows power settings

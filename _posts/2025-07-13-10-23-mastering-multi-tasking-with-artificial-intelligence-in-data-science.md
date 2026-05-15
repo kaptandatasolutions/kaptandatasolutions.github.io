@@ -1,4 +1,4 @@
-https://www.kaptan-data-solutions.app/contact/---
+---
 layout: post
 title: Mastering Multi-Tasking with Artificial Intelligence in Data Science
 subtitle: A Comprehensive Guide to Boosting Productivity Through AI-Driven Workflows

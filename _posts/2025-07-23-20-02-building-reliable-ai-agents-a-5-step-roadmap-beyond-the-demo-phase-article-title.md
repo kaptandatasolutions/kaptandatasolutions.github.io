@@ -1,4 +1,4 @@
-https://www.kaptan-data-solutions.app/contact/---
+---
 layout: post
 title: Building Reliable AI Agents A 5-Step Roadmap Beyond the Demo Phase
 subtitle: Moving from Promising Prototypes to Production-Ready AI Systems

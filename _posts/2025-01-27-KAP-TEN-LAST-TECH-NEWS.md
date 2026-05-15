@@ -1,4 +1,4 @@
-https://www.kaptan-data-solutions.app/contact/---
+---
 layout: post
 title: KAP10 Weekly Update - Top 10 Tech News of the Week - AI in the Spotlight
 subtitle: Exploring the Stargate Project, OpenAI's Operator, Mistral AI, Samsung's Galaxy S25, and breakthroughs in AI energy efficiency

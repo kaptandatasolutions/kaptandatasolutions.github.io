@@ -1,4 +1,4 @@
-https://www.kaptan-data-solutions.app/contact/---
+---
 layout: post
 title: Unlock open claw's Full Potential - A Comprehensive Setup Guide
 subtitle: Master Automation and AI with Enhanced Skills and Secure Deployment
@@ -271,7 +271,8 @@ This completes the setup of your supercharged open claw, ready to tackle complex
 
     <p>
       <a href="https://kaptandatasolutions.github.io/">🌐 Explore all our medical-physics services and tech updates</a><br>
-      <a href="https://kaptan-data.streamlit.app/">💻 Test our ready-to-use QA dashboards online</a>
+      <a href="https://kaptan-data-solutions.app/">💻 Test our ready-to-use QA dashboards online</a><br>
+      <a href="https://www.kaptan-data-solutions.app/upcoming_saas/">Our medical physics SaaS is coming soon — designed for radiation therapy, imaging, and nuclear medicine centers.</a>
     </p>
 
     <p><strong>Our expertise covers:</strong></p>

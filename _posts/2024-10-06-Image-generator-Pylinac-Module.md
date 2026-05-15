@@ -1,4 +1,4 @@
-https://www.kaptan-data-solutions.app/contact/---
+---
 layout: post
 title: Simulate Medical Imaging for Quality Control with Customizable DICOM Test Images
 subtitle: Demo Available on Our Portfolio
