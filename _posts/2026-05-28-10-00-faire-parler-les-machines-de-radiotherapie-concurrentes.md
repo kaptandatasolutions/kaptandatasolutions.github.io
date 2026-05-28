@@ -11,9 +11,9 @@ author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Autom
 
 ## 🎧 Nouveau podcast : Faire parler les machines de radiothérapie concurrentes 🎧
 
-Dans un service de radiothérapie moderne, il est courant de trouver côte à côte des accélérateurs linéaires de fabricants différents — **Varian**, **Elekta**, **Siemens** — chacun avec son propre écosystème logiciel, ses formats propriétaires, ses exports DICOM légèrement divergents. Pour le physicien médical chargé du contrôle qualité, c'est un défi permanent : comment consolider les données, unifier les indicateurs de performance et maintenir un niveau de QA homogène sur une flotte hétérogène ?
+Dans un service de radiothérapie moderne, il est courant de trouver côte à côte des accélérateurs linéaires de fabricants différents — **PTW**, **IBA**, **SUN** — chacun avec son propre écosystème logiciel, ses formats propriétaires, ses exports DICOM légèrement divergents. Pour le physicien médical chargé du contrôle qualité, c'est un défi permanent : comment consolider les données, unifier les indicateurs de performance et maintenir un niveau de QA homogène sur une flotte hétérogène ?
 
-Dans ce nouvel épisode de podcast, **Kayhan Kaptan** — physicien médical expert en contrôle qualité, data science et automatisation — explore les stratégies concrètes pour **faire "parler" des machines concurrentes entre elles**. Formats de données, middleware, pipelines Python, dashboards unifiés : découvrez comment passer d'une tour de Babel technologique à une architecture QA cohérente et pérenne.
+Dans ce nouvel épisode de podcast, on explore les stratégies concrètes pour **faire "parler" des machines concurrentes entre elles**. Formats de données, middleware, pipelines Python, dashboards unifiés : découvrez comment passer d'une tour de Babel technologique à une architecture QA cohérente et pérenne.
 
 🎙️ **Au programme** : le standard DICOM-RT et ses limites, les extensions propriétaires qui cassent l'interopérabilité, les patterns d'intégration éprouvés, et comment des outils open-source comme **pylinac**, **pydicom** et **n8n** peuvent servir de pont universel entre des systèmes qui ne se parlent pas nativement.
 
