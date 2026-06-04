@@ -15,7 +15,7 @@ The recent release of GPT 5.4 Mini and Nano marks a significant shift in the lan
 
 ### The Rise of Sub-Agents and the "Sub-Agent Era"
 
-For years, the emphasis in LLM development has been on creating larger, more powerful models. However, a new trend is emerging: the development of smaller, faster, and cheaper models designed specifically to function as "sub-agents." Companies like Google with Gemini 3.1 Flash and Cloud Code are heavily investing in this area. This shift is driven by the need for intelligent, specialized units that can handle specific tasks efficiently without overwhelming the main LLM.
+For years, the emphasis in LLM development has been on creating larger, more powerful models. However, a new trend is emerging: the development of smaller, faster, and cheaper models designed specifically to function as "sub-agents." Companies like Google with Gemini 3.1 Flash and Claude Code are heavily investing in this area. This shift is driven by the need for intelligent, specialized units that can handle specific tasks efficiently without overwhelming the main LLM.
 
 #### Why Sub-Agents Matter
 
@@ -43,7 +43,7 @@ Sub-agents are revolutionizing various aspects of technical work, especially in 
 
 #### Step 1: Understand the Role of Your Main Agent
 
-Initially, your main coding agent (e.g., Cloud Code, Codex) should receive a high-level overview of your project. This provides it with the foundational context needed for its primary tasks. This initial priming avoids the need for sub-agents at this stage, as the context is manageable.
+Initially, your main coding agent (e.g., Claude Code, Codex) should receive a high-level overview of your project. This provides it with the foundational context needed for its primary tasks. This initial priming avoids the need for sub-agents at this stage, as the context is manageable.
 
 #### Step 2: Leverage Sub-Agents for Context Isolation and Research
 

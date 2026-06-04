@@ -41,7 +41,7 @@ Imagine you have discovered a bug in your project. Instead of manually fixing it
 
 The article outlines three distinct approaches to integrating AI coding assistants, each offering varying degrees of developer control and AI autonomy.
 
-#### 1. Hybrid Approach (Example with Cloud Code)
+#### 1. Hybrid Approach (Example with Claude Code)
 
 The hybrid approach involves a collaborative workflow where the AI performs certain tasks, while the developer retains control over critical decisions.
 
@@ -49,22 +49,22 @@ The hybrid approach involves a collaborative workflow where the AI performs cert
 
 1.  **Issue Creation:** A developer opens a GitHub issue (e.g., for a bug or a new feature).
 2.  **AI Invocation:** The developer comments with `@claude-fix` (or adds additional context regarding the desired fix).
-3.  **AI Processing:** Cloud Code, running within a temporary Docker environment, clones the repository, analyzes the code, and implements the fix.
-4.  **Developer Oversight:** Instead of automatically creating a pull request, Cloud Code adds a comment to the issue with a button to create the pull request. This allows the developer to review the proposed changes, iterate on the solution within the comments, and decide when to create the pull request.
+3.  **AI Processing:** Claude Code, running within a temporary Docker environment, clones the repository, analyzes the code, and implements the fix.
+4.  **Developer Oversight:** Instead of automatically creating a pull request, Claude Code adds a comment to the issue with a button to create the pull request. This allows the developer to review the proposed changes, iterate on the solution within the comments, and decide when to create the pull request.
 
 **Advantages:**
 *   **Validation:** Provides oversight and control for critical changes.
 *   **Iteration:** Facilitates direct interaction and refinement of AI-generated solutions.
 *   **Transparency:** Keeps the developer informed at every critical step.
 
-**Under the Hood (GitHub Actions for Cloud Code)**
+**Under the Hood (GitHub Actions for Claude Code)**
 
 *   **Trigger:** The workflow is triggered by an issue comment.
 *   **Security:** Only authorized users can invoke Claude, preventing unauthorized code changes.
 *   **Setup:** The workflow checks out the repository, creating an isolated environment.
 *   **Claude Invocation:** A pre-configured prompt (a reusable "slash command") is loaded, instructing Claude on how to approach the problem. This prompt can also reference global rules (e.g., from an `agents.md` file).
 *   **Branch Naming:** Branches for AI changes are automatically suffixed with the AI's name (e.g., `feature/claude-fix-branch`) for clear organization.
-*   **Official Action:** Anthropic's official GitHub Action for Cloud Code is used, simplifying integration. It requires a GitHub token (for commenting and PR creation) and a Claude Code authentication token (which can be an economical subscription token instead of an expensive API key).
+*   **Official Action:** Anthropic's official GitHub Action for Claude Code is used, simplifying integration. It requires a GitHub token (for commenting and PR creation) and a Claude Code authentication token (which can be an economical subscription token instead of an expensive API key).
 *   **Autonomy:** Claude Code handles branch creation, actual code changes, and commenting, making the workflow quite self-contained despite the hybrid human-in-the-loop validation step for PR creation.
 
 #### 2. Deterministic Approach (Example with Codeex)
@@ -75,7 +75,7 @@ This approach offers maximum control to the developer, with the AI solely focuse
 
 1.  **Issue Creation:** A developer opens an issue.
 2.  **AI Invocation:** The developer comments with `@codeex-fix`.
-3.  **Workflow-Driven Branching:** Unlike Cloud Code, the GitHub Actions workflow itself explicitly creates the feature branch.
+3.  **Workflow-Driven Branching:** Unlike Claude Code, the GitHub Actions workflow itself explicitly creates the feature branch.
 4.  **AI Coding:** Codeex is invoked to perform the code changes. Its interaction is limited to modifying code based on the provided instructions.
 5.  **Workflow-Driven PR Creation:** Once Codeex is done, the GitHub Actions workflow takes back control. It generates a summary of Codeex's changes, creates a pull request, and adds a comment to the issue linking to the pull request.
 
@@ -150,7 +150,7 @@ The GitHub Actions workflow files (YAML) for each integration are made available
 **2. Credentials:**
 *   Navigate to your GitHub repository's Settings -> Secrets and Variables -> Actions.
 *   **Cursor & OpenAI (Codeex):** Provide your API keys directly.
-*   **Cloud Code (Anthropic):** Use the `claude setup-token` command in your terminal to obtain a cost-effective subscription token, which can be stored as a secret in GitHub. This avoids the use of more expensive API keys.
+*   **Claude Code (Anthropic):** Use the `claude setup-token` command in your terminal to obtain a cost-effective subscription token, which can be stored as a secret in GitHub. This avoids the use of more expensive API keys.
 
 By embracing these orchestrated AI coding workflows within GitHub, developers can unlock a new era of efficiency, quality, and innovation in software development, allowing AI to handle the heavy lifting while maintaining human oversight where it matters most.
 

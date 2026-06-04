@@ -13,7 +13,7 @@ author: Kayhan Kaptan - Medical Physics, Quality Control, Data Science and Autom
 
 In today's fast-evolving tech landscape, the role of an engineer is shifting. It's no longer just about writing code, but about engaging in higher-leverage tasks like planning and validation. This article, based on a comprehensive workshop, demystifies AI coding assistance, offering a foundational, accessible system for reliable and repeatable results. Forget over-engineered frameworks; this approach focuses on core principles across three key phases: **Ideation, Iteration (the PIV Loop), and System Evolution**.
 
-This methodology is designed to be adaptable, working with various tools like Cloud Code, GitHub Copilot, Jira, Linear, or other work management platforms. The key is having a single place for work management and another for interacting with a large language model (LLM) to generate code.
+This methodology is designed to be adaptable, working with various tools like Claude Code, GitHub Copilot, Jira, Linear, or other work management platforms. The key is having a single place for work management and another for interacting with a large language model (LLM) to generate code.
 
 ## The Three Phases of AI-Assisted Coding
 
