@@ -145,8 +145,9 @@ This hybrid approach allows developers to build impressive proof-of-concepts and
     <p>Our mission: provide hospitals, cancer centers and dosimetry labs with powerful, intuitive and compliant tools that streamline beam-data acquisition, analysis and reporting.</p>
 
     <p>
-      <a href="https://kaptandatasolutions.github.io/">🌐 Explore all our medical-physics services and tech updates</a><br>
-      <a href="https://kaptan-data-solutions.app/">💻 Test our ready-to-use QA dashboards online</a>
+      <a href="https://kaptandatasolutions.github.io/">🌐 Explorez tous nos services et actualités tech</a><br>
+      <a href="https://kaptan-data-solutions.app/">💻 Testez nos dashboards QA en ligne</a><br>
+      <a href="https://www.kaptan-data-solutions.app/upcoming_saas/">Notre SaaS de physique médicale arrive bientôt — conçu pour la radiothérapie, l'imagerie et la médecine nucléaire.</a>
     </p>
 
     <p><strong>Our expertise covers:</strong></p>
