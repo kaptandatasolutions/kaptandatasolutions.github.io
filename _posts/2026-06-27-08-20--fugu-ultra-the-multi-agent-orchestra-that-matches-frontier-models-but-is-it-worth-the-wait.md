@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fugu Ultra: The Multi-Agent Orchestra That Matches Frontier Models – But Is It Worth the Wait?
+title: Fugu Ultra - The Multi-Agent Orchestra That Matches Frontier Models – But Is It Worth the Wait?
 subtitle: A hands-on test of Sikana's Fugu Ultra reveals speed and cost trade-offs vs. Claude Opus 4.8
 cover-img: /assets/img/crag_chatbot_local_spc_agent_cover1.png
 thumbnail-img: /assets/img/fugu_multi_agent_fish_illustration.png
